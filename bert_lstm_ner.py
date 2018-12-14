@@ -30,19 +30,15 @@ from lstm_crf_layer import BLSTM_CRF
 import tf_metrics
 import pickle
 
-os.environ['CUDA_VISIBLE_DEVICES'] = '3'
+os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 flags = tf.flags
 
 FLAGS = flags.FLAGS
 
-if os.name == 'nt':
-    bert_path = 'H:\迅雷下载\chinese_L-12_H-768_A-12\chinese_L-12_H-768_A-12'
-    root_path = r'C:\workspace\python\BERT-BiLSMT-CRF-NER'
-else:
-    bert_path = '/home/macan/ml/data/chinese_L-12_H-768_A-12/'
-    root_path = '/home/macan/ml/workspace/BERT-BiLSTM-CRF-NER'
+bert_path = 'uncased_L-24_H-1024_A-16/'
+root_path = ''
 
 flags.DEFINE_string(
     "data_dir", os.path.join(root_path, 'NERdata'),
@@ -81,9 +77,11 @@ flags.DEFINE_integer(
 
 flags.DEFINE_boolean('clean', True, 'remove the files which created by last training')
 
-flags.DEFINE_bool("do_train", True, "Whether to run training."
-)
+flags.DEFINE_bool("do_train", True, "Whether to run training.")
+
 flags.DEFINE_bool("use_tpu", False, "Whether to use TPU or GPU/CPU.")
+
+flags.DEFINE_string("tpu_name", "", "What is the TPU name.")
 
 flags.DEFINE_bool("do_eval", True, "Whether to run eval on the dev set.")
 
@@ -181,7 +179,7 @@ class DataProcessor(object):
             for line in f:
                 contends = line.strip()
                 tokens = contends.split(' ')
-                if len(tokens) == 2:
+                if len(tokens) > 2:
                     word = line.strip().split(' ')[0]
                     label = line.strip().split(' ')[-1]
                 else:
@@ -216,7 +214,7 @@ class NerProcessor(DataProcessor):
             self._read_data(os.path.join(data_dir, "test.txt")), "test")
 
     def get_labels(self):
-        return ["O", "B-PER", "I-PER", "B-ORG", "I-ORG", "B-LOC", "I-LOC", "X", "[CLS]", "[SEP]"]
+        return ["B-MISC", "I-MISC", "O", "B-PER", "I-PER", "B-ORG", "I-ORG", "B-LOC", "I-LOC", "X","[CLS]","[SEP]"]
 
     def _create_example(self, lines, set_type):
         examples = []
@@ -526,9 +524,9 @@ def model_fn_builder(bert_config, num_labels, init_checkpoint, learning_rate,
                 # crf 解码
 
                 weight = tf.sequence_mask(FLAGS.max_seq_length)
-                precision = tf_metrics.precision(label_ids, pred_ids, num_labels, [2, 3, 4, 5, 6, 7], weight)
-                recall = tf_metrics.recall(label_ids, pred_ids, num_labels, [2, 3, 4, 5, 6, 7], weight)
-                f = tf_metrics.f1(label_ids, pred_ids, num_labels, [2, 3, 4, 5, 6, 7], weight)
+                precision = tf_metrics.precision(label_ids, pred_ids, num_labels, [1,2,4,5,6,7,8,9], weight)
+                recall = tf_metrics.recall(label_ids, pred_ids, num_labels, [1,2,4,5,6,7,8,9], weight)
+                f = tf_metrics.f1(label_ids, pred_ids, num_labels, [1,2,4,5,6,7,8,9], weight)
 
                 return {
                     "eval_precision": precision,

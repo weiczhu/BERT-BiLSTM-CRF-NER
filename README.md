@@ -44,9 +44,9 @@ BiLSTM with CRF output layer
                   --do_eval=True   \
                   --do_predict=True
                   --data_dir=NERdata   \
-                  --vocab_file=checkpoint/vocab.txt  \ 
-                  --bert_config_file=checkpoint/bert_config.json \  
-                  --init_checkpoint=checkpoint/bert_model.ckpt   \
+                  --vocab_file=uncased_L-24_H-1024_A-16/vocab.txt  \ 
+                  --bert_config_file=uncased_L-24_H-1024_A-16/bert_config.json \  
+                  --init_checkpoint=uncased_L-24_H-1024_A-16/bert_model.ckpt   \
                   --max_seq_length=128   \
                   --train_batch_size=32   \
                   --learning_rate=2e-5   \
