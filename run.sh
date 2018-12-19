@@ -3,7 +3,7 @@ python3 bert_lstm_ner.py   \
                   --do_train=True   \
                   --do_eval=True   \
                   --do_predict=True \
-                  --data_dir=NERdata/ja   \
+                  --data_dir=NERdata/en   \
                   --vocab_file=multi_cased_L-12_H-768_A-12/vocab.txt  \
                   --bert_config_file=multi_cased_L-12_H-768_A-12/bert_config.json \
                   --init_checkpoint=multi_cased_L-12_H-768_A-12/bert_model.ckpt   \

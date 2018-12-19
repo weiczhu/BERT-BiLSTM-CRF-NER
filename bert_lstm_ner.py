@@ -165,7 +165,7 @@ class DataProcessor(object):
         """Gets a collection of `InputExample`s for the dev set."""
         raise NotImplementedError()
 
-    def get_labels(self):
+    def get_labels(self, data_dir):
         """Gets the list of labels for this data set."""
         raise NotImplementedError()
 
@@ -213,8 +213,17 @@ class NerProcessor(DataProcessor):
         return self._create_example(
             self._read_data(os.path.join(data_dir, "test.txt")), "test")
 
-    def get_labels(self):
-        return ["B-MISC", "I-MISC", "O", "B-PER", "I-PER", "B-ORG", "I-ORG", "B-LOC", "I-LOC", "X","[CLS]","[SEP]"]
+    def get_labels(self, data_dir):
+        train_examples = self._read_data(os.path.join(data_dir, "train.txt"))
+        labels = []
+        for lseq, _ in train_examples:
+            lseq_list = lseq.split(' ')
+            lseq_list = filter(lambda l: len(l) > 0, lseq_list)
+            labels.extend(lseq_list)
+        labels = list(set(labels))
+        labels.extend(["[CLS]", "[SEP]", "X"])
+        print("get_labels: {}".format(labels))
+        return labels
 
     def _create_example(self, lines, set_type):
         examples = []
@@ -449,7 +458,7 @@ def create_model(bert_config, is_training, input_ids, input_mask,
     return rst
 
 
-def model_fn_builder(bert_config, num_labels, init_checkpoint, learning_rate,
+def model_fn_builder(bert_config, label_list, num_labels, init_checkpoint, learning_rate,
                      num_train_steps, num_warmup_steps, use_tpu,
                      use_one_hot_embeddings):
     """
@@ -523,11 +532,13 @@ def model_fn_builder(bert_config, num_labels, init_checkpoint, learning_rate,
                 # 首先对结果进行维特比解码
                 # crf 解码
 
+                eval_labels = list(filter(lambda l: ("B-" in l) or ("I-" in l), label_list))
+                print("eval_labels: {}".format(eval_labels))
                 weight = tf.sequence_mask(FLAGS.max_seq_length)
                 accuracy = tf.metrics.accuracy(tf.boolean_mask(label_ids, weight), tf.boolean_mask(pred_ids, weight))
-                precision = tf_metrics.precision(label_ids, pred_ids, num_labels, [1,2,4,5,6,7,8,9], weight)
-                recall = tf_metrics.recall(label_ids, pred_ids, num_labels, [1,2,4,5,6,7,8,9], weight)
-                f = tf_metrics.f1(label_ids, pred_ids, num_labels, [1,2,4,5,6,7,8,9], weight)
+                precision = tf_metrics.precision(label_ids, pred_ids, num_labels, eval_labels, weight)
+                recall = tf_metrics.recall(label_ids, pred_ids, num_labels, eval_labels, weight)
+                f = tf_metrics.f1(label_ids, pred_ids, num_labels, eval_labels, weight)
 
                 return {
                     "eval_accuracy": accuracy,
@@ -600,7 +611,7 @@ def main(_):
         raise ValueError("Task not found: %s" % (task_name))
     processor = processors[task_name]()
 
-    label_list = processor.get_labels()
+    label_list = processor.get_labels(FLAGS.data_dir)
 
     tokenizer = tokenization.FullTokenizer(
         vocab_file=FLAGS.vocab_file, do_lower_case=FLAGS.do_lower_case)
@@ -649,6 +660,7 @@ def main(_):
     # tf 新的架构方法，通过定义model_fn 函数，定义模型，然后通过EstimatorAPI进行模型的其他工作，Es就可以控制模型的训练，预测，评估工作等。
     model_fn = model_fn_builder(
         bert_config=bert_config,
+        label_list=label_list,
         num_labels=len(label_list) + 1,
         init_checkpoint=FLAGS.init_checkpoint,
         learning_rate=FLAGS.learning_rate,
@@ -800,7 +812,7 @@ def main(_):
 
 def load_data():
     processer = NerProcessor()
-    processer.get_labels()
+    processer.get_labels(FLAGS.data_dir)
     example = processer.get_train_examples(FLAGS.data_dir)
     print()
 if __name__ == "__main__":
