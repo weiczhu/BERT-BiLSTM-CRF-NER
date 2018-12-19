@@ -524,11 +524,13 @@ def model_fn_builder(bert_config, num_labels, init_checkpoint, learning_rate,
                 # crf 解码
 
                 weight = tf.sequence_mask(FLAGS.max_seq_length)
+                accuracy = tf.metrics.accuracy(tf.boolean_mask(label_ids, weight), tf.boolean_mask(pred_ids, weight))
                 precision = tf_metrics.precision(label_ids, pred_ids, num_labels, [1,2,4,5,6,7,8,9], weight)
                 recall = tf_metrics.recall(label_ids, pred_ids, num_labels, [1,2,4,5,6,7,8,9], weight)
                 f = tf_metrics.f1(label_ids, pred_ids, num_labels, [1,2,4,5,6,7,8,9], weight)
 
                 return {
+                    "eval_accuracy": accuracy,
                     "eval_precision": precision,
                     "eval_recall": recall,
                     "eval_f": f,

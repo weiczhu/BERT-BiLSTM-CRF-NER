@@ -66,7 +66,7 @@ def evaluate(iterable, options=None):
         options = parse_args([])    # use defaults
 
     counts = EvalCounts()
-    num_features = None       # number of features per line
+    num_features = 3       # number of features per line
     in_correct = False        # currently processed chunks is correct until now
     last_correct = 'O'        # previous chunk tag in corpus
     last_correct_type = ''    # type of previously identified chunk tag
