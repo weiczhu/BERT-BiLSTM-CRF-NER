@@ -12,23 +12,21 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
+import codecs
 import collections
-import os
 import json
-import logging
-
+import os
+import pickle
+import time
 
 import tensorflow as tf
-import codecs
 from tensorflow.contrib.layers.python.layers import initializers
-from tensorflow.contrib import estimator
+
+import tf_metrics
 from bert import modeling
 from bert import optimization
 from bert import tokenization
 from lstm_crf_layer import BLSTM_CRF
-
-import tf_metrics
-import pickle
 
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
@@ -39,8 +37,6 @@ FLAGS = flags.FLAGS
 
 bert_path = 'uncased_L-24_H-1024_A-16/'
 root_path = ''
-
-column_sep = '\t'
 
 flags.DEFINE_string(
     "data_dir", os.path.join(root_path, 'NERdata'),
@@ -125,7 +121,7 @@ flags.DEFINE_integer('lstm_size', 128, 'size of lstm units')
 flags.DEFINE_integer('num_layers', 1, 'number of rnn layers, default is 1')
 flags.DEFINE_string('cell', 'lstm', 'which rnn cell used')
 
-
+flags.DEFINE_string("column_sep", " ", "The column separator for the corpus")
 
 
 class InputExample(object):
@@ -144,6 +140,7 @@ class InputExample(object):
         self.guid = guid
         self.text = text
         self.label = label
+
 
 class InputFeatures(object):
     """A single set of features of data."""
@@ -180,10 +177,10 @@ class DataProcessor(object):
             labels = []
             for line in f:
                 contends = line.strip()
-                tokens = contends.split(column_sep)
+                tokens = contends.split(FLAGS.column_sep)
                 if len(tokens) > 2:
-                    word = line.strip().split(column_sep)[0]
-                    label = line.strip().split(column_sep)[-1]
+                    word = line.strip().split(FLAGS.column_sep)[0]
+                    label = line.strip().split(FLAGS.column_sep)[-1]
                 else:
                     if len(contends) == 0:
                         l = ' '.join([label for label in labels if len(label) > 0])
@@ -222,7 +219,7 @@ class NerProcessor(DataProcessor):
             lseq_list = lseq.split(' ')
             lseq_list = filter(lambda l: len(l) > 0, lseq_list)
             labels.extend(lseq_list)
-        labels = list(set(labels))
+        labels = sorted(list(set(labels)))
         labels.extend(["[CLS]", "[SEP]"])
         print("get_labels: {}".format(labels))
         return labels
@@ -454,7 +451,8 @@ def create_model(bert_config, is_training, input_ids, input_mask,
     used = tf.sign(tf.abs(input_ids))
     lengths = tf.reduce_sum(used, reduction_indices=1)  # [batch_size] 大小的向量，包含了当前batch中的序列长度
 
-    blstm_crf = BLSTM_CRF(embedded_chars=embedding, hidden_unit=FLAGS.lstm_size, cell_type=FLAGS.cell, num_layers=FLAGS.num_layers,
+    blstm_crf = BLSTM_CRF(embedded_chars=embedding, hidden_unit=FLAGS.lstm_size, cell_type=FLAGS.cell,
+                          num_layers=FLAGS.num_layers,
                           dropout_rate=FLAGS.droupout_rate, initializers=initializers, num_labels=num_labels,
                           seq_length=max_seq_length, labels=labels, lengths=lengths, is_training=is_training)
     rst = blstm_crf.add_blstm_crf_layer(crf_only=False)
@@ -514,12 +512,12 @@ def model_fn_builder(bert_config, label_list, num_labels, init_checkpoint, learn
         tf.logging.info("**** Trainable Variables ****")
 
         # 打印加载模型的参数
-#         for var in tvars:
-#             init_string = ""
-#             if var.name in initialized_variable_names:
-#                 init_string = ", *INIT_FROM_CKPT*"
-#             tf.logging.info("  name = %s, shape = %s%s", var.name, var.shape,
-#                             init_string)
+        #         for var in tvars:
+        #             init_string = ""
+        #             if var.name in initialized_variable_names:
+        #                 init_string = ", *INIT_FROM_CKPT*"
+        #             tf.logging.info("  name = %s, shape = %s%s", var.name, var.shape,
+        #                             init_string)
         output_spec = None
         if mode == tf.estimator.ModeKeys.TRAIN:
             train_op = optimization.create_optimizer(
@@ -541,13 +539,11 @@ def model_fn_builder(bert_config, label_list, num_labels, init_checkpoint, learn
                         eval_label_ids.append(idx)
                 print("eval_label_ids: {}".format(eval_label_ids))
                 weight = tf.sequence_mask(FLAGS.max_seq_length)
-                accuracy = tf.metrics.accuracy(tf.boolean_mask(label_ids, weight), tf.boolean_mask(pred_ids, weight))
                 precision = tf_metrics.precision(label_ids, pred_ids, num_labels, eval_label_ids, weight)
                 recall = tf_metrics.recall(label_ids, pred_ids, num_labels, eval_label_ids, weight)
                 f = tf_metrics.f1(label_ids, pred_ids, num_labels, eval_label_ids, weight)
 
                 return {
-                    "eval_accuracy": accuracy,
                     "eval_precision": precision,
                     "eval_recall": recall,
                     "eval_f": f,
@@ -577,8 +573,8 @@ def main(_):
     processors = {
         "ner": NerProcessor
     }
-#     if not FLAGS.do_train and not FLAGS.do_eval:
-#         raise ValueError("At least one of `do_train` or `do_eval` must be True.")
+    #     if not FLAGS.do_train and not FLAGS.do_eval:
+    #         raise ValueError("At least one of `do_train` or `do_eval` must be True.")
 
     bert_config = modeling.BertConfig.from_json_file(FLAGS.bert_config_file)
 
@@ -599,6 +595,7 @@ def main(_):
                         del_file(c_path)
                     else:
                         os.remove(c_path)
+
             try:
                 del_file(FLAGS.output_dir)
             except Exception as e:
@@ -703,7 +700,9 @@ def main(_):
             seq_length=FLAGS.max_seq_length,
             is_training=True,
             drop_remainder=True)
+        print("start train time: {}".format(time.time()))
         estimator.train(input_fn=train_input_fn, max_steps=num_train_steps)
+        print("done train time: {}".format(time.time()))
     if FLAGS.do_eval:
         if data_config.get('eval.tf_record_path', '') == '':
             eval_examples = processor.get_dev_examples(FLAGS.data_dir)
@@ -729,7 +728,9 @@ def main(_):
             seq_length=FLAGS.max_seq_length,
             is_training=False,
             drop_remainder=eval_drop_remainder)
+        print("start evaluate time: {}".format(time.time()))
         result = estimator.evaluate(input_fn=eval_input_fn, steps=eval_steps)
+        print("done evaluate time: {}".format(time.time()))
         output_eval_file = os.path.join(FLAGS.output_dir, "eval_results.txt")
         with codecs.open(output_eval_file, "w", encoding='utf-8') as writer:
             tf.logging.info("***** Eval results *****")
@@ -821,12 +822,14 @@ def load_data():
     processer.get_labels(FLAGS.data_dir)
     example = processer.get_train_examples(FLAGS.data_dir)
     print()
+
+
 if __name__ == "__main__":
-#     flags.mark_flag_as_required("data_dir")
-#     flags.mark_flag_as_required("task_name")
-#     flags.mark_flag_as_required("vocab_file")
-#     flags.mark_flag_as_required("bert_config_file")
-#     flags.mark_flag_as_required("output_dir")
+    #     flags.mark_flag_as_required("data_dir")
+    #     flags.mark_flag_as_required("task_name")
+    #     flags.mark_flag_as_required("vocab_file")
+    #     flags.mark_flag_as_required("bert_config_file")
+    #     flags.mark_flag_as_required("output_dir")
     # flags.FLAGS.set_default('do_train', False)
     # flags.FLAGS.set_default('do_eval', False)
     # flags.FLAGS.set_default('do_predict', True)

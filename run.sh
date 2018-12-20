@@ -4,6 +4,7 @@ python3 bert_lstm_ner.py   \
                   --do_eval=True   \
                   --do_predict=True \
                   --data_dir=NERdata/ja   \
+                  --column_sep="\t"
                   --vocab_file=multi_cased_L-12_H-768_A-12/vocab.txt  \
                   --bert_config_file=multi_cased_L-12_H-768_A-12/bert_config.json \
                   --init_checkpoint=multi_cased_L-12_H-768_A-12/bert_model.ckpt   \
@@ -11,4 +12,5 @@ python3 bert_lstm_ner.py   \
                   --train_batch_size=16   \
                   --learning_rate=2e-5   \
                   --num_train_epochs=3   \
+                  --save_checkpoints_steps=200  \
                   --output_dir=./output/result_dir/
