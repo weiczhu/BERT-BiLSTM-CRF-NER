@@ -40,6 +40,8 @@ FLAGS = flags.FLAGS
 bert_path = 'uncased_L-24_H-1024_A-16/'
 root_path = ''
 
+column_sep = '\t'
+
 flags.DEFINE_string(
     "data_dir", os.path.join(root_path, 'NERdata'),
     "The input datadir.",
@@ -178,10 +180,10 @@ class DataProcessor(object):
             labels = []
             for line in f:
                 contends = line.strip()
-                tokens = contends.split(' ')
+                tokens = contends.split(column_sep)
                 if len(tokens) > 2:
-                    word = line.strip().split(' ')[0]
-                    label = line.strip().split(' ')[-1]
+                    word = line.strip().split(column_sep)[0]
+                    label = line.strip().split(column_sep)[-1]
                 else:
                     if len(contends) == 0:
                         l = ' '.join([label for label in labels if len(label) > 0])
@@ -221,7 +223,7 @@ class NerProcessor(DataProcessor):
             lseq_list = filter(lambda l: len(l) > 0, lseq_list)
             labels.extend(lseq_list)
         labels = list(set(labels))
-        labels.extend(["[CLS]", "[SEP]", "X"])
+        labels.extend(["[CLS]", "[SEP]"])
         print("get_labels: {}".format(labels))
         return labels
 
@@ -285,7 +287,8 @@ def convert_single_example(ex_index, example, label_list, max_seq_length, tokeni
             if m == 0:
                 labels.append(label_1)
             else:  # 一般不会出现else
-                labels.append("X")
+                print("tokenizer word: {}, token: {} label: {}".format(word, token, label_1))
+                labels.append(label_1.replace("B-", "I-"))
     # tokens = tokenizer.tokenize(example.text)
     # 序列截断
     if len(tokens) >= max_seq_length - 1:
@@ -532,13 +535,16 @@ def model_fn_builder(bert_config, label_list, num_labels, init_checkpoint, learn
                 # 首先对结果进行维特比解码
                 # crf 解码
 
-                eval_labels = list(filter(lambda l: ("B-" in l) or ("I-" in l), label_list))
-                print("eval_labels: {}".format(eval_labels))
+                eval_label_ids = []
+                for idx, label in enumerate(label_list):
+                    if ("B-" in label) or ("I-" in label):
+                        eval_label_ids.append(idx)
+                print("eval_label_ids: {}".format(eval_label_ids))
                 weight = tf.sequence_mask(FLAGS.max_seq_length)
                 accuracy = tf.metrics.accuracy(tf.boolean_mask(label_ids, weight), tf.boolean_mask(pred_ids, weight))
-                precision = tf_metrics.precision(label_ids, pred_ids, num_labels, eval_labels, weight)
-                recall = tf_metrics.recall(label_ids, pred_ids, num_labels, eval_labels, weight)
-                f = tf_metrics.f1(label_ids, pred_ids, num_labels, eval_labels, weight)
+                precision = tf_metrics.precision(label_ids, pred_ids, num_labels, eval_label_ids, weight)
+                recall = tf_metrics.recall(label_ids, pred_ids, num_labels, eval_label_ids, weight)
+                f = tf_metrics.f1(label_ids, pred_ids, num_labels, eval_label_ids, weight)
 
                 return {
                     "eval_accuracy": accuracy,
