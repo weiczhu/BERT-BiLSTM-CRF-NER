@@ -3,9 +3,9 @@
 """
 Copyright 2018 The Google AI Language Team Authors.
 BASED ON Google_BERT.
-reference from :zhoukaiyin/
+reference from :Macan/
 
-@Author:Macan
+@Author:weiczhu
 """
 
 from __future__ import absolute_import
@@ -220,7 +220,7 @@ class NerProcessor(DataProcessor):
             lseq_list = filter(lambda l: len(l) > 0, lseq_list)
             labels.extend(lseq_list)
         labels = sorted(list(set(labels)))
-        labels.extend(["[CLS]", "[SEP]"])
+        labels.extend(["X", "[CLS]", "[SEP]"])
         print("get_labels: {}".format(labels))
         return labels
 
@@ -285,7 +285,8 @@ def convert_single_example(ex_index, example, label_list, max_seq_length, tokeni
                 labels.append(label_1)
             else:  # 一般不会出现else
                 print("tokenizer word: {}, token: {} label: {}".format(word, token, label_1))
-                labels.append(label_1.replace("B-", "I-"))
+                # labels.append(label_1.replace("B-", "I-"))
+                labels.append("X")
     # tokens = tokenizer.tokenize(example.text)
     # 序列截断
     if len(tokens) >= max_seq_length - 1:
@@ -455,7 +456,7 @@ def create_model(bert_config, is_training, input_ids, input_mask,
                           num_layers=FLAGS.num_layers,
                           dropout_rate=FLAGS.droupout_rate, initializers=initializers, num_labels=num_labels,
                           seq_length=max_seq_length, labels=labels, lengths=lengths, is_training=is_training)
-    rst = blstm_crf.add_blstm_crf_layer(crf_only=False)
+    rst = blstm_crf.add_blstm_crf_layer(crf_only=True)
     return rst
 
 
@@ -534,8 +535,8 @@ def model_fn_builder(bert_config, label_list, num_labels, init_checkpoint, learn
                 # crf 解码
 
                 eval_label_ids = []
-                for idx, label in enumerate(label_list):
-                    if ("B-" in label) or ("I-" in label):
+                for idx, label in enumerate(label_list, 1):
+                    if ("B-" in label) or ("I-" in label) or ("X" == label):
                         eval_label_ids.append(idx)
                 print("eval_label_ids: {}".format(eval_label_ids))
                 weight = tf.sequence_mask(FLAGS.max_seq_length)
