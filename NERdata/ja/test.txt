@@ -1,5432 +1,1797 @@
-板	O
-金	O
-加	O
-工	O
-や	O
-溶	O
-接	O
-作	O
-業	O
-を	O
-し	O
-た	O
-際	O
-、	O
-配	O
-管	O
-な	O
-ど	O
-の	O
-材	O
-料	O
-か	O
-ら	O
-石	O
-綿	O
-が	O
-飛	O
-び	O
-散	O
-っ	O
-た	O
-も	O
-の	O
-と	O
-見	O
-ら	O
-れ	O
-て	O
-お	O
-り	O
-、	O
-そ	O
-の	O
-内	O
-の	O
-1	O
-人	O
-は	O
-労	O
-働	O
-災	O
-害	O
-認	O
-定	O
-を	O
-受	O
-け	O
-た	O
-。	O
-
-ア	O
-ス	O
-ベ	O
-ス	O
-ト	O
-は	O
-主	O
-と	O
-し	O
-て	O
-1	B-DAT
-9	I-DAT
-6	I-DAT
-0	I-DAT
-年	I-DAT
-代	I-DAT
-よ	O
-り	O
-建	O
-築	O
-資	O
-材	O
-と	O
-し	O
-て	O
-多	O
-用	O
-さ	O
-れ	O
-始	O
-め	O
-、	O
-耐	O
-熱	O
-性	O
-な	O
-ど	O
-に	O
-優	O
-れ	O
-た	O
-商	O
-品	O
-と	O
-し	O
-て	O
-注	O
-目	O
-さ	O
-れ	O
-た	O
-が	O
-、	O
-繊	O
-維	O
-を	O
-吸	O
-い	O
-込	O
-ん	O
-で	O
-し	O
-ま	O
-う	O
-と	O
-肺	O
-・	O
-心	O
-臓	O
-な	O
-ど	O
-に	O
-悪	O
-影	O
-響	O
-を	O
-及	O
-ぼ	O
-し	O
-、	O
-1	B-DAT
-9	I-DAT
-7	I-DAT
-0	I-DAT
-年	I-DAT
-代	I-DAT
-に	O
-入	O
-る	O
-と	O
-商	O
-品	O
-の	O
-製	O
-造	O
-や	O
-解	O
-体	O
-現	O
-場	O
-で	O
-そ	O
-れ	O
-が	O
-引	O
-き	O
-金	O
-と	O
-な	O
-っ	O
-た	O
-労	O
-働	O
-災	O
-害	O
-が	O
-相	O
-次	O
-い	O
-た	O
-。	O
-
-特	O
-に	O
-発	O
-が	O
-ん	O
-性	O
-が	O
-高	O
-い	O
-と	O
-指	O
-摘	O
-さ	O
-れ	O
-て	O
-き	O
-た	O
-青	O
-石	O
-綿	O
-、	O
-茶	O
-石	O
-綿	O
-は	O
-1	B-DAT
-9	I-DAT
-9	I-DAT
-5	I-DAT
-年	I-DAT
-、	O
-白	O
-石	O
-綿	O
-も	O
-2	B-DAT
-0	I-DAT
-0	I-DAT
-4	I-DAT
-年	I-DAT
-か	O
-ら	O
-使	O
-用	O
-が	O
-禁	O
-止	O
-さ	O
-れ	O
-た	O
-。	O
-
-し	O
-か	O
-し	O
-、	O
-吸	O
-い	O
-込	O
-ん	O
-で	O
-か	O
-ら	O
-健	O
-康	O
-被	O
-害	O
-を	O
-引	O
-き	O
-起	O
-こ	O
-す	O
-に	O
-は	O
-数	O
-十	O
-年	O
-か	O
-か	O
-る	O
-と	O
-さ	O
-れ	O
-て	O
-い	O
-る	O
-。	O
-
-天	O
-然	O
-に	O
-産	O
-出	O
-す	O
-る	O
-繊	O
-維	O
-状	O
-の	O
-鉱	O
-物	O
-・	O
-ア	O
-ス	O
-ベ	O
-ス	O
-ト	O
-（	O
-石	O
-綿	O
-）	O
-に	O
-よ	O
-る	O
-健	O
-康	O
-被	O
-害	O
-は	O
-近	O
-年	O
-相	O
-次	O
-い	O
-で	O
-指	O
-摘	O
-さ	O
-れ	O
-て	O
-い	O
-る	O
-。	O
-
-大	B-ART
-阪	I-ART
-日	I-ART
-々	I-ART
-新	I-ART
-聞	I-ART
-の	O
-調	O
-べ	O
-に	O
-よ	O
-れ	O
-ば	O
-、	O
-2	B-DAT
-0	I-DAT
-0	I-DAT
-5	I-DAT
-年	I-DAT
-6	I-DAT
-月	I-DAT
-以	O
-後	O
-、	O
-全	O
-国	O
-の	O
-主	O
-と	O
-し	O
-て	O
-建	O
-設	O
-会	O
-社	O
-、	O
-工	O
-業	O
-機	O
-械	O
-会	O
-社	O
-を	O
-中	O
-心	O
-と	O
-し	O
-て	O
-全	O
-国	O
-の	O
-4	O
-9	O
-の	O
-会	O
-社	O
-・	O
-4	O
-9	O
-0	O
-人	O
-の	O
-従	O
-業	O
-員	O
-が	O
-ア	O
-ス	O
-ベ	O
-ス	O
-ト	O
-被	O
-害	O
-に	O
-よ	O
-り	O
-死	O
-亡	O
-が	O
-確	O
-認	O
-さ	O
-れ	O
-、	O
-そ	O
-の	O
-多	O
-く	O
-は	O
-中	O
-皮	O
-腫	O
-、	O
-肺	O
-が	O
-ん	O
-、	O
-ジ	O
-ン	O
-肺	O
-な	O
-ど	O
-で	O
-あ	O
-る	O
-。	O
-
-特	O
-に	O
-線	O
-状	O
-の	O
-鉱	O
-物	O
-繊	O
-維	O
-で	O
-直	O
-径	O
-が	O
-髪	O
-の	O
-毛	O
-の	O
-数	O
-千	O
-分	O
-の	O
-一	O
-に	O
-も	O
-及	O
-ぶ	O
-た	O
-め	O
-、	O
-そ	O
-れ	O
-ら	O
-の	O
-原	O
-因	O
-・	O
-病	O
-状	O
-が	O
-特	O
-定	O
-で	O
-き	O
-な	O
-い	O
-こ	O
-と	O
-、	O
-ま	O
-た	O
-そ	O
-れ	O
-を	O
-治	O
-癒	O
-す	O
-る	O
-た	O
-め	O
-の	O
-決	O
-定	O
-的	O
-な	O
-治	O
-療	O
-法	O
-が	O
-見	O
-当	O
-た	O
-ら	O
-な	O
-い	O
-の	O
-も	O
-被	O
-害	O
-者	O
-を	O
-多	O
-く	O
-し	O
-て	O
-い	O
-る	O
-こ	O
-と	O
-の	O
-要	O
-因	O
-と	O
-さ	O
-れ	O
-る	O
-。	O
-
-7	B-DAT
-月	I-DAT
-2	I-DAT
-1	I-DAT
-日	I-DAT
-付	O
-ウ	B-ART
-ィ	I-ART
-キ	I-ART
-ペ	I-ART
-デ	I-ART
-ィ	I-ART
-ア	I-ART
-日	O
-本	O
-語	O
-版	O
-に	O
-よ	O
-れ	O
-ば	O
-、	O
-建	O
-設	O
-業	O
-関	O
-連	O
-の	O
-夢	B-ORG
-真	I-ORG
-ホ	I-ORG
-ー	I-ORG
-ル	I-ORG
-デ	I-ORG
-ィ	I-ORG
-ン	I-ORG
-グ	I-ORG
-ス	I-ORG
-（	O
-ヘ	O
-ラ	O
-ク	O
-レ	O
-ス	O
-上	O
-場	O
-）	O
-は	O
-7	B-DAT
-月	I-DAT
-2	I-DAT
-0	I-DAT
-日	I-DAT
-、	O
-建	O
-設	O
-コ	O
-ン	O
-サ	O
-ル	O
-テ	O
-ィ	O
-ン	O
-グ	O
-の	O
-日	B-ORG
-本	I-ORG
-技	I-ORG
-術	I-ORG
-開	I-ORG
-発	I-ORG
-（	O
-ジ	O
-ャ	O
-ス	O
-ダ	O
-ッ	O
-ク	O
-上	O
-場	O
-）	O
-に	O
-対	O
-す	O
-る	O
-株	O
-式	O
-公	O
-開	O
-買	O
-い	O
-付	O
-け	O
-（	O
-T	O
-O	O
-B	O
-）	O
-に	O
-関	O
-す	O
-る	O
-届	O
-け	O
-出	O
-を	O
-関	B-ORG
-東	I-ORG
-財	I-ORG
-務	I-ORG
-局	I-ORG
-に	O
-提	O
-出	O
-し	O
-、	O
-T	O
-O	O
-B	O
-を	O
-開	O
-始	O
-し	O
-た	O
-。	O
-
-買	O
-収	O
-防	O
-衛	O
-策	O
-を	O
-打	O
-ち	O
-出	O
-し	O
-た	O
-企	O
-業	O
-へ	O
-の	O
-T	O
-O	O
-B	O
-は	O
-日	B-LOC
-本	I-LOC
-で	O
-初	O
-め	O
-て	O
-。	O
-
-日	B-ORG
-本	I-ORG
-技	I-ORG
-術	I-ORG
-開	I-ORG
-発	I-ORG
-は	O
-1	B-PNT
-:	I-PNT
-5	I-PNT
-の	O
-株	O
-式	O
-分	O
-割	O
-で	O
-対	O
-抗	O
-し	O
-た	O
-が	O
-、	O
-夢	B-ORG
-真	I-ORG
-ホ	I-ORG
-ー	I-ORG
-ル	I-ORG
-デ	I-ORG
-ィ	I-ORG
-ン	I-ORG
-グ	I-ORG
-ス	I-ORG
-は	O
-差	O
-し	O
-止	O
-め	O
-を	O
-求	O
-め	O
-る	O
-仮	O
-処	O
-分	O
-を	O
-東	B-ORG
-京	I-ORG
-地	I-ORG
-裁	I-ORG
-に	O
-申	O
-請	O
-す	O
-る	O
-方	O
-針	O
-を	O
-明	O
-ら	O
-か	O
-に	O
-し	O
-、	O
-ま	O
-た	O
-T	O
-O	O
-B	O
-に	O
-先	O
-立	O
-つ	O
-7	B-DAT
-月	I-DAT
-1	I-DAT
-9	I-DAT
-日	I-DAT
-、	O
-買	O
-取	O
-価	O
-格	O
-を	O
-当	O
-初	O
-の	O
-5	B-PNT
-分	I-PNT
-の	I-PNT
-1	I-PNT
-の	O
-1	B-MNY
-1	I-MNY
-0	I-MNY
-円	I-MNY
-に	O
-設	O
-定	O
-し	O
-た	O
-。	O
-
-こ	O
-れ	O
-に	O
-対	O
-し	O
-、	O
-日	B-ORG
-本	I-ORG
-技	I-ORG
-術	I-ORG
-開	I-ORG
-発	I-ORG
-で	O
-は	O
-7	B-DAT
-月	I-DAT
-2	I-DAT
-0	I-DAT
-日	I-DAT
-、	O
-あ	O
-ら	O
-た	O
-め	O
-て	O
-買	O
-付	O
-に	O
-反	O
-対	O
-の	O
-意	O
-を	O
-表	O
-明	O
-し	O
-、	O
-株	O
-主	O
-に	O
-公	O
-開	O
-買	O
-付	O
-に	O
-応	O
-じ	O
-な	O
-い	O
-よ	O
-う	O
-呼	O
-び	O
-か	O
-け	O
-て	O
-い	O
-る	O
-。	O
-
-7	B-DAT
-月	I-DAT
-2	I-DAT
-0	I-DAT
-日	I-DAT
-、	O
-カ	B-LOC
-ナ	I-LOC
-ダ	I-LOC
-は	O
-、	O
-オ	B-LOC
-ラ	I-LOC
-ン	I-LOC
-ダ	I-LOC
-、	O
-ベ	B-LOC
-ル	I-LOC
-ギ	I-LOC
-ー	I-LOC
-、	O
-ス	B-LOC
-ペ	I-LOC
-イ	I-LOC
-ン	I-LOC
-に	O
-次	O
-ぎ	O
-、	O
-同	O
-性	O
-愛	O
-者	O
-間	O
-の	O
-法	O
-的	O
-な	O
-婚	O
-姻	O
-を	O
-認	O
-め	O
-る	O
-4	O
-番	O
-目	O
-の	O
-国	O
-に	O
-な	O
-っ	O
-た	O
-。	O
-
-カ	B-LOC
-ナ	I-LOC
-ダ	I-LOC
-最	B-ORG
-高	I-ORG
-裁	I-ORG
-判	I-ORG
-所	I-ORG
-の	O
-ビ	B-PSN
-ヴ	I-PSN
-ァ	I-PSN
-リ	I-PSN
-ー	I-PSN
-・	I-PSN
-マ	I-PSN
-ラ	I-PSN
-ハ	I-PSN
-リ	I-PSN
-ン	I-PSN
-判	O
-事	O
-が	O
-、	O
-同	O
-日	O
-、	O
-同	O
-性	O
-の	O
-間	O
-で	O
-婚	O
-姻	O
-を	O
-認	O
-め	O
-る	O
-法	O
-案	O
-C	B-ART
--	I-ART
-3	I-ART
-8	I-ART
-に	O
-署	O
-名	O
-し	O
-、	O
-法	O
-案	O
-が	O
-発	O
-効	O
-し	O
-た	O
-も	O
-の	O
-。	O
-
-今	B-DAT
-年	I-DAT
-早	O
-く	O
-に	O
-下	B-ORG
-院	I-ORG
-で	O
-成	O
-立	O
-し	O
-て	O
-い	O
-た	O
-も	O
-の	O
-が	O
-前	B-DAT
-日	I-DAT
-に	O
-カ	B-LOC
-ナ	I-LOC
-ダ	I-LOC
-上	B-ORG
-院	I-ORG
-で	O
-も	O
-成	O
-立	O
-し	O
-、	O
-そ	O
-れ	O
-か	O
-ら	O
-一	B-DAT
-日	I-DAT
-後	I-DAT
-の	O
-発	O
-効	O
-と	O
-な	O
-っ	O
-た	O
-。	O
-
-こ	O
-れ	O
-に	O
-よ	O
-り	O
-、	O
-同	O
-姓	O
-間	O
-の	O
-婚	O
-姻	O
-は	O
-カ	B-LOC
-ナ	I-LOC
-ダ	I-LOC
-国	O
-内	O
-す	O
-べ	O
-て	O
-で	O
-認	O
-め	O
-ら	O
-れ	O
-る	O
-。	O
-
-す	O
-で	O
-に	O
-カ	B-LOC
-ナ	I-LOC
-ダ	I-LOC
-1	O
-0	O
-州	O
-の	O
-う	O
-ち	O
-8	O
-州	O
-は	O
-州	O
-法	O
-に	O
-よ	O
-っ	O
-て	O
-同	O
-性	O
-間	O
-の	O
-結	O
-婚	O
-を	O
-み	O
-と	O
-め	O
-て	O
-い	O
-た	O
-。	O
-
-マ	B-ORG
-イ	I-ORG
-ク	I-ORG
-ロ	I-ORG
-ソ	I-ORG
-フ	I-ORG
-ト	I-ORG
-は	O
-今	B-DAT
-年	I-DAT
-の	O
-発	O
-売	O
-を	O
-予	O
-定	O
-し	O
-て	O
-い	O
-る	O
-ゲ	O
-ー	O
-ム	O
-機	O
-X	B-ART
-b	I-ART
-o	I-ART
-x	I-ART
-3	I-ART
-6	I-ART
-0	I-ART
-に	O
-、	O
-各	O
-国	O
-の	O
-レ	O
-ー	O
-テ	O
-ィ	O
-ン	O
-グ	O
-基	O
-準	O
-に	O
-応	O
-じ	O
-た	O
-年	O
-齢	O
-制	O
-限	O
-機	O
-能	O
-を	O
-搭	O
-載	O
-す	O
-る	O
-こ	O
-と	O
-を	O
-発	O
-表	O
-し	O
-た	O
-。	O
-
-こ	O
-れ	O
-は	O
-ゲ	O
-ー	O
-ム	O
-ソ	O
-フ	O
-ト	O
-に	O
-記	O
-録	O
-さ	O
-れ	O
-た	O
-レ	O
-ー	O
-テ	O
-ィ	O
-ン	O
-グ	O
-と	O
-本	O
-体	O
-に	O
-設	O
-定	O
-さ	O
-れ	O
-た	O
-ユ	O
-ー	O
-ザ	O
-ー	O
-の	O
-年	O
-齢	O
-デ	O
-ー	O
-タ	O
-を	O
-照	O
-合	O
-し	O
-、	O
-ユ	O
-ー	O
-ザ	O
-ー	O
-の	O
-年	O
-齢	O
-よ	O
-り	O
-上	O
-の	O
-年	O
-齢	O
-を	O
-対	O
-象	O
-と	O
-し	O
-た	O
-ソ	O
-フ	O
-ト	O
-は	O
-起	O
-動	O
-で	O
-き	O
-な	O
-く	O
-な	O
-る	O
-と	O
-い	O
-う	O
-も	O
-の	O
-。	O
-
-販	O
-売	O
-す	O
-る	O
-地	O
-域	O
-に	O
-よ	O
-っ	O
-て	O
-基	O
-準	O
-と	O
-な	O
-る	O
-レ	O
-ー	O
-テ	O
-ィ	O
-ン	O
-グ	O
-の	O
-デ	O
-ー	O
-タ	O
-は	O
-異	O
-な	O
-り	O
-、	O
-日	B-LOC
-本	I-LOC
-で	O
-は	O
-コ	B-ORG
-ン	I-ORG
-ピ	I-ORG
-ュ	I-ORG
-ー	I-ORG
-タ	I-ORG
-エ	I-ORG
-ン	I-ORG
-タ	I-ORG
-ー	I-ORG
-テ	I-ORG
-イ	I-ORG
-ン	I-ORG
-メ	I-ORG
-ン	I-ORG
-ト	I-ORG
-レ	I-ORG
-ー	I-ORG
-テ	I-ORG
-ィ	I-ORG
-ン	I-ORG
-グ	I-ORG
-機	I-ORG
-構	I-ORG
-の	O
-レ	O
-ー	O
-テ	O
-ィ	O
-ン	O
-グ	O
-基	O
-準	O
-に	O
-よ	O
-り	O
-制	O
-御	O
-さ	O
-れ	O
-る	O
-。	O
-
-例	O
-え	O
-ば	O
-ユ	O
-ー	O
-ザ	O
-ー	O
-の	O
-年	O
-齢	O
-が	O
-1	O
-2	O
-～	O
-1	O
-4	O
-歳	O
-に	O
-設	O
-定	O
-さ	O
-れ	O
-た	O
-場	O
-合	O
-、	O
-C	B-ORG
-E	I-ORG
-R	I-ORG
-O	I-ORG
-レ	O
-ー	O
-テ	O
-ィ	O
-ン	O
-グ	O
-で	O
-全	O
-年	O
-齢	O
-対	O
-象	O
-も	O
-し	O
-く	O
-は	O
-1	O
-2	O
-歳	O
-以	O
-上	O
-対	O
-象	O
-と	O
-さ	O
-れ	O
-た	O
-ソ	O
-フ	O
-ト	O
-だ	O
-け	O
-が	O
-プ	O
-レ	O
-イ	O
-で	O
-き	O
-る	O
-こ	O
-と	O
-に	O
-な	O
-る	O
-。	O
-
-マ	B-ORG
-イ	I-ORG
-ク	I-ORG
-ロ	I-ORG
-ソ	I-ORG
-フ	I-ORG
-ト	I-ORG
-は	O
-こ	O
-の	O
-他	O
-に	O
-、	O
-D	O
-V	O
-D	O
-ビ	O
-デ	O
-オ	O
-の	O
-再	O
-生	O
-に	O
-お	O
-け	O
-る	O
-視	O
-聴	O
-制	O
-限	O
-設	O
-定	O
-や	O
-、	O
-X	B-ART
-b	I-ART
-o	I-ART
-x	I-ART
-L	I-ART
-i	I-ART
-v	I-ART
-e	I-ART
-の	O
-利	O
-用	O
-に	O
-関	O
-し	O
-て	O
-も	O
-年	O
-齢	O
-デ	O
-ー	O
-タ	O
-を	O
-元	O
-に	O
-機	O
-能	O
-を	O
-制	O
-限	O
-す	O
-る	O
-こ	O
-と	O
-が	O
-で	O
-き	O
-る	O
-と	O
-発	O
-表	O
-し	O
-て	O
-い	O
-る	O
-。	O
-
-ゲ	O
-ー	O
-ム	O
-機	O
-に	O
-お	O
-い	O
-て	O
-こ	O
-の	O
-よ	O
-う	O
-な	O
-年	O
-齢	O
-制	O
-限	O
-機	O
-能	O
-が	O
-実	O
-装	O
-さ	O
-れ	O
-る	O
-の	O
-は	O
-、	O
-こ	O
-の	O
-X	B-ART
-b	I-ART
-o	I-ART
-x	I-ART
-3	I-ART
-6	I-ART
-0	I-ART
-が	O
-初	O
-め	O
-て	O
-の	O
-こ	O
-と	O
-。	O
-
-そ	O
-の	O
-背	O
-景	O
-に	O
-は	O
-、	O
-日	B-LOC
-本	I-LOC
-で	O
-は	O
-神	B-LOC
-奈	I-LOC
-川	I-LOC
-県	I-LOC
-が	O
-G	B-ART
-r	I-ART
-a	I-ART
-n	I-ART
-d	I-ART
-T	I-ART
-h	I-ART
-e	I-ART
-f	I-ART
-t	I-ART
-A	I-ART
-u	I-ART
-t	I-ART
-o	I-ART
-I	I-ART
-I	I-ART
-I	I-ART
-を	O
-有	O
-害	O
-図	O
-書	O
-に	O
-指	O
-定	O
-し	O
-た	O
-こ	O
-と	O
-、	O
-欧	B-LOC
-米	I-LOC
-各	O
-国	O
-で	O
-も	O
-同	O
-様	O
-に	O
-暴	O
-力	O
-表	O
-現	O
-が	O
-含	O
-ま	O
-れ	O
-る	O
-ゲ	O
-ー	O
-ム	O
-ソ	O
-フ	O
-ト	O
-に	O
-対	O
-す	O
-る	O
-規	O
-制	O
-を	O
-強	O
-化	O
-し	O
-よ	O
-う	O
-と	O
-す	O
-る	O
-動	O
-き	O
-が	O
-あ	O
-る	O
-こ	O
-と	O
-が	O
-挙	O
-げ	O
-ら	O
-れ	O
-る	O
-。	O
-
-2	B-DAT
-1	I-DAT
-日	I-DAT
-、	O
-イ	B-LOC
-ギ	I-LOC
-リ	I-LOC
-ス	I-LOC
-ロ	B-LOC
-ン	I-LOC
-ド	I-LOC
-ン	I-LOC
-市	O
-内	O
-の	O
-3	O
-つ	O
-の	O
-地	O
-下	O
-鉄	O
-駅	O
-で	O
-煙	O
-が	O
-上	O
-が	O
-っ	O
-た	O
-。	O
-
-爆	O
-発	O
-と	O
-の	O
-情	O
-報	O
-も	O
-あ	O
-る	O
-。	O
-
-警	O
-察	O
-当	O
-局	O
-の	O
-発	O
-表	O
-に	O
-よ	O
-る	O
-と	O
-1	O
-人	O
-が	O
-負	O
-傷	O
-し	O
-た	O
-。	O
-
-ま	O
-た	O
-、	O
-ロ	B-LOC
-ン	I-LOC
-ド	I-LOC
-ン	I-LOC
-東	O
-部	O
-の	O
-ハ	B-LOC
-ッ	I-LOC
-ク	I-LOC
-ニ	I-LOC
-ー	I-LOC
-通	I-LOC
-り	I-LOC
-で	O
-、	O
-バ	O
-ス	O
-の	O
-爆	O
-発	O
-が	O
-あ	O
-っ	O
-た	O
-と	O
-の	O
-情	O
-報	O
-も	O
-あ	O
-る	O
-。	O
-
-現	O
-地	O
-時	O
-間	O
-2	B-DAT
-1	I-DAT
-日	I-DAT
-昼	B-TIM
-ご	O
-ろ	O
-（	O
-日	B-LOC
-本	I-LOC
-時	O
-間	O
-午	B-TIM
-後	I-TIM
-8	I-TIM
-時	I-TIM
-3	I-TIM
-0	I-TIM
-分	I-TIM
-ご	O
-ろ	O
-）	O
-、	O
-ロ	B-LOC
-ン	I-LOC
-ド	I-LOC
-ン	I-LOC
-市	O
-内	O
-の	O
-ウ	B-LOC
-ォ	I-LOC
-レ	I-LOC
-ン	I-LOC
-ス	I-LOC
-ト	I-LOC
-リ	I-LOC
-ー	I-LOC
-ト	I-LOC
-駅	I-LOC
-、	O
-シ	B-LOC
-ェ	I-LOC
-パ	I-LOC
-ー	I-LOC
-ド	I-LOC
-ブ	I-LOC
-ッ	I-LOC
-シ	I-LOC
-ュ	I-LOC
-駅	I-LOC
-、	O
-オ	B-LOC
-ー	I-LOC
-バ	I-LOC
-ル	I-LOC
-駅	I-LOC
-の	O
-3	O
-駅	O
-で	O
-列	O
-車	O
-か	O
-ら	O
-煙	O
-が	O
-上	O
-が	O
-っ	O
-た	O
-。	O
-
-地	O
-元	O
-テ	O
-レ	O
-ビ	O
-局	O
-は	O
-、	O
-ウ	B-LOC
-ォ	I-LOC
-レ	I-LOC
-ン	I-LOC
-ス	I-LOC
-ト	I-LOC
-リ	I-LOC
-ー	I-LOC
-ト	I-LOC
-駅	I-LOC
-で	O
-は	O
-男	O
-が	O
-背	O
-負	O
-っ	O
-て	O
-い	O
-た	O
-リ	O
-ュ	O
-ッ	O
-ク	O
-サ	O
-ッ	O
-ク	O
-が	O
-爆	O
-発	O
-し	O
-た	O
-が	O
-、	O
-男	O
-は	O
-生	O
-存	O
-し	O
-て	O
-い	O
-る	O
-と	O
-伝	O
-え	O
-て	O
-い	O
-る	O
-。	O
-
-現	O
-在	O
-も	O
-ロ	B-LOC
-ン	I-LOC
-ド	I-LOC
-ン	I-LOC
-市	O
-内	O
-の	O
-地	O
-下	O
-鉄	O
-4	O
-線	O
-は	O
-、	O
-運	O
-転	O
-を	O
-取	O
-り	O
-や	O
-め	O
-て	O
-い	O
-る	O
-。	O
-
-こ	O
-の	O
-事	O
-件	O
-に	O
-関	O
-し	O
-て	O
-、	O
-イ	B-ORG
-ギ	I-ORG
-リ	I-ORG
-ス	I-ORG
-交	I-ORG
-通	I-ORG
-警	I-ORG
-察	I-ORG
-は	O
-、	O
-乗	O
-客	O
-全	O
-員	O
-が	O
-爆	O
-発	O
-現	O
-場	O
-か	O
-ら	O
-避	O
-難	O
-し	O
-た	O
-と	O
-発	O
-表	O
-し	O
-て	O
-い	O
-る	O
-。	O
-
-ロ	B-ORG
-ン	I-ORG
-ド	I-ORG
-ン	I-ORG
-警	I-ORG
-視	I-ORG
-庁	I-ORG
-は	O
-、	O
-2	B-DAT
-週	I-DAT
-間	I-DAT
-前	I-DAT
-の	O
-爆	O
-発	O
-よ	O
-り	O
-被	O
-害	O
-は	O
-小	O
-規	O
-模	O
-だ	O
-ろ	O
-う	O
-と	O
-の	O
-予	O
-測	O
-を	O
-発	O
-表	O
-し	O
-た	O
-。	O
-
-ま	O
-も	O
-な	O
-く	O
-、	O
-イ	B-LOC
-ギ	I-LOC
-リ	I-LOC
-ス	I-LOC
-首	O
-相	O
-の	O
-ト	B-PSN
-ニ	I-PSN
-ー	I-PSN
-・	I-PSN
-ブ	I-PSN
-レ	I-PSN
-ア	I-PSN
-が	O
-会	O
-見	O
-を	O
-開	O
-く	O
-予	O
-定	O
-だ	O
-。	O
-
-中	B-LOC
-華	I-LOC
-人	I-LOC
-民	I-LOC
-共	I-LOC
-和	I-LOC
-国	I-LOC
-（	O
-中	B-LOC
-国	I-LOC
-）	O
-の	O
-中	O
-央	O
-銀	O
-行	O
-で	O
-あ	O
-る	O
-中	B-ORG
-国	I-ORG
-人	I-ORG
-民	I-ORG
-銀	I-ORG
-行	I-ORG
-は	O
-、	O
-2	B-DAT
-1	I-DAT
-日	I-DAT
-夜	B-TIM
-、	O
-人	O
-民	O
-元	O
-の	O
-為	O
-替	O
-政	O
-策	O
-変	O
-更	O
-を	O
-発	O
-表	O
-し	O
-た	O
-。	O
-
-発	O
-表	O
-に	O
-よ	O
-れ	O
-ば	O
-、	O
-同	O
-日	O
-午	B-TIM
-後	I-TIM
-7	I-TIM
-時	I-TIM
-（	O
-北	B-LOC
-京	I-LOC
-時	O
-間	O
-、	O
-U	O
-T	O
-C	O
-+	O
-8	O
-）	O
-か	O
-ら	O
-、	O
-米	O
-ド	O
-ル	O
-へ	O
-の	O
-固	O
-定	O
-相	O
-場	O
-制	O
-政	O
-策	O
-を	O
-廃	O
-止	O
-し	O
-、	O
-米	O
-ド	O
-ル	O
-を	O
-含	O
-む	O
-「	O
-多	O
-通	O
-貨	O
-バ	O
-ス	O
-ケ	O
-ッ	O
-ト	O
-制	O
-」	O
-を	O
-採	O
-用	O
-す	O
-る	O
-。	O
-
-こ	O
-れ	O
-ま	O
-で	O
-事	O
-実	O
-上	O
-固	O
-定	O
-さ	O
-れ	O
-て	O
-い	O
-た	O
-通	O
-貨	O
-レ	O
-ー	O
-ト	O
-を	O
-見	O
-直	O
-し	O
-、	O
-2	B-DAT
-1	I-DAT
-日	I-DAT
-1	B-TIM
-9	I-TIM
-時	I-TIM
-付	O
-で	O
-、	O
-そ	O
-れ	O
-ま	O
-で	O
-の	O
-通	O
-貨	O
-レ	O
-ー	O
-ト	O
-1	B-MNY
-ド	I-MNY
-ル	I-MNY
-＝	O
-8	B-MNY
-.	I-MNY
-2	I-MNY
-7	I-MNY
-6	I-MNY
-5	I-MNY
-元	I-MNY
-か	O
-ら	O
-、	O
-2	B-DAT
-1	I-DAT
-日	I-DAT
-の	O
-レ	O
-ー	O
-ト	O
-を	O
-1	B-MNY
-ド	I-MNY
-ル	I-MNY
-＝	O
-8	B-MNY
-.	I-MNY
-1	I-MNY
-1	I-MNY
-元	I-MNY
-に	O
-2	B-PNT
-％	I-PNT
-切	O
-り	O
-上	O
-げ	O
-た	O
-。	O
-
-2	B-DAT
-2	I-DAT
-日	I-DAT
-か	O
-ら	O
-は	O
-前	B-DAT
-日	I-DAT
-の	O
-終	O
-値	O
-を	O
-も	O
-と	O
-に	O
-人	B-ORG
-民	I-ORG
-銀	I-ORG
-行	I-ORG
-が	O
-基	O
-準	O
-値	O
-を	O
-発	O
-行	O
-し	O
-、	O
-一	O
-定	O
-の	O
-変	O
-動	O
-を	O
-許	O
-容	O
-す	O
-る	O
-。	O
-
-中	B-LOC
-国	I-LOC
-で	O
-は	O
-こ	O
-れ	O
-ま	O
-で	O
-も	O
-制	O
-度	O
-上	O
-は	O
-上	O
-下	O
-0	B-PNT
-.	I-PNT
-3	I-PNT
-%	I-PNT
-の	O
-幅	O
-で	O
-為	O
-替	O
-レ	O
-ー	O
-ト	O
-変	O
-動	O
-が	O
-許	O
-容	O
-さ	O
-れ	O
-て	O
-い	O
-た	O
-が	O
-、	O
-人	B-ORG
-民	I-ORG
-銀	I-ORG
-行	I-ORG
-の	O
-介	O
-入	O
-に	O
-よ	O
-っ	O
-て	O
-相	O
-場	O
-は	O
-事	O
-実	O
-上	O
-固	O
-定	O
-さ	O
-れ	O
-て	O
-い	O
-た	O
-。	O
-
-読	B-ORG
-売	I-ORG
-新	I-ORG
-聞	I-ORG
-の	O
-報	O
-道	O
-で	O
-は	O
-、	O
-通	O
-貨	O
-バ	O
-ス	O
-ケ	O
-ッ	O
-ト	O
-は	O
-、	O
-米	O
-ド	O
-ル	O
-、	O
-欧	B-LOC
-州	I-LOC
-ユ	O
-ー	O
-ロ	O
-、	O
-日	O
-本	O
-円	O
-の	O
-3	O
-大	O
-通	O
-貨	O
-に	O
-一	O
-定	O
-割	O
-合	O
-で	O
-連	O
-動	O
-す	O
-る	O
-と	O
-見	O
-ら	O
-れ	O
-る	O
-。	O
-
-英	O
-語	O
-版	O
-ウ	B-ART
-ィ	I-ART
-キ	I-ART
-ニ	I-ART
-ュ	I-ART
-ー	I-ART
-ス	I-ART
-の	O
-報	O
-道	O
-に	O
-よ	O
-れ	O
-ば	O
-、	O
-世	O
-界	O
-協	O
-定	O
-時	O
-1	B-TIM
-0	I-TIM
-時	I-TIM
-1	I-TIM
-5	I-TIM
-分	I-TIM
-頃	O
-（	O
-日	B-LOC
-本	I-LOC
-時	O
-間	O
-1	B-TIM
-9	I-TIM
-時	I-TIM
-1	I-TIM
-5	I-TIM
-分	I-TIM
-ご	O
-ろ	O
-）	O
-か	O
-ら	O
-、	O
-ロ	B-LOC
-ン	I-LOC
-ド	I-LOC
-ン	I-LOC
-東	O
-部	O
-に	O
-あ	O
-る	O
-モ	O
-ス	O
-ク	O
-が	O
-爆	O
-発	O
-物	O
-が	O
-あ	O
-る	O
-と	O
-の	O
-疑	O
-い	O
-で	O
-警	O
-官	O
-に	O
-包	O
-囲	O
-さ	O
-れ	O
-た	O
-が	O
-、	O
-そ	O
-の	O
-後	O
-包	O
-囲	O
-を	O
-解	O
-か	O
-れ	O
-た	O
-と	O
-B	B-ORG
-B	I-ORG
-C	I-ORG
-「	O
-ワ	B-ART
-ー	I-ART
-ル	I-ART
-ド	I-ART
-・	I-ART
-サ	I-ART
-ー	I-ART
-ビ	I-ART
-ス	I-ART
-」	O
-お	O
-よ	O
-び	O
-ラ	O
-ジ	O
-オ	O
-番	O
-組	O
-「	O
-ラ	B-ART
-ジ	I-ART
-オ	I-ART
-・	I-ART
-フ	I-ART
-ァ	I-ART
-イ	I-ART
-ブ	I-ART
-・	I-ART
-ラ	I-ART
-イ	I-ART
-ブ	I-ART
-」	O
-が	O
-報	O
-じ	O
-た	O
-。	O
-
-ミ	O
-サ	O
-イ	O
-ル	O
-防	O
-衛	O
-を	O
-構	O
-成	O
-す	O
-る	O
-P	B-ART
-A	I-ART
-C	I-ART
-3	I-ART
-が	O
-入	B-LOC
-間	I-LOC
-基	I-LOC
-地	I-LOC
-(	O
-埼	B-LOC
-玉	I-LOC
-)	O
-、	O
-航	B-ORG
-空	I-ORG
-自	I-ORG
-衛	I-ORG
-隊	I-ORG
-岐	B-LOC
-阜	I-LOC
-基	I-LOC
-地	I-LOC
-(	O
-岐	B-LOC
-阜	I-LOC
-県	I-LOC
-各	I-LOC
-務	I-LOC
-原	I-LOC
-市	I-LOC
-)	O
-、	O
-航	B-ORG
-空	I-ORG
-自	I-ORG
-衛	I-ORG
-隊	I-ORG
-春	B-LOC
-日	I-LOC
-基	I-LOC
-地	I-LOC
-(	O
-福	B-LOC
-岡	I-LOC
-県	I-LOC
-春	I-LOC
-日	I-LOC
-市	I-LOC
-)	O
-に	O
-配	O
-備	O
-さ	O
-れ	O
-る	O
-見	O
-込	O
-と	O
-な	O
-っ	O
-た	O
-。	O
-
-防	B-ORG
-衛	I-ORG
-庁	I-ORG
-は	O
-P	B-ART
-A	I-ART
-C	I-ART
-3	I-ART
-を	O
-1	B-DAT
-8	I-DAT
-年	I-DAT
-度	I-DAT
-予	O
-算	O
-で	O
-航	B-ORG
-空	I-ORG
-自	I-ORG
-衛	I-ORG
-隊	I-ORG
-岐	B-LOC
-阜	I-LOC
-基	I-LOC
-地	I-LOC
-に	O
-、	O
-1	B-DAT
-9	I-DAT
-年	I-DAT
-度	I-DAT
-予	O
-算	O
-で	O
-航	B-ORG
-空	I-ORG
-自	I-ORG
-衛	I-ORG
-隊	I-ORG
-春	B-LOC
-日	I-LOC
-基	I-LOC
-地	I-LOC
-に	O
-配	O
-備	O
-す	O
-る	O
-こ	O
-と	O
-を	O
-固	O
-め	O
-、	O
-既	O
-に	O
-1	B-DAT
-6	I-DAT
-年	I-DAT
-度	I-DAT
-の	O
-予	O
-算	O
-で	O
-配	O
-備	O
-が	O
-決	O
-定	O
-し	O
-て	O
-い	O
-る	O
-入	B-LOC
-間	I-LOC
-基	I-LOC
-地	I-LOC
-と	O
-合	O
-わ	O
-せ	O
-て	O
-防	B-ORG
-衛	I-ORG
-庁	I-ORG
-が	O
-予	O
-定	O
-し	O
-て	O
-い	O
-る	O
-3	O
-ヶ	O
-所	O
-す	O
-べ	O
-て	O
-が	O
-決	O
-ま	O
-っ	O
-た	O
-こ	O
-と	O
-に	O
-な	O
-る	O
-。	O
-
-千	B-LOC
-歳	I-LOC
-基	I-LOC
-地	I-LOC
-に	O
-つ	O
-い	O
-て	O
-は	O
-「	O
-中	B-LOC
-国	I-LOC
-の	O
-弾	O
-道	O
-ミ	O
-サ	O
-イ	O
-ル	O
-の	O
-脅	O
-威	O
-が	O
-高	O
-ま	O
-っ	O
-て	O
-お	O
-り	O
-、	O
-よ	O
-り	O
-緊	O
-急	O
-性	O
-を	O
-要	O
-す	O
-る	O
-の	O
-は	O
-九	B-LOC
-州	I-LOC
-の	O
-防	O
-護	O
-だ	O
-」	O
-と	O
-し	O
-て	O
-導	O
-入	O
-が	O
-見	O
-送	O
-ら	O
-れ	O
-た	O
-。	O
-
-ま	O
-た	O
-こ	O
-れ	O
-と	O
-は	O
-別	O
-に	O
-航	B-ORG
-空	I-ORG
-自	I-ORG
-衛	I-ORG
-隊	I-ORG
-府	B-LOC
-中	I-LOC
-基	I-LOC
-地	I-LOC
-(	O
-東	B-LOC
-京	I-LOC
-)	O
-に	O
-P	B-ART
-A	I-ART
-C	I-ART
-3	I-ART
-部	O
-隊	O
-の	O
-配	O
-置	O
-が	O
-検	O
-討	O
-さ	O
-れ	O
-て	O
-い	O
-る	O
-こ	O
-と	O
-も	O
-明	O
-ら	O
-か	O
-に	O
-な	O
-っ	O
-て	O
-い	O
-る	O
-。	O
-
-2	B-DAT
-0	I-DAT
-0	I-DAT
-5	I-DAT
-年	I-DAT
-1	I-DAT
-1	I-DAT
-月	I-DAT
-に	O
-神	B-LOC
-奈	I-LOC
-川	I-LOC
-県	I-LOC
-で	O
-開	O
-か	O
-れ	O
-る	O
-「	O
-全	O
-国	O
-豊	O
-か	O
-な	O
-海	O
-づ	O
-く	O
-り	O
-大	O
-会	O
-」	O
-の	O
-実	O
-行	O
-委	O
-員	O
-会	O
-は	O
-7	B-DAT
-月	I-DAT
-2	I-DAT
-2	I-DAT
-日	I-DAT
-、	O
-こ	O
-の	O
-大	O
-会	O
-の	O
-テ	O
-ー	O
-マ	O
-曲	O
-「	O
-海	B-ART
-の	I-ART
-唄	I-ART
-」	O
-を	O
-制	O
-作	O
-し	O
-た	O
-人	O
-気	O
-バ	O
-ン	O
-ド	O
-T	B-ORG
-U	I-ORG
-B	I-ORG
-E	I-ORG
-の	O
-リ	O
-ー	O
-ダ	O
-ー	O
-で	O
-、	O
-同	O
-県	O
-出	O
-身	O
-の	O
-前	B-PSN
-田	I-PSN
-亘	I-PSN
-輝	I-PSN
-氏	O
-が	O
-、	O
-暴	O
-力	O
-団	O
-の	O
-パ	O
-ー	O
-テ	O
-ィ	O
-ー	O
-に	O
-出	O
-演	O
-し	O
-た	O
-こ	O
-と	O
-か	O
-ら	O
-、	O
-「	O
-大	O
-会	O
-関	O
-係	O
-者	O
-に	O
-ふ	O
-さ	O
-わ	O
-し	O
-く	O
-な	O
-い	O
-」	O
-と	O
-し	O
-て	O
-曲	O
-の	O
-使	O
-用	O
-を	O
-中	O
-止	O
-し	O
-た	O
-こ	O
-と	O
-を	O
-発	O
-表	O
-し	O
-た	O
-。	O
-
-T	B-ORG
-U	I-ORG
-B	I-ORG
-E	I-ORG
-の	O
-所	O
-属	O
-事	O
-務	O
-所	O
-に	O
-よ	O
-れ	O
-ば	O
-、	O
-前	B-PSN
-田	I-PSN
-氏	O
-が	O
-6	B-DAT
-月	I-DAT
-中	I-DAT
-旬	I-DAT
-、	O
-千	B-LOC
-葉	I-LOC
-県	I-LOC
-で	O
-開	O
-か	O
-れ	O
-た	O
-あ	O
-る	O
-指	O
-定	O
-暴	O
-力	O
-団	O
-幹	O
-部	O
-の	O
-還	O
-暦	O
-祝	O
-い	O
-の	O
-パ	O
-ー	O
-テ	O
-ィ	O
-ー	O
-に	O
-出	O
-演	O
-し	O
-「	O
-ハ	O
-ッ	O
-ピ	O
-ー	O
-バ	O
-ー	O
-ス	O
-デ	O
-ー	O
-」	O
-を	O
-演	O
-奏	O
-し	O
-た	O
-。	O
-
-事	O
-務	O
-所	O
-は	O
-「	O
-前	B-PSN
-田	I-PSN
-氏	O
-は	O
-友	O
-人	O
-か	O
-ら	O
-頼	O
-ま	O
-れ	O
-て	O
-出	O
-演	O
-し	O
-た	O
-。	O
-相	O
-手	O
-が	O
-暴	O
-力	O
-団	O
-と	O
-は	O
-知	O
-ら	O
-な	O
-か	O
-っ	O
-た	O
-と	O
-い	O
-う	O
-が	O
-、	O
-軽	O
-率	O
-な	O
-行	O
-為	O
-だ	O
-っ	O
-た	O
-」	O
-と	O
-説	O
-明	O
-し	O
-て	O
-い	O
-る	O
-。	O
-
-こ	O
-の	O
-「	O
-海	B-ART
-の	I-ART
-唄	I-ART
-」	O
-は	O
-全	O
-国	O
-か	O
-ら	O
-募	O
-集	O
-し	O
-た	O
-歌	O
-詞	O
-を	O
-も	O
-と	O
-に	O
-T	B-ORG
-U	I-ORG
-B	I-ORG
-E	I-ORG
-が	O
-制	O
-作	O
-し	O
-た	O
-。	O
-
-当	O
-大	O
-会	O
-に	O
-は	O
-天	O
-皇	O
-・	O
-皇	O
-后	O
-両	O
-陛	O
-下	O
-が	O
-出	O
-席	O
-す	O
-る	O
-予	O
-定	O
-で	O
-あ	O
-る	O
-。	O
-
-一	O
-方	O
-、	O
-神	B-LOC
-奈	I-LOC
-川	I-LOC
-県	I-LOC
-厚	I-LOC
-木	I-LOC
-市	I-LOC
-の	O
-市	O
-制	O
-5	B-DAT
-0	I-DAT
-周	I-DAT
-年	I-DAT
-を	O
-記	O
-念	O
-し	O
-た	O
-T	B-ORG
-U	I-ORG
-B	I-ORG
-E	I-ORG
-野	O
-外	O
-コ	O
-ン	O
-サ	O
-ー	O
-ト	O
-は	O
-、	O
-予	O
-定	O
-通	O
-り	O
-7	B-DAT
-月	I-DAT
-3	I-DAT
-0	I-DAT
-日	I-DAT
-に	O
-行	O
-な	O
-わ	O
-れ	O
-る	O
-こ	O
-と	O
-が	O
-2	B-DAT
-3	I-DAT
-日	I-DAT
-明	O
-ら	O
-か	O
-に	O
-な	O
-っ	O
-た	O
-。	O
-
-同	O
-市	O
-は	O
-前	B-PSN
-田	I-PSN
-氏	O
-の	O
-開	O
-催	O
-し	O
-た	O
-い	O
-と	O
-い	O
-う	O
-意	O
-向	O
-を	O
-確	O
-認	O
-し	O
-「	O
-市	O
-民	O
-だ	O
-け	O
-で	O
-な	O
-く	O
-全	O
-国	O
-の	O
-フ	O
-ァ	O
-ン	O
-の	O
-期	O
-待	O
-も	O
-大	O
-き	O
-い	O
-」	O
-と	O
-し	O
-て	O
-決	O
-定	O
-し	O
-た	O
-。	O
-
-現	O
-地	O
-時	O
-間	O
-の	O
-2	B-DAT
-3	I-DAT
-日	I-DAT
-早	B-TIM
-朝	I-TIM
-、	O
-エ	B-LOC
-ジ	I-LOC
-プ	I-LOC
-ト	I-LOC
-・	O
-シ	B-LOC
-ナ	I-LOC
-イ	I-LOC
-半	I-LOC
-島	I-LOC
-の	O
-紅	B-LOC
-海	I-LOC
-沿	O
-い	O
-の	O
-複	O
-数	O
-の	O
-リ	O
-ゾ	O
-ー	O
-ト	O
-地	O
-で	O
-少	O
-な	O
-く	O
-と	O
-も	O
-4	O
-つ	O
-、	O
-お	O
-そ	O
-ら	O
-く	O
-7	O
-つ	O
-の	O
-爆	O
-発	O
-が	O
-起	O
-こ	O
-り	O
-、	O
-少	O
-な	O
-く	O
-と	O
-も	O
-3	O
-0	O
-人	O
-が	O
-死	O
-亡	O
-、	O
-1	O
-0	O
-0	O
-人	O
-以	O
-上	O
-が	O
-負	O
-傷	O
-し	O
-た	O
-。	O
-
-爆	O
-発	O
-の	O
-ひ	O
-と	O
-つ	O
-は	O
-、	O
-現	O
-地	O
-時	O
-間	O
-午	B-TIM
-前	I-TIM
-1	I-TIM
-時	I-TIM
-に	O
-シ	B-LOC
-ャ	I-LOC
-ル	I-LOC
-ム	I-LOC
-・	I-LOC
-エ	I-LOC
-ル	I-LOC
-＝	I-LOC
-シ	I-LOC
-ェ	I-LOC
-イ	I-LOC
-ク	I-LOC
-の	O
-市	O
-場	O
-で	O
-起	O
-こ	O
-り	O
-、	O
-1	B-TIM
-5	I-TIM
-分	I-TIM
-後	I-TIM
-に	O
-2	O
-つ	O
-の	O
-爆	O
-発	O
-が	O
-近	O
-く	O
-の	O
-リ	O
-ゾ	O
-ー	O
-ト	O
-地	O
-ナ	B-LOC
-ー	I-LOC
-マ	I-LOC
-湾	I-LOC
-で	O
-起	O
-こ	O
-っ	O
-た	O
-。	O
-
-報	O
-道	O
-に	O
-よ	O
-れ	O
-ば	O
-爆	O
-発	O
-は	O
-ホ	O
-テ	O
-ル	O
-の	O
-外	O
-で	O
-起	O
-こ	O
-っ	O
-た	O
-。	O
-
-あ	O
-る	O
-証	O
-言	O
-者	O
-は	O
-A	B-ORG
-P	I-ORG
-通	I-ORG
-信	I-ORG
-に	O
-4	O
-つ	O
-星	O
-ホ	O
-テ	O
-ル	O
-の	O
-ガ	B-ORG
-ザ	I-ORG
-ラ	I-ORG
-・	I-ORG
-ガ	I-ORG
-ー	I-ORG
-デ	I-ORG
-ン	I-ORG
-ズ	I-ORG
-が	O
-「	O
-完	O
-全	O
-に	O
-焼	O
-け	O
-落	O
-ち	O
-た	O
-」	O
-と	O
-語	O
-っ	O
-た	O
-。	O
-
-昨	B-DAT
-年	I-DAT
-1	I-DAT
-0	I-DAT
-月	I-DAT
-に	O
-は	O
-、	O
-3	O
-4	O
-人	O
-が	O
-、	O
-今	O
-回	O
-の	O
-現	O
-場	O
-に	O
-近	O
-い	O
-エ	B-LOC
-ジ	I-LOC
-プ	I-LOC
-ト	I-LOC
-の	O
-タ	B-LOC
-バ	I-LOC
-で	O
-爆	O
-発	O
-事	O
-件	O
-の	O
-た	O
-め	O
-死	O
-亡	O
-し	O
-て	O
-い	O
-る	O
-。	O
-
-タ	B-LOC
-バ	I-LOC
-は	O
-イ	B-LOC
-ス	I-LOC
-ラ	I-LOC
-エ	I-LOC
-ル	I-LOC
-か	O
-ら	O
-の	O
-観	O
-光	O
-客	O
-に	O
-人	O
-気	O
-の	O
-あ	O
-る	O
-リ	O
-ゾ	O
-ー	O
-ト	O
-地	O
-で	O
-あ	O
-る	O
-。	O
-
-こ	O
-の	O
-た	O
-め	O
-、	O
-当	O
-局	O
-は	O
-今	O
-回	O
-の	O
-爆	O
-発	O
-は	O
-イ	B-LOC
-ス	I-LOC
-ラ	I-LOC
-エ	I-LOC
-ル	I-LOC
-・	O
-パ	B-LOC
-レ	I-LOC
-ス	I-LOC
-チ	I-LOC
-ナ	I-LOC
-間	O
-の	O
-緊	O
-張	O
-に	O
-か	O
-か	O
-わ	O
-る	O
-も	O
-の	O
-と	O
-し	O
-て	O
-非	O
-難	O
-し	O
-て	O
-い	O
-る	O
-。	O
-
-地	O
-元	O
-の	O
-警	O
-察	O
-に	O
-よ	O
-れ	O
-ば	O
-少	O
-な	O
-く	O
-と	O
-も	O
-3	O
-0	O
-人	O
-が	O
-死	O
-亡	O
-、	O
-1	O
-0	O
-0	O
-人	O
-以	O
-上	O
-が	O
-負	O
-傷	O
-し	O
-た	O
-。	O
-
-B	B-ORG
-B	I-ORG
-C	I-ORG
-の	O
-報	O
-道	O
-に	O
-よ	O
-れ	O
-ば	O
-、	O
-少	O
-な	O
-く	O
-と	O
-も	O
-4	O
-9	O
-人	O
-が	O
-死	O
-亡	O
-し	O
-た	O
-。	O
-
-ロ	B-ORG
-イ	I-ORG
-タ	I-ORG
-ー	I-ORG
-通	I-ORG
-信	I-ORG
-社	I-ORG
-報	I-ORG
-道	I-ORG
-局	I-ORG
-は	O
-、	O
-現	O
-場	O
-に	O
-い	O
-た	O
-複	O
-数	O
-の	O
-医	O
-師	O
-が	O
-、	O
-負	O
-傷	O
-者	O
-の	O
-多	O
-く	O
-は	O
-危	O
-険	O
-な	O
-状	O
-態	O
-に	O
-あ	O
-る	O
-と	O
-語	O
-っ	O
-て	O
-い	O
-る	O
-と	O
-伝	O
-え	O
-た	O
-。	O
-
-ま	O
-た	O
-ロ	B-ORG
-イ	I-ORG
-タ	I-ORG
-ー	I-ORG
-で	O
-は	O
-爆	O
-弾	O
-は	O
-お	O
-そ	O
-ら	O
-く	O
-車	O
-に	O
-仕	O
-掛	O
-け	O
-ら	O
-れ	O
-て	O
-い	O
-た	O
-と	O
-報	O
-じ	O
-た	O
-。	O
-
-死	O
-亡	O
-者	O
-の	O
-中	O
-に	O
-は	O
-、	O
-イ	B-LOC
-ギ	I-LOC
-リ	I-LOC
-ス	I-LOC
-人	O
-、	O
-フ	B-LOC
-ラ	I-LOC
-ン	I-LOC
-ス	I-LOC
-人	O
-、	O
-ス	B-LOC
-ペ	I-LOC
-イ	I-LOC
-ン	I-LOC
-人	O
-、	O
-オ	B-LOC
-ラ	I-LOC
-ン	I-LOC
-ダ	I-LOC
-人	O
-、	O
-カ	B-LOC
-タ	I-LOC
-ー	I-LOC
-ル	I-LOC
-人	O
-、	O
-ク	B-LOC
-ウ	I-LOC
-ェ	I-LOC
-ー	I-LOC
-ト	I-LOC
-人	O
-、	O
-エ	B-LOC
-ジ	I-LOC
-プ	I-LOC
-ト	I-LOC
-人	O
-が	O
-含	O
-ま	O
-れ	O
-て	O
-い	O
-る	O
-と	O
-A	B-ORG
-P	I-ORG
-通	I-ORG
-信	I-ORG
-が	O
-伝	O
-え	O
-て	O
-い	O
-る	O
-。	O
-
-ア	B-LOC
-メ	I-LOC
-リ	I-LOC
-カ	I-LOC
-の	O
-マ	B-ORG
-イ	I-ORG
-ク	I-ORG
-ロ	I-ORG
-ソ	I-ORG
-フ	I-ORG
-ト	I-ORG
-は	O
-現	O
-地	O
-時	O
-間	O
-2	B-DAT
-0	I-DAT
-0	I-DAT
-5	I-DAT
-年	I-DAT
-7	I-DAT
-月	I-DAT
-2	I-DAT
-2	I-DAT
-日	I-DAT
-、	O
-同	O
-社	O
-の	O
-オ	O
-ペ	O
-レ	O
-ー	O
-テ	O
-ィ	O
-ン	O
-グ	O
-シ	O
-ス	O
-テ	O
-ム	O
-（	O
-O	O
-S	O
-）	O
-、	O
-W	B-ART
-i	I-ART
-n	I-ART
-d	I-ART
-o	I-ART
-w	I-ART
-s	I-ART
-X	I-ART
-P	I-ART
-の	O
-次	O
-に	O
-リ	O
-リ	O
-ー	O
-ス	O
-さ	O
-れ	O
-る	O
-O	O
-S	O
-の	O
-正	O
-式	O
-名	O
-称	O
-を	O
-「	O
-W	B-ART
-i	I-ART
-n	I-ART
-d	I-ART
-o	I-ART
-w	I-ART
-s	I-ART
-V	I-ART
-i	I-ART
-s	I-ART
-t	I-ART
-a	I-ART
-」	O
-（	O
-ウ	B-ART
-ィ	I-ART
-ン	I-ART
-ド	I-ART
-ウ	I-ART
-ズ	I-ART
-・	I-ART
-ビ	I-ART
-ス	I-ART
-タ	I-ART
-）	O
-に	O
-す	O
-る	O
-と	O
-発	O
-表	O
-し	O
-た	O
-。	O
-
-そ	O
-れ	O
-と	O
-同	O
-時	O
-に	O
-、	O
-W	B-ART
-i	I-ART
-n	I-ART
-d	I-ART
-o	I-ART
-w	I-ART
-s	I-ART
-V	I-ART
-i	I-ART
-s	I-ART
-t	I-ART
-a	I-ART
-の	O
-公	O
-式	O
-サ	O
-イ	O
-ト	O
-が	O
-開	O
-設	O
-さ	O
-れ	O
-、	O
-追	O
-っ	O
-て	O
-日	O
-本	O
-語	O
-版	O
-の	O
-サ	O
-イ	O
-ト	O
-も	O
-開	O
-設	O
-さ	O
-れ	O
-た	O
-。	O
-
-V	O
-i	O
-s	O
-t	O
-a	O
-と	O
-は	O
-、	O
-展	O
-望	O
-、	O
-眺	O
-望	O
-、	O
-見	O
-通	O
-し	O
-、	O
-予	O
-想	O
-、	O
-美	O
-し	O
-い	O
-景	O
-色	O
-な	O
-ど	O
-を	O
-意	O
-味	O
-す	O
-る	O
-単	O
-語	O
-で	O
-あ	O
-る	O
-。	O
-
-同	O
-O	O
-S	O
-の	O
-開	O
-発	O
-コ	O
-ー	O
-ド	O
-ネ	O
-ー	O
-ム	O
-は	O
-「	O
-L	B-ART
-o	I-ART
-n	I-ART
-g	I-ART
-h	I-ART
-o	I-ART
-r	I-ART
-n	I-ART
-」	O
-（	O
-ロ	B-ART
-ン	I-ART
-グ	I-ART
-ホ	I-ART
-ー	I-ART
-ン	I-ART
-）	O
-で	O
-、	O
-正	O
-式	O
-名	O
-称	O
-が	O
-発	O
-表	O
-さ	O
-れ	O
-る	O
-ま	O
-で	O
-は	O
-そ	O
-の	O
-コ	O
-ー	O
-ド	O
-ネ	O
-ー	O
-ム	O
-で	O
-呼	O
-ば	O
-れ	O
-て	O
-い	O
-た	O
-。	O
-
-同	O
-社	O
-は	O
-、	O
-開	O
-発	O
-者	O
-や	O
-技	O
-術	O
-者	O
-向	O
-け	O
-の	O
-ベ	O
-ー	O
-タ	O
-版	O
-を	O
-2	B-DAT
-0	I-DAT
-0	I-DAT
-5	I-DAT
-年	I-DAT
-8	I-DAT
-月	I-DAT
-3	I-DAT
-日	I-DAT
-（	O
-日	B-LOC
-本	I-LOC
-時	O
-間	O
-:	O
-8	B-DAT
-月	I-DAT
-4	I-DAT
-日	I-DAT
-）	O
-頃	O
-に	O
-リ	O
-リ	O
-ー	O
-ス	O
-す	O
-る	O
-予	O
-定	O
-と	O
-発	O
-表	O
-し	O
-て	O
-い	O
-る	O
-。	O
-
-気	B-ORG
-象	I-ORG
-庁	I-ORG
-に	O
-よ	O
-る	O
-と	O
-、	O
-2	B-DAT
-3	I-DAT
-日	I-DAT
-午	B-TIM
-後	I-TIM
-4	I-TIM
-時	I-TIM
-3	I-TIM
-5	I-TIM
-分	I-TIM
-（	O
-以	O
-下	O
-本	O
-文	O
-は	O
-す	O
-べ	O
-て	O
-日	B-LOC
-本	I-LOC
-時	O
-間	O
-、	O
-U	O
-T	O
-C	O
-+	O
-9	O
-)	O
-ご	O
-ろ	O
-、	O
-関	B-LOC
-東	I-LOC
-地	O
-方	O
-・	O
-甲	B-LOC
-信	I-LOC
-越	I-LOC
-な	O
-ど	O
-広	O
-い	O
-地	O
-域	O
-で	O
-最	O
-大	O
-震	O
-度	O
-5	O
-強	O
-の	O
-地	O
-震	O
-が	O
-あ	O
-っ	O
-た	O
-。	O
-
-震	O
-源	O
-は	O
-千	B-LOC
-葉	I-LOC
-県	I-LOC
-北	O
-西	O
-部	O
-、	O
-震	O
-源	O
-の	O
-深	O
-さ	O
-は	O
-約	O
-7	O
-3	O
-k	O
-m	O
-、	O
-地	O
-震	O
-の	O
-規	O
-模	O
-を	O
-示	O
-す	O
-マ	O
-グ	O
-ニ	O
-チ	O
-ュ	O
-ー	O
-ド	O
-は	O
-6	O
-.	O
-0	O
-と	O
-推	O
-定	O
-し	O
-て	O
-い	O
-る	O
-。	O
-
-こ	O
-の	O
-地	O
-震	O
-に	O
-よ	O
-る	O
-津	O
-波	O
-の	O
-心	O
-配	O
-は	O
-な	O
-い	O
-。	O
-
-気	B-ORG
-象	I-ORG
-庁	I-ORG
-が	O
-発	O
-表	O
-し	O
-た	O
-各	O
-地	O
-の	O
-主	O
-な	O
-震	O
-度	O
-は	O
-次	O
-の	O
-と	O
-お	O
-り	O
-。	O
-
-Y	B-ART
-a	I-ART
-h	I-ART
-o	I-ART
-o	I-ART
-!	I-ART
-路	I-ART
-線	I-ART
-情	I-ART
-報	I-ART
-等	O
-に	O
-よ	O
-る	O
-、	O
-記	O
-事	O
-発	O
-行	O
-時	O
-（	O
-2	O
-3	O
-時	O
-）	O
-の	O
-状	O
-況	O
-は	O
-次	O
-の	O
-通	O
-り	O
-。	O
-
-東	B-LOC
-京	I-LOC
-・	O
-埼	B-LOC
-玉	I-LOC
-・	O
-千	B-LOC
-葉	I-LOC
-・	O
-神	B-LOC
-奈	I-LOC
-川	I-LOC
-で	O
-2	O
-時	O
-間	O
-あ	O
-ま	O
-り	O
-通	O
-話	O
-が	O
-規	O
-制	O
-さ	O
-れ	O
-た	O
-。	O
-
-エ	O
-レ	O
-ベ	O
-ー	O
-タ	O
-ー	O
-の	O
-中	O
-に	O
-人	O
-が	O
-閉	O
-じ	O
-込	O
-め	O
-ら	O
-れ	O
-る	O
-被	O
-害	O
-が	O
-4	O
-都	O
-県	O
-で	O
-4	O
-6	O
-件	O
-。	O
-
-す	O
-べ	O
-て	O
-救	O
-出	O
-済	O
-み	O
-。	O
-
-（	O
-2	B-TIM
-2	I-TIM
-時	I-TIM
-現	O
-在	O
-）	O
-
-三	B-LOC
-郷	I-LOC
-市	I-LOC
-の	O
-カ	O
-ラ	O
-オ	O
-ケ	O
-店	O
-で	O
-は	O
-、	O
-ガ	O
-ラ	O
-ス	O
-の	O
-破	O
-片	O
-が	O
-刺	O
-さ	O
-り	O
-女	O
-性	O
-が	O
-け	O
-が	O
-を	O
-し	O
-た	O
-と	O
-の	O
-情	O
-報	O
-。	O
-
-鴻	B-LOC
-巣	I-LOC
-市	I-LOC
-の	O
-ホ	O
-ー	O
-ム	O
-セ	O
-ン	O
-タ	O
-ー	O
-で	O
-は	O
-落	O
-ち	O
-た	O
-案	O
-内	O
-板	O
-で	O
-客	O
-5	O
-人	O
-が	O
-軽	O
-傷	O
-を	O
-負	O
-っ	O
-た	O
-。	O
-
-新	B-LOC
-宿	I-LOC
-区	I-LOC
-・	O
-品	B-LOC
-川	I-LOC
-区	I-LOC
-・	O
-足	B-LOC
-立	I-LOC
-区	I-LOC
-・	O
-豊	B-LOC
-島	I-LOC
-区	I-LOC
-で	O
-は	O
-、	O
-6	O
-箇	O
-所	O
-で	O
-エ	O
-レ	O
-ベ	O
-ー	O
-タ	O
-ー	O
-が	O
-停	O
-止	O
-し	O
-人	O
-が	O
-閉	O
-じ	O
-込	O
-め	O
-ら	O
-れ	O
-て	O
-い	O
-る	O
-と	O
-の	O
-情	O
-報	O
-。	O
-
-足	B-LOC
-立	I-LOC
-区	I-LOC
-で	O
-は	O
-熱	O
-湯	O
-が	O
-か	O
-か	O
-り	O
-や	O
-け	O
-ど	O
-を	O
-し	O
-た	O
-と	O
-い	O
-う	O
-通	O
-報	O
-が	O
-あ	O
-っ	O
-た	O
-と	O
-の	O
-情	O
-報	O
-。	O
-
-目	B-LOC
-黒	I-LOC
-区	I-LOC
-の	O
-民	O
-家	O
-で	O
-は	O
-火	O
-災	O
-が	O
-発	O
-生	O
-。	O
-
-け	O
-が	O
-人	O
-な	O
-し	O
-。	O
-
-江	B-LOC
-戸	I-LOC
-川	I-LOC
-区	I-LOC
-で	O
-は	O
-鉄	O
-塔	O
-が	O
-倒	O
-れ	O
-高	O
-圧	O
-線	O
-が	O
-落	O
-下	O
-。	O
-
-隣	O
-家	O
-の	O
-屋	O
-根	O
-な	O
-ど	O
-が	O
-焦	O
-げ	O
-た	O
-が	O
-け	O
-が	O
-人	O
-は	O
-な	O
-し	O
-。	O
-
-江	B-LOC
-東	I-LOC
-区	I-LOC
-の	O
-立	O
-体	O
-駐	O
-車	O
-場	O
-で	O
-2	O
-階	O
-か	O
-ら	O
-乗	O
-用	O
-車	O
-が	O
-地	O
-上	O
-に	O
-落	O
-ち	O
-た	O
-。	O
-
-け	O
-が	O
-人	O
-な	O
-し	O
-。	O
-
-毎	B-ORG
-日	I-ORG
-新	I-ORG
-聞	I-ORG
-に	O
-よ	O
-る	O
-と	O
-、	O
-2	B-DAT
-3	I-DAT
-日	I-DAT
-2	B-TIM
-1	I-TIM
-時	I-TIM
-2	I-TIM
-分	I-TIM
-現	O
-在	O
-で	O
-、	O
-東	B-LOC
-京	I-LOC
-・	O
-埼	B-LOC
-玉	I-LOC
-・	O
-千	B-LOC
-葉	I-LOC
-・	O
-神	B-LOC
-奈	I-LOC
-川	I-LOC
-の	O
-4	O
-都	O
-県	O
-で	O
-計	O
-2	O
-9	O
-人	O
-が	O
-重	O
-軽	O
-傷	O
-を	O
-負	O
-っ	O
-た	O
-。	O
-
-2	B-DAT
-2	I-DAT
-日	I-DAT
-英	O
-語	O
-版	O
-ウ	B-ORG
-ィ	I-ORG
-キ	I-ORG
-ニ	I-ORG
-ュ	I-ORG
-ー	I-ORG
-ス	I-ORG
-に	O
-よ	O
-る	O
-と	O
-、	O
-
-イ	B-LOC
-ギ	I-LOC
-リ	I-LOC
-ス	I-LOC
-の	O
-ロ	B-LOC
-ン	I-LOC
-ド	I-LOC
-ン	I-LOC
-首	O
-都	O
-警	O
-察	O
-は	O
-南	B-LOC
-ロ	I-LOC
-ン	I-LOC
-ド	I-LOC
-ン	I-LOC
-の	O
-ス	B-LOC
-ト	I-LOC
-ッ	I-LOC
-ク	I-LOC
-ウ	I-LOC
-ェ	I-LOC
-ル	I-LOC
-に	O
-あ	O
-る	O
-住	O
-宅	O
-で	O
-容	O
-疑	O
-者	O
-を	O
-逮	O
-捕	O
-し	O
-よ	O
-う	O
-と	O
-し	O
-た	O
-と	O
-発	O
-表	O
-し	O
-、	O
-「	O
-こ	O
-れ	O
-は	O
-2	B-DAT
-1	I-DAT
-日	I-DAT
-の	O
-爆	O
-破	O
-事	O
-件	O
-の	O
-捜	O
-査	O
-の	O
-一	O
-環	O
-で	O
-あ	O
-る	O
-」	O
-と	O
-語	O
-っ	O
-た	O
-。	O
-
-爆	O
-発	O
-現	O
-場	O
-付	O
-近	O
-で	O
-監	O
-視	O
-カ	O
-メ	O
-ラ	O
-網	O
-（	O
-C	B-ART
-C	I-ART
-T	I-ART
-V	I-ART
-)	O
-の	O
-カ	O
-メ	O
-ラ	O
-が	O
-捉	O
-え	O
-た	O
-男	O
-性	O
-の	O
-写	O
-真	O
-4	O
-枚	O
-と	O
-、	O
-こ	O
-の	O
-容	O
-疑	O
-者	O
-が	O
-同	O
-一	O
-人	O
-物	O
-か	O
-ど	O
-う	O
-か	O
-に	O
-つ	O
-い	O
-て	O
-は	O
-、	O
-当	O
-局	O
-は	O
-コ	O
-メ	O
-ン	O
-ト	O
-し	O
-な	O
-い	O
-意	O
-向	O
-で	O
-あ	O
-る	O
-。	O
-
-ま	O
-た	O
-同	O
-日	O
-現	O
-地	O
-時	O
-間	O
-午	B-TIM
-後	I-TIM
-6	I-TIM
-時	I-TIM
-す	O
-ぎ	O
-、	O
-バ	B-LOC
-ー	I-LOC
-ミ	I-LOC
-ン	I-LOC
-ガ	I-LOC
-ム	I-LOC
-市	I-LOC
-中	O
-心	O
-部	O
-の	O
-鉄	O
-道	O
-駅	O
-ス	B-LOC
-ノ	I-LOC
-ウ	I-LOC
-・	I-LOC
-ヒ	I-LOC
-ル	I-LOC
-駅	I-LOC
-で	O
-テ	B-ART
-ロ	I-ART
-法	I-ART
-4	I-ART
-4	I-ART
-項	I-ART
-に	O
-よ	O
-り	O
-警	O
-察	O
-が	O
-男	O
-性	O
-1	O
-名	O
-を	O
-逮	O
-捕	O
-し	O
-た	O
-。	O
-
-駅	O
-構	O
-内	O
-で	O
-2	O
-個	O
-の	O
-疑	O
-わ	O
-し	O
-い	O
-ス	O
-ー	O
-ツ	O
-ケ	O
-ー	O
-ス	O
-が	O
-発	O
-見	O
-さ	O
-れ	O
-た	O
-た	O
-め	O
-、	O
-駅	O
-は	O
-非	O
-常	O
-線	O
-が	O
-張	O
-ら	O
-れ	O
-人	O
-は	O
-退	O
-避	O
-さ	O
-せ	O
-ら	O
-れ	O
-て	O
-い	O
-た	O
-。	O
-
-ス	O
-ー	O
-ツ	O
-ケ	O
-ー	O
-ス	O
-は	O
-調	O
-査	O
-さ	O
-れ	O
-、	O
-爆	O
-発	O
-物	O
-は	O
-入	O
-っ	O
-て	O
-い	O
-な	O
-か	O
-っ	O
-た	O
-こ	O
-と	O
-が	O
-判	O
-明	O
-し	O
-た	O
-。	O
-
-逮	O
-捕	O
-さ	O
-れ	O
-た	O
-男	O
-性	O
-は	O
-不	O
-起	O
-訴	O
-に	O
-な	O
-る	O
-だ	O
-ろ	O
-う	O
-と	O
-B	B-ORG
-B	I-ORG
-C	I-ORG
-は	O
-報	O
-道	O
-し	O
-た	O
-。	O
-
-ス	B-LOC
-ノ	I-LOC
-ウ	I-LOC
-・	I-LOC
-ヒ	I-LOC
-ル	I-LOC
-駅	I-LOC
-は	O
-現	O
-時	O
-時	O
-間	O
-午	B-TIM
-後	I-TIM
-8	I-TIM
-時	I-TIM
-に	O
-再	O
-び	O
-開	O
-放	O
-さ	O
-れ	O
-た	O
-。	O
-
-レ	B-LOC
-バ	I-LOC
-ノ	I-LOC
-ン	I-LOC
-の	O
-位	O
-置	O
-
-2	B-DAT
-3	I-DAT
-日	I-DAT
-、	O
-レ	B-LOC
-バ	I-LOC
-ノ	I-LOC
-ン	I-LOC
-の	O
-首	O
-都	O
-ベ	B-LOC
-イ	I-LOC
-ル	I-LOC
-ー	I-LOC
-ト	I-LOC
-の	O
-レ	O
-ス	O
-ト	O
-ラ	O
-ン	O
-街	O
-で	O
-爆	O
-発	O
-が	O
-あ	O
-り	O
-、	O
-少	O
-な	O
-く	O
-と	O
-も	O
-1	O
-2	O
-人	O
-が	O
-負	O
-傷	O
-し	O
-た	O
-。	O
-
-2	B-DAT
-2	I-DAT
-日	I-DAT
-よ	O
-り	O
-ベ	B-LOC
-イ	I-LOC
-ル	I-LOC
-ー	I-LOC
-ト	I-LOC
-を	O
-訪	O
-問	O
-し	O
-て	O
-い	O
-た	O
-ラ	B-PSN
-イ	I-PSN
-ス	I-PSN
-米	B-LOC
-国	O
-務	O
-長	O
-官	O
-が	O
-出	O
-国	O
-し	O
-て	O
-か	O
-ら	O
-2	B-TIM
-時	I-TIM
-間	I-TIM
-後	I-TIM
-だ	O
-っ	O
-た	O
-。	O
-
-2	B-DAT
-2	I-DAT
-日	I-DAT
-、	O
-イ	B-LOC
-ス	I-LOC
-ラ	I-LOC
-エ	I-LOC
-ル	I-LOC
-よ	O
-り	O
-専	O
-用	O
-機	O
-で	O
-レ	B-LOC
-バ	I-LOC
-ノ	I-LOC
-ン	I-LOC
-入	O
-り	O
-し	O
-た	O
-ラ	B-PSN
-イ	I-PSN
-ス	I-PSN
-長	O
-官	O
-の	O
-電	O
-撃	O
-訪	O
-問	O
-は	O
-、	O
-今	B-DAT
-年	I-DAT
-始	O
-ま	O
-っ	O
-た	O
-シ	B-LOC
-リ	I-LOC
-ア	I-LOC
-の	O
-レ	B-LOC
-バ	I-LOC
-ノ	I-LOC
-ン	I-LOC
-撤	O
-兵	O
-と	O
-レ	B-LOC
-バ	I-LOC
-ノ	I-LOC
-ン	I-LOC
-新	O
-政	O
-権	O
-へ	O
-の	O
-支	O
-援	O
-を	O
-確	O
-実	O
-な	O
-も	O
-の	O
-に	O
-す	O
-る	O
-目	O
-的	O
-で	O
-行	O
-わ	O
-れ	O
-た	O
-。	O
-
-爆	O
-発	O
-は	O
-午	B-TIM
-後	I-TIM
-1	I-TIM
-0	I-TIM
-時	I-TIM
-頃	O
-レ	O
-ス	O
-ト	O
-ラ	O
-ン	O
-の	O
-前	O
-で	O
-起	O
-こ	O
-り	O
-、	O
-3	O
-台	O
-の	O
-乗	O
-用	O
-車	O
-を	O
-破	O
-壊	O
-し	O
-た	O
-、	O
-と	O
-治	O
-安	O
-当	O
-局	O
-者	O
-は	O
-A	B-ORG
-P	I-ORG
-通	I-ORG
-信	I-ORG
-に	O
-語	O
-っ	O
-た	O
-。	O
-
-爆	O
-弾	O
-は	O
-路	O
-上	O
-に	O
-駐	O
-車	O
-し	O
-た	O
-乗	O
-用	O
-車	O
-の	O
-下	O
-ま	O
-た	O
-は	O
-中	O
-に	O
-仕	O
-掛	O
-け	O
-ら	O
-れ	O
-た	O
-と	O
-推	O
-測	O
-さ	O
-れ	O
-て	O
-い	O
-る	O
-。	O
-
-場	O
-所	O
-は	O
-、	O
-東	B-LOC
-ベ	I-LOC
-イ	I-LOC
-ル	I-LOC
-ー	I-LOC
-ト	I-LOC
-の	O
-キ	O
-リ	O
-ス	O
-ト	O
-教	O
-徒	O
-居	O
-住	O
-地	O
-区	O
-の	O
-境	O
-界	O
-部	O
-に	O
-あ	O
-た	O
-る	O
-私	B-ORG
-立	I-ORG
-・	I-ORG
-聖	I-ORG
-ヨ	I-ORG
-ハ	I-ORG
-ネ	I-ORG
-大	I-ORG
-学	I-ORG
-の	O
-付	O
-近	O
-で	O
-あ	O
-る	O
-。	O
-
-地	O
-元	O
-の	O
-L	B-ORG
-B	I-ORG
-C	I-ORG
-テ	I-ORG
-レ	I-ORG
-ビ	I-ORG
-は	O
-当	O
-初	O
-、	O
-主	O
-に	O
-飛	O
-散	O
-し	O
-た	O
-ガ	O
-ラ	O
-ス	O
-の	O
-破	O
-片	O
-に	O
-よ	O
-り	O
-6	O
-名	O
-が	O
-負	O
-傷	O
-し	O
-、	O
-乗	O
-用	O
-車	O
-の	O
-所	O
-有	O
-者	O
-は	O
-地	O
-元	O
-の	O
-住	O
-民	O
-ヨ	B-PSN
-セ	I-PSN
-フ	I-PSN
-・	I-PSN
-ナ	I-PSN
-デ	I-PSN
-ィ	I-PSN
-ム	I-PSN
-た	O
-と	O
-報	O
-じ	O
-た	O
-。	O
-
-L	B-ORG
-B	I-ORG
-C	I-ORG
-テ	I-ORG
-レ	I-ORG
-ビ	I-ORG
-に	O
-よ	O
-り	O
-報	O
-道	O
-さ	O
-れ	O
-た	O
-負	O
-傷	O
-者	O
-の	O
-数	O
-は	O
-そ	O
-の	O
-後	O
-増	O
-え	O
-、	O
-少	O
-な	O
-く	O
-と	O
-も	O
-1	O
-2	O
-名	O
-が	O
-負	O
-傷	O
-し	O
-た	O
-と	O
-報	O
-道	O
-さ	O
-れ	O
-た	O
-。	O
+ミサイル	名詞	一般	*	*	*	*	ミサイル	ミサイル	ミサイル	O
+防衛	名詞	サ変接続	*	*	*	*	防衛	ボウエイ	ボーエイ	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+構成	名詞	サ変接続	*	*	*	*	構成	コウセイ	コーセイ	O
+する	動詞	自立	*	*	サ変・スル	基本形	する	スル	スル	O
+PAC	名詞	一般	*	*	*	*	*	B-ART
+3	名詞	数	*	*	*	*	*	I-ART
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+入間	名詞	固有名詞	地域	一般	*	*	入間	イルマ	イルマ	B-LOC
+基地	名詞	一般	*	*	*	*	基地	キチ	キチ	I-LOC
+(	名詞	サ変接続	*	*	*	*	*	O
+埼玉	名詞	固有名詞	地域	一般	*	*	埼玉	サイタマ	サイタマ	B-LOC
+)、	名詞	サ変接続	*	*	*	*	*	O
+航空	名詞	一般	*	*	*	*	航空	コウクウ	コークー	B-ORG
+自衛隊	名詞	固有名詞	組織	*	*	*	自衛隊	ジエイタイ	ジエイタイ	I-ORG
+岐阜	名詞	固有名詞	地域	一般	*	*	岐阜	ギフ	ギフ	B-LOC
+基地	名詞	一般	*	*	*	*	基地	キチ	キチ	I-LOC
+(	名詞	サ変接続	*	*	*	*	*	O
+岐阜	名詞	固有名詞	地域	一般	*	*	岐阜	ギフ	ギフ	B-LOC
+県	名詞	接尾	地域	*	*	*	県	ケン	ケン	I-LOC
+各務原	名詞	固有名詞	地域	一般	*	*	各務原	カガミハラ	カガミハラ	I-LOC
+市	名詞	接尾	地域	*	*	*	市	シ	シ	I-LOC
+)、	名詞	サ変接続	*	*	*	*	*	O
+航空	名詞	一般	*	*	*	*	航空	コウクウ	コークー	B-ORG
+自衛隊	名詞	固有名詞	組織	*	*	*	自衛隊	ジエイタイ	ジエイタイ	I-ORG
+春日	名詞	固有名詞	地域	一般	*	*	春日	カスガ	カスガ	B-LOC
+基地	名詞	一般	*	*	*	*	基地	キチ	キチ	I-LOC
+(	名詞	サ変接続	*	*	*	*	*	O
+福岡	名詞	固有名詞	地域	一般	*	*	福岡	フクオカ	フクオカ	B-LOC
+県	名詞	接尾	地域	*	*	*	県	ケン	ケン	I-LOC
+春日	名詞	固有名詞	地域	一般	*	*	春日	カスガ	カスガ	I-LOC
+市	名詞	接尾	地域	*	*	*	市	シ	シ	I-LOC
+)	名詞	サ変接続	*	*	*	*	*	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+配備	名詞	サ変接続	*	*	*	*	配備	ハイビ	ハイビ	O
+さ	動詞	自立	*	*	サ変・スル	未然レル接続	する	サ	サ	O
+れる	動詞	接尾	*	*	一段	基本形	れる	レル	レル	O
+見込	名詞	一般	*	*	*	*	見込	ミコミ	ミコミ	O
+と	助詞	格助詞	一般	*	*	*	と	ト	ト	O
+なっ	動詞	自立	*	*	五段・ラ行	連用タ接続	なる	ナッ	ナッ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+防衛庁	名詞	固有名詞	組織	*	*	*	防衛庁	ボウエイチョウ	ボーエイチョー	B-ORG
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+PAC	名詞	一般	*	*	*	*	*	B-ART
+3	名詞	数	*	*	*	*	*	I-ART
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+18	名詞	数	*	*	*	*	*	B-DAT
+年度	名詞	接尾	助数詞	*	*	*	年度	ネンド	ネンド	I-DAT
+予算	名詞	一般	*	*	*	*	予算	ヨサン	ヨサン	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+航空	名詞	一般	*	*	*	*	航空	コウクウ	コークー	B-ORG
+自衛隊	名詞	固有名詞	組織	*	*	*	自衛隊	ジエイタイ	ジエイタイ	I-ORG
+岐阜	名詞	固有名詞	地域	一般	*	*	岐阜	ギフ	ギフ	B-LOC
+基地	名詞	一般	*	*	*	*	基地	キチ	キチ	I-LOC
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+19	名詞	数	*	*	*	*	*	B-DAT
+年度	名詞	接尾	助数詞	*	*	*	年度	ネンド	ネンド	I-DAT
+予算	名詞	一般	*	*	*	*	予算	ヨサン	ヨサン	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+航空	名詞	一般	*	*	*	*	航空	コウクウ	コークー	B-ORG
+自衛隊	名詞	固有名詞	組織	*	*	*	自衛隊	ジエイタイ	ジエイタイ	I-ORG
+春日	名詞	固有名詞	地域	一般	*	*	春日	カスガ	カスガ	B-LOC
+基地	名詞	一般	*	*	*	*	基地	キチ	キチ	I-LOC
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+配備	名詞	サ変接続	*	*	*	*	配備	ハイビ	ハイビ	O
+する	動詞	自立	*	*	サ変・スル	基本形	する	スル	スル	O
+こと	名詞	非自立	一般	*	*	*	こと	コト	コト	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+固め	動詞	自立	*	*	一段	連用形	固める	カタメ	カタメ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+既に	副詞	一般	*	*	*	*	既に	スデニ	スデニ	O
+16	名詞	数	*	*	*	*	*	B-DAT
+年度	名詞	接尾	助数詞	*	*	*	年度	ネンド	ネンド	I-DAT
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+予算	名詞	一般	*	*	*	*	予算	ヨサン	ヨサン	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+配備	名詞	サ変接続	*	*	*	*	配備	ハイビ	ハイビ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+決定	名詞	サ変接続	*	*	*	*	決定	ケッテイ	ケッテイ	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+いる	動詞	非自立	*	*	一段	基本形	いる	イル	イル	O
+入間	名詞	固有名詞	地域	一般	*	*	入間	イルマ	イルマ	B-LOC
+基地	名詞	一般	*	*	*	*	基地	キチ	キチ	I-LOC
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+合わせ	動詞	自立	*	*	一段	連用形	合わせる	アワセ	アワセ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+防衛庁	名詞	固有名詞	組織	*	*	*	防衛庁	ボウエイチョウ	ボーエイチョー	B-ORG
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+予定	名詞	サ変接続	*	*	*	*	予定	ヨテイ	ヨテイ	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+いる	動詞	非自立	*	*	一段	基本形	いる	イル	イル	O
+3	名詞	数	*	*	*	*	*	O
+ヶ所	名詞	接尾	助数詞	*	*	*	ヶ所	カショ	カショ	O
+すべて	名詞	副詞可能	*	*	*	*	すべて	スベテ	スベテ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+決まっ	動詞	自立	*	*	五段・ラ行	連用タ接続	決まる	キマッ	キマッ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+こと	名詞	非自立	一般	*	*	*	こと	コト	コト	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+なる	動詞	自立	*	*	五段・ラ行	基本形	なる	ナル	ナル	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+千歳基地	名詞	固有名詞	一般	*	*	*	千歳基地	チトセキチ	チトセキチ	B-LOC
+について	助詞	格助詞	連語	*	*	*	について	ニツイテ	ニツイテ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+「	記号	括弧開	*	*	*	*	「	「	「	O
+中国	名詞	固有名詞	地域	国	*	*	中国	チュウゴク	チューゴク	B-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+弾道	名詞	一般	*	*	*	*	弾道	ダンドウ	ダンドー	O
+ミサイル	名詞	一般	*	*	*	*	ミサイル	ミサイル	ミサイル	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+脅威	名詞	一般	*	*	*	*	脅威	キョウイ	キョーイ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+高まっ	動詞	自立	*	*	五段・ラ行	連用タ接続	高まる	タカマッ	タカマッ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+おり	動詞	非自立	*	*	五段・ラ行	連用形	おる	オリ	オリ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+より	副詞	一般	*	*	*	*	より	ヨリ	ヨリ	O
+緊急	名詞	形容動詞語幹	*	*	*	*	緊急	キンキュウ	キンキュー	O
+性	名詞	接尾	一般	*	*	*	性	セイ	セイ	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+要する	動詞	自立	*	*	サ変・−スル	基本形	要する	ヨウスル	ヨースル	O
+の	名詞	非自立	一般	*	*	*	の	ノ	ノ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+九州	名詞	固有名詞	地域	一般	*	*	九州	キュウシュウ	キューシュー	B-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+防護	名詞	サ変接続	*	*	*	*	防護	ボウゴ	ボーゴ	O
+だ	助動詞	*	*	*	特殊・ダ	基本形	だ	ダ	ダ	O
+」	記号	括弧閉	*	*	*	*	」	」	」	O
+として	助詞	格助詞	連語	*	*	*	として	トシテ	トシテ	O
+導入	名詞	サ変接続	*	*	*	*	導入	ドウニュウ	ドーニュー	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+見送ら	動詞	自立	*	*	五段・ラ行	未然形	見送る	ミオクラ	ミオクラ	O
+れ	動詞	接尾	*	*	一段	連用形	れる	レ	レ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+また	接続詞	*	*	*	*	*	また	マタ	マタ	O
+これ	名詞	代名詞	一般	*	*	*	これ	コレ	コレ	O
+と	助詞	格助詞	一般	*	*	*	と	ト	ト	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+別に	副詞	一般	*	*	*	*	別に	ベツニ	ベツニ	O
+航空	名詞	一般	*	*	*	*	航空	コウクウ	コークー	B-ORG
+自衛隊	名詞	固有名詞	組織	*	*	*	自衛隊	ジエイタイ	ジエイタイ	I-ORG
+府中	名詞	固有名詞	地域	一般	*	*	府中	フチュウ	フチュー	B-LOC
+基地	名詞	一般	*	*	*	*	基地	キチ	キチ	I-LOC
+(	名詞	サ変接続	*	*	*	*	*	O
+東京	名詞	固有名詞	地域	一般	*	*	東京	トウキョウ	トーキョー	B-LOC
+)	名詞	サ変接続	*	*	*	*	*	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+PAC	名詞	一般	*	*	*	*	*	B-ART
+3	名詞	数	*	*	*	*	*	I-ART
+部隊	名詞	一般	*	*	*	*	部隊	ブタイ	ブタイ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+配置	名詞	サ変接続	*	*	*	*	配置	ハイチ	ハイチ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+検討	名詞	サ変接続	*	*	*	*	検討	ケントウ	ケントー	O
+さ	動詞	自立	*	*	サ変・スル	未然レル接続	する	サ	サ	O
+れ	動詞	接尾	*	*	一段	連用形	れる	レ	レ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+いる	動詞	非自立	*	*	一段	基本形	いる	イル	イル	O
+こと	名詞	非自立	一般	*	*	*	こと	コト	コト	O
+も	助詞	係助詞	*	*	*	*	も	モ	モ	O
+明らか	名詞	形容動詞語幹	*	*	*	*	明らか	アキラカ	アキラカ	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+なっ	動詞	自立	*	*	五段・ラ行	連用タ接続	なる	ナッ	ナッ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+いる	動詞	非自立	*	*	一段	基本形	いる	イル	イル	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+2005	名詞	数	*	*	*	*	*	B-DAT
+年	名詞	接尾	助数詞	*	*	*	年	ネン	ネン	I-DAT
+11	名詞	数	*	*	*	*	*	I-DAT
+月	名詞	一般	*	*	*	*	月	ツキ	ツキ	I-DAT
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+神奈川	名詞	固有名詞	地域	一般	*	*	神奈川	カナガワ	カナガワ	B-LOC
+県	名詞	接尾	地域	*	*	*	県	ケン	ケン	I-LOC
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+開か	動詞	自立	*	*	五段・カ行イ音便	未然形	開く	ヒラカ	ヒラカ	O
+れる	動詞	接尾	*	*	一段	基本形	れる	レル	レル	O
+「	記号	括弧開	*	*	*	*	「	「	「	O
+全国	名詞	一般	*	*	*	*	全国	ゼンコク	ゼンコク	O
+豊か	名詞	形容動詞語幹	*	*	*	*	豊か	ユタカ	ユタカ	O
+な	助動詞	*	*	*	特殊・ダ	体言接続	だ	ナ	ナ	O
+海	名詞	一般	*	*	*	*	海	ウミ	ウミ	O
+づくり	名詞	接尾	一般	*	*	*	づくり	ヅクリ	ズクリ	O
+大会	名詞	一般	*	*	*	*	大会	タイカイ	タイカイ	O
+」	記号	括弧閉	*	*	*	*	」	」	」	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+実行	名詞	サ変接続	*	*	*	*	実行	ジッコウ	ジッコー	O
+委員	名詞	一般	*	*	*	*	委員	イイン	イイン	O
+会	名詞	接尾	一般	*	*	*	会	カイ	カイ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+7	名詞	数	*	*	*	*	*	B-DAT
+月	名詞	一般	*	*	*	*	月	ツキ	ツキ	I-DAT
+22	名詞	数	*	*	*	*	*	I-DAT
+日	名詞	接尾	助数詞	*	*	*	日	ニチ	ニチ	I-DAT
+、	記号	読点	*	*	*	*	、	、	、	O
+この	連体詞	*	*	*	*	*	この	コノ	コノ	O
+大会	名詞	一般	*	*	*	*	大会	タイカイ	タイカイ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+テーマ	名詞	一般	*	*	*	*	テーマ	テーマ	テーマ	O
+曲	名詞	接尾	一般	*	*	*	曲	キョク	キョク	O
+「	記号	括弧開	*	*	*	*	「	「	「	O
+海	名詞	一般	*	*	*	*	海	ウミ	ウミ	B-ART
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	I-ART
+唄	名詞	一般	*	*	*	*	唄	ウタ	ウタ	I-ART
+」	記号	括弧閉	*	*	*	*	」	」	」	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+制作	名詞	サ変接続	*	*	*	*	制作	セイサク	セイサク	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+人気	名詞	一般	*	*	*	*	人気	ニンキ	ニンキ	O
+バンド	名詞	一般	*	*	*	*	バンド	バンド	バンド	O
+TUBE	名詞	一般	*	*	*	*	*	B-ORG
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+リーダー	名詞	一般	*	*	*	*	リーダー	リーダー	リーダー	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+同	接頭詞	名詞接続	*	*	*	*	同	ドウ	ドー	O
+県	名詞	一般	*	*	*	*	県	ケン	ケン	O
+出身	名詞	一般	*	*	*	*	出身	シュッシン	シュッシン	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+前田	名詞	固有名詞	人名	姓	*	*	前田	マエダ	マエダ	B-PSN
+亘	名詞	固有名詞	人名	名	*	*	亘	ワタル	ワタル	I-PSN
+輝	名詞	固有名詞	人名	名	*	*	輝	アキラ	アキラ	I-PSN
+氏	名詞	接尾	人名	*	*	*	氏	シ	シ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+暴力団	名詞	一般	*	*	*	*	暴力団	ボウリョクダン	ボーリョクダン	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+パーティー	名詞	一般	*	*	*	*	パーティー	パーティー	パーティー	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+出演	名詞	サ変接続	*	*	*	*	出演	シュツエン	シュツエン	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+こと	名詞	非自立	一般	*	*	*	こと	コト	コト	O
+から	助詞	格助詞	一般	*	*	*	から	カラ	カラ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+「	記号	括弧開	*	*	*	*	「	「	「	O
+大会	名詞	一般	*	*	*	*	大会	タイカイ	タイカイ	O
+関係	名詞	サ変接続	*	*	*	*	関係	カンケイ	カンケイ	O
+者	名詞	接尾	一般	*	*	*	者	シャ	シャ	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+ふさわしく	形容詞	自立	*	*	形容詞・イ段	連用テ接続	ふさわしい	フサワシク	フサワシク	O
+ない	助動詞	*	*	*	特殊・ナイ	基本形	ない	ナイ	ナイ	O
+」	記号	括弧閉	*	*	*	*	」	」	」	O
+として	助詞	格助詞	連語	*	*	*	として	トシテ	トシテ	O
+曲	名詞	一般	*	*	*	*	曲	キョク	キョク	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+使用	名詞	サ変接続	*	*	*	*	使用	シヨウ	シヨー	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+中止	名詞	サ変接続	*	*	*	*	中止	チュウシ	チューシ	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+こと	名詞	非自立	一般	*	*	*	こと	コト	コト	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+発表	名詞	サ変接続	*	*	*	*	発表	ハッピョウ	ハッピョー	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+TUBE	名詞	一般	*	*	*	*	*	B-ORG
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+所属	名詞	サ変接続	*	*	*	*	所属	ショゾク	ショゾク	O
+事務所	名詞	一般	*	*	*	*	事務所	ジムショ	ジムショ	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+よれ	動詞	自立	*	*	五段・ラ行	仮定形	よる	ヨレ	ヨレ	O
+ば	助詞	接続助詞	*	*	*	*	ば	バ	バ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+前田	名詞	固有名詞	人名	姓	*	*	前田	マエダ	マエダ	B-PSN
+氏	名詞	接尾	人名	*	*	*	氏	シ	シ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+6	名詞	数	*	*	*	*	*	B-DAT
+月	名詞	接尾	助数詞	*	*	*	月	ツキ	ツキ	I-DAT
+中旬	名詞	副詞可能	*	*	*	*	中旬	チュウジュン	チュージュン	I-DAT
+、	記号	読点	*	*	*	*	、	、	、	O
+千葉	名詞	固有名詞	地域	一般	*	*	千葉	チバ	チバ	B-LOC
+県	名詞	接尾	地域	*	*	*	県	ケン	ケン	I-LOC
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+開か	動詞	自立	*	*	五段・カ行イ音便	未然形	開く	ヒラカ	ヒラカ	O
+れ	動詞	接尾	*	*	一段	連用形	れる	レ	レ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+ある	連体詞	*	*	*	*	*	ある	アル	アル	O
+指定	名詞	サ変接続	*	*	*	*	指定	シテイ	シテイ	O
+暴力団	名詞	一般	*	*	*	*	暴力団	ボウリョクダン	ボーリョクダン	O
+幹部	名詞	一般	*	*	*	*	幹部	カンブ	カンブ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+還暦	名詞	一般	*	*	*	*	還暦	カンレキ	カンレキ	O
+祝い	名詞	サ変接続	*	*	*	*	祝い	イワイ	イワイ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+パーティー	名詞	一般	*	*	*	*	パーティー	パーティー	パーティー	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+出演	名詞	サ変接続	*	*	*	*	出演	シュツエン	シュツエン	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+「	記号	括弧開	*	*	*	*	「	「	「	O
+ハッピー	名詞	形容動詞語幹	*	*	*	*	ハッピー	ハッピー	ハッピー	O
+バースデー	名詞	一般	*	*	*	*	バースデー	バースデー	バースデー	O
+」	記号	括弧閉	*	*	*	*	」	」	」	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+演奏	名詞	サ変接続	*	*	*	*	演奏	エンソウ	エンソー	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+事務所	名詞	一般	*	*	*	*	事務所	ジムショ	ジムショ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+「	記号	括弧開	*	*	*	*	「	「	「	O
+前田	名詞	固有名詞	人名	姓	*	*	前田	マエダ	マエダ	B-PSN
+氏	名詞	接尾	人名	*	*	*	氏	シ	シ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+友人	名詞	一般	*	*	*	*	友人	ユウジン	ユージン	O
+から	助詞	格助詞	一般	*	*	*	から	カラ	カラ	O
+頼ま	動詞	自立	*	*	五段・マ行	未然形	頼む	タノマ	タノマ	O
+れ	動詞	接尾	*	*	一段	連用形	れる	レ	レ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+出演	名詞	サ変接続	*	*	*	*	出演	シュツエン	シュツエン	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+相手	名詞	一般	*	*	*	*	相手	アイテ	アイテ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+暴力団	名詞	一般	*	*	*	*	暴力団	ボウリョクダン	ボーリョクダン	O
+と	助詞	格助詞	一般	*	*	*	と	ト	ト	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+知ら	動詞	自立	*	*	五段・ラ行	未然形	知る	シラ	シラ	O
+なかっ	助動詞	*	*	*	特殊・ナイ	連用タ接続	ない	ナカッ	ナカッ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+いう	動詞	自立	*	*	五段・ワ行促音便	基本形	いう	イウ	イウ	O
+が	助詞	接続助詞	*	*	*	*	が	ガ	ガ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+軽率	名詞	形容動詞語幹	*	*	*	*	軽率	ケイソツ	ケイソツ	O
+な	助動詞	*	*	*	特殊・ダ	体言接続	だ	ナ	ナ	O
+行為	名詞	サ変接続	*	*	*	*	行為	コウイ	コーイ	O
+だっ	助動詞	*	*	*	特殊・ダ	連用タ接続	だ	ダッ	ダッ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+」	記号	括弧閉	*	*	*	*	」	」	」	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+説明	名詞	サ変接続	*	*	*	*	説明	セツメイ	セツメイ	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+いる	動詞	非自立	*	*	一段	基本形	いる	イル	イル	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+この	連体詞	*	*	*	*	*	この	コノ	コノ	O
+「	記号	括弧開	*	*	*	*	「	「	「	O
+海	名詞	一般	*	*	*	*	海	ウミ	ウミ	B-ART
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	I-ART
+唄	名詞	一般	*	*	*	*	唄	ウタ	ウタ	I-ART
+」	記号	括弧閉	*	*	*	*	」	」	」	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+全国	名詞	一般	*	*	*	*	全国	ゼンコク	ゼンコク	O
+から	助詞	格助詞	一般	*	*	*	から	カラ	カラ	O
+募集	名詞	サ変接続	*	*	*	*	募集	ボシュウ	ボシュー	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+歌詞	名詞	一般	*	*	*	*	歌詞	カシ	カシ	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+もと	名詞	一般	*	*	*	*	もと	モト	モト	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+TUBE	名詞	一般	*	*	*	*	*	B-ORG
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+制作	名詞	サ変接続	*	*	*	*	制作	セイサク	セイサク	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+当	接頭詞	名詞接続	*	*	*	*	当	トウ	トー	O
+大会	名詞	一般	*	*	*	*	大会	タイカイ	タイカイ	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+天皇	名詞	一般	*	*	*	*	天皇	テンノウ	テンノー	O
+・	記号	一般	*	*	*	*	・	・	・	O
+皇后	名詞	一般	*	*	*	*	皇后	コウゴウ	コーゴー	O
+両	接頭詞	名詞接続	*	*	*	*	両	リョウ	リョー	O
+陛下	名詞	一般	*	*	*	*	陛下	ヘイカ	ヘイカ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+出席	名詞	サ変接続	*	*	*	*	出席	シュッセキ	シュッセキ	O
+する	動詞	自立	*	*	サ変・スル	基本形	する	スル	スル	O
+予定	名詞	サ変接続	*	*	*	*	予定	ヨテイ	ヨテイ	O
+で	助動詞	*	*	*	特殊・ダ	連用形	だ	デ	デ	O
+ある	助動詞	*	*	*	五段・ラ行アル	基本形	ある	アル	アル	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+一方	接続詞	*	*	*	*	*	一方	イッポウ	イッポー	O
+、	記号	読点	*	*	*	*	、	、	、	O
+神奈川	名詞	固有名詞	地域	一般	*	*	神奈川	カナガワ	カナガワ	B-LOC
+県	名詞	接尾	地域	*	*	*	県	ケン	ケン	I-LOC
+厚木	名詞	固有名詞	地域	一般	*	*	厚木	アツギ	アツギ	I-LOC
+市	名詞	接尾	地域	*	*	*	市	シ	シ	I-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+市制	名詞	一般	*	*	*	*	市制	シセイ	シセイ	O
+50	名詞	数	*	*	*	*	*	B-DAT
+周年	名詞	接尾	助数詞	*	*	*	周年	シュウネン	シューネン	I-DAT
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+記念	名詞	サ変接続	*	*	*	*	記念	キネン	キネン	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+TUBE	名詞	一般	*	*	*	*	*	B-ORG
+野外	名詞	一般	*	*	*	*	野外	ヤガイ	ヤガイ	O
+コンサート	名詞	一般	*	*	*	*	コンサート	コンサート	コンサート	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+予定	名詞	サ変接続	*	*	*	*	予定	ヨテイ	ヨテイ	O
+通り	名詞	接尾	一般	*	*	*	通り	ドオリ	ドーリ	O
+7	名詞	数	*	*	*	*	*	B-DAT
+月	名詞	一般	*	*	*	*	月	ツキ	ツキ	I-DAT
+30	名詞	数	*	*	*	*	*	I-DAT
+日	名詞	接尾	助数詞	*	*	*	日	ニチ	ニチ	I-DAT
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+行なわ	動詞	自立	*	*	五段・ワ行促音便	未然形	行なう	オコナワ	オコナワ	O
+れる	動詞	接尾	*	*	一段	基本形	れる	レル	レル	O
+こと	名詞	非自立	一般	*	*	*	こと	コト	コト	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+23	名詞	数	*	*	*	*	*	B-DAT
+日	名詞	接尾	助数詞	*	*	*	日	ニチ	ニチ	I-DAT
+明らか	名詞	形容動詞語幹	*	*	*	*	明らか	アキラカ	アキラカ	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+なっ	動詞	自立	*	*	五段・ラ行	連用タ接続	なる	ナッ	ナッ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+同市	名詞	一般	*	*	*	*	同市	ドウシ	ドーシ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+前田	名詞	固有名詞	人名	姓	*	*	前田	マエダ	マエダ	B-PSN
+氏	名詞	接尾	人名	*	*	*	氏	シ	シ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+開催	名詞	サ変接続	*	*	*	*	開催	カイサイ	カイサイ	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+たい	助動詞	*	*	*	特殊・タイ	基本形	たい	タイ	タイ	O
+という	助詞	格助詞	連語	*	*	*	という	トイウ	トユウ	O
+意向	名詞	一般	*	*	*	*	意向	イコウ	イコー	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+確認	名詞	サ変接続	*	*	*	*	確認	カクニン	カクニン	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+「	記号	括弧開	*	*	*	*	「	「	「	O
+市民	名詞	一般	*	*	*	*	市民	シミン	シミン	O
+だけ	助詞	副助詞	*	*	*	*	だけ	ダケ	ダケ	O
+で	助動詞	*	*	*	特殊・ダ	連用形	だ	デ	デ	O
+なく	助動詞	*	*	*	特殊・ナイ	連用テ接続	ない	ナク	ナク	O
+全国	名詞	一般	*	*	*	*	全国	ゼンコク	ゼンコク	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+ファン	名詞	一般	*	*	*	*	ファン	ファン	ファン	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+期待	名詞	サ変接続	*	*	*	*	期待	キタイ	キタイ	O
+も	助詞	係助詞	*	*	*	*	も	モ	モ	O
+大きい	形容詞	自立	*	*	形容詞・イ段	基本形	大きい	オオキイ	オーキイ	O
+」	記号	括弧閉	*	*	*	*	」	」	」	O
+として	助詞	格助詞	連語	*	*	*	として	トシテ	トシテ	O
+決定	名詞	サ変接続	*	*	*	*	決定	ケッテイ	ケッテイ	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+現地	名詞	一般	*	*	*	*	現地	ゲンチ	ゲンチ	O
+時間	名詞	副詞可能	*	*	*	*	時間	ジカン	ジカン	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+23	名詞	数	*	*	*	*	*	B-DAT
+日	名詞	接尾	助数詞	*	*	*	日	ニチ	ニチ	I-DAT
+早朝	名詞	副詞可能	*	*	*	*	早朝	ソウチョウ	ソーチョー	B-TIM
+、	記号	読点	*	*	*	*	、	、	、	O
+エジプト	名詞	固有名詞	地域	国	*	*	エジプト	エジプト	エジプト	B-LOC
+・	記号	一般	*	*	*	*	・	・	・	O
+シナイ半島	名詞	固有名詞	一般	*	*	*	シナイ半島	シナイハントウ	シナイハントー	B-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+紅海	名詞	固有名詞	地域	一般	*	*	紅海	コウカイ	コーカイ	B-LOC
+沿い	名詞	接尾	一般	*	*	*	沿い	ゾイ	ゾイ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+複数	名詞	一般	*	*	*	*	複数	フクスウ	フクスー	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+リゾート	名詞	一般	*	*	*	*	リゾート	リゾート	リゾート	O
+地	名詞	接尾	一般	*	*	*	地	チ	チ	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+少なくとも	副詞	一般	*	*	*	*	少なくとも	スクナクトモ	スクナクトモ	O
+4	名詞	数	*	*	*	*	*	O
+つ	助動詞	*	*	*	下二・タ行	基本形	つ	ツ	ツ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+おそらく	副詞	一般	*	*	*	*	おそらく	オソラク	オソラク	O
+7	名詞	数	*	*	*	*	*	O
+つ	助動詞	*	*	*	下二・タ行	基本形	つ	ツ	ツ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+爆発	名詞	サ変接続	*	*	*	*	爆発	バクハツ	バクハツ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+起こり	動詞	自立	*	*	五段・ラ行	連用形	起こる	オコリ	オコリ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+少なくとも	副詞	一般	*	*	*	*	少なくとも	スクナクトモ	スクナクトモ	O
+30	名詞	数	*	*	*	*	*	O
+人	名詞	接尾	助数詞	*	*	*	人	ニン	ニン	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+死亡	名詞	サ変接続	*	*	*	*	死亡	シボウ	シボー	O
+、	記号	読点	*	*	*	*	、	、	、	O
+100	名詞	数	*	*	*	*	*	O
+人	名詞	接尾	助数詞	*	*	*	人	ニン	ニン	O
+以上	名詞	非自立	副詞可能	*	*	*	以上	イジョウ	イジョー	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+負傷	名詞	サ変接続	*	*	*	*	負傷	フショウ	フショー	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+爆発	名詞	サ変接続	*	*	*	*	爆発	バクハツ	バクハツ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+ひとつ	名詞	副詞可能	*	*	*	*	ひとつ	ヒトツ	ヒトツ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+現地	名詞	一般	*	*	*	*	現地	ゲンチ	ゲンチ	O
+時間	名詞	副詞可能	*	*	*	*	時間	ジカン	ジカン	O
+午前	名詞	副詞可能	*	*	*	*	午前	ゴゼン	ゴゼン	B-TIM
+1	名詞	数	*	*	*	*	*	I-TIM
+時	名詞	接尾	助数詞	*	*	*	時	ジ	ジ	I-TIM
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+シャルム・エル	名詞	一般	*	*	*	*	*	B-LOC
+＝	記号	一般	*	*	*	*	＝	＝	＝	I-LOC
+シェイク	名詞	固有名詞	人名	名	*	*	シェイク	シェイク	シェイク	I-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+市場	名詞	一般	*	*	*	*	市場	シジョウ	シジョー	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+起こり	動詞	自立	*	*	五段・ラ行	連用形	起こる	オコリ	オコリ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+15	名詞	数	*	*	*	*	*	B-TIM
+分	名詞	接尾	助数詞	*	*	*	分	フン	フン	I-TIM
+後	名詞	接尾	副詞可能	*	*	*	後	ゴ	ゴ	I-TIM
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+2	名詞	数	*	*	*	*	*	O
+つ	助動詞	*	*	*	下二・タ行	基本形	つ	ツ	ツ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+爆発	名詞	サ変接続	*	*	*	*	爆発	バクハツ	バクハツ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+近く	名詞	副詞可能	*	*	*	*	近く	チカク	チカク	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+リゾート	名詞	一般	*	*	*	*	リゾート	リゾート	リゾート	O
+地	名詞	接尾	一般	*	*	*	地	チ	チ	O
+ナーマ	名詞	一般	*	*	*	*	*	B-LOC
+湾	名詞	接尾	一般	*	*	*	湾	ワン	ワン	I-LOC
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+起こっ	動詞	自立	*	*	五段・ラ行	連用タ接続	起こる	オコッ	オコッ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+報道	名詞	サ変接続	*	*	*	*	報道	ホウドウ	ホードー	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+よれ	動詞	自立	*	*	五段・ラ行	仮定形	よる	ヨレ	ヨレ	O
+ば	助詞	接続助詞	*	*	*	*	ば	バ	バ	O
+爆発	名詞	サ変接続	*	*	*	*	爆発	バクハツ	バクハツ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+ホテル	名詞	一般	*	*	*	*	ホテル	ホテル	ホテル	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+外	名詞	一般	*	*	*	*	外	ソト	ソト	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+起こっ	動詞	自立	*	*	五段・ラ行	連用タ接続	起こる	オコッ	オコッ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+ある	連体詞	*	*	*	*	*	ある	アル	アル	O
+証言	名詞	サ変接続	*	*	*	*	証言	ショウゲン	ショーゲン	O
+者	名詞	接尾	一般	*	*	*	者	シャ	シャ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+AP	名詞	固有名詞	組織	*	*	*	*	B-ORG
+通信	名詞	サ変接続	*	*	*	*	通信	ツウシン	ツーシン	I-ORG
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+4	名詞	数	*	*	*	*	*	O
+つ	助動詞	*	*	*	下二・タ行	基本形	つ	ツ	ツ	O
+星	名詞	一般	*	*	*	*	星	ホシ	ホシ	O
+ホテル	名詞	一般	*	*	*	*	ホテル	ホテル	ホテル	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+ガザラ・ガーデンズ	名詞	一般	*	*	*	*	*	B-ORG
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+「	記号	括弧開	*	*	*	*	「	「	「	O
+完全	名詞	形容動詞語幹	*	*	*	*	完全	カンゼン	カンゼン	O
+に	助詞	副詞化	*	*	*	*	に	ニ	ニ	O
+焼け落ち	動詞	自立	*	*	一段	連用形	焼け落ちる	ヤケオチ	ヤケオチ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+」	記号	括弧閉	*	*	*	*	」	」	」	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+語っ	動詞	自立	*	*	五段・ラ行	連用タ接続	語る	カタッ	カタッ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+昨年	名詞	副詞可能	*	*	*	*	昨年	サクネン	サクネン	B-DAT
+10	名詞	数	*	*	*	*	*	I-DAT
+月	名詞	一般	*	*	*	*	月	ツキ	ツキ	I-DAT
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+34	名詞	数	*	*	*	*	*	O
+人	名詞	接尾	助数詞	*	*	*	人	ニン	ニン	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+今回	名詞	副詞可能	*	*	*	*	今回	コンカイ	コンカイ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+現場	名詞	一般	*	*	*	*	現場	ゲンバ	ゲンバ	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+近い	形容詞	自立	*	*	形容詞・アウオ段	基本形	近い	チカイ	チカイ	O
+エジプト	名詞	固有名詞	地域	国	*	*	エジプト	エジプト	エジプト	B-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+タバ	名詞	固有名詞	地域	一般	*	*	タバ	タバ	タバ	B-LOC
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+爆発	名詞	サ変接続	*	*	*	*	爆発	バクハツ	バクハツ	O
+事件	名詞	一般	*	*	*	*	事件	ジケン	ジケン	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+ため	名詞	非自立	副詞可能	*	*	*	ため	タメ	タメ	O
+死亡	名詞	サ変接続	*	*	*	*	死亡	シボウ	シボー	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+いる	動詞	非自立	*	*	一段	基本形	いる	イル	イル	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+タバ	名詞	固有名詞	地域	一般	*	*	タバ	タバ	タバ	B-LOC
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+イスラエル	名詞	固有名詞	地域	国	*	*	イスラエル	イスラエル	イスラエル	B-LOC
+から	助詞	格助詞	一般	*	*	*	から	カラ	カラ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+観光	名詞	サ変接続	*	*	*	*	観光	カンコウ	カンコー	O
+客	名詞	一般	*	*	*	*	客	キャク	キャク	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+人気	名詞	一般	*	*	*	*	人気	ニンキ	ニンキ	O
+の	助詞	格助詞	一般	*	*	*	の	ノ	ノ	O
+ある	動詞	自立	*	*	五段・ラ行	基本形	ある	アル	アル	O
+リゾート	名詞	一般	*	*	*	*	リゾート	リゾート	リゾート	O
+地	名詞	接尾	一般	*	*	*	地	チ	チ	O
+で	助動詞	*	*	*	特殊・ダ	連用形	だ	デ	デ	O
+ある	助動詞	*	*	*	五段・ラ行アル	基本形	ある	アル	アル	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+この	連体詞	*	*	*	*	*	この	コノ	コノ	O
+ため	名詞	非自立	副詞可能	*	*	*	ため	タメ	タメ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+当局	名詞	一般	*	*	*	*	当局	トウキョク	トーキョク	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+今回	名詞	副詞可能	*	*	*	*	今回	コンカイ	コンカイ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+爆発	名詞	サ変接続	*	*	*	*	爆発	バクハツ	バクハツ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+イスラエル	名詞	固有名詞	地域	国	*	*	イスラエル	イスラエル	イスラエル	B-LOC
+・	記号	一般	*	*	*	*	・	・	・	O
+パレスチナ	名詞	固有名詞	地域	一般	*	*	パレスチナ	パレスチナ	パレスチナ	B-LOC
+間	名詞	接尾	一般	*	*	*	間	カン	カン	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+緊張	名詞	サ変接続	*	*	*	*	緊張	キンチョウ	キンチョー	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+かかわる	動詞	自立	*	*	五段・ラ行	基本形	かかわる	カカワル	カカワル	O
+もの	名詞	非自立	一般	*	*	*	もの	モノ	モノ	O
+として	助詞	格助詞	連語	*	*	*	として	トシテ	トシテ	O
+非難	名詞	サ変接続	*	*	*	*	非難	ヒナン	ヒナン	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+いる	動詞	非自立	*	*	一段	基本形	いる	イル	イル	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+地元	名詞	一般	*	*	*	*	地元	ジモト	ジモト	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+警察	名詞	一般	*	*	*	*	警察	ケイサツ	ケイサツ	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+よれ	動詞	自立	*	*	五段・ラ行	仮定形	よる	ヨレ	ヨレ	O
+ば	助詞	接続助詞	*	*	*	*	ば	バ	バ	O
+少なくとも	副詞	一般	*	*	*	*	少なくとも	スクナクトモ	スクナクトモ	O
+30	名詞	数	*	*	*	*	*	O
+人	名詞	接尾	助数詞	*	*	*	人	ニン	ニン	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+死亡	名詞	サ変接続	*	*	*	*	死亡	シボウ	シボー	O
+、	記号	読点	*	*	*	*	、	、	、	O
+100	名詞	数	*	*	*	*	*	O
+人	名詞	接尾	助数詞	*	*	*	人	ニン	ニン	O
+以上	名詞	非自立	副詞可能	*	*	*	以上	イジョウ	イジョー	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+負傷	名詞	サ変接続	*	*	*	*	負傷	フショウ	フショー	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+BBC	名詞	一般	*	*	*	*	*	B-ORG
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+報道	名詞	サ変接続	*	*	*	*	報道	ホウドウ	ホードー	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+よれ	動詞	自立	*	*	五段・ラ行	仮定形	よる	ヨレ	ヨレ	O
+ば	助詞	接続助詞	*	*	*	*	ば	バ	バ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+少なくとも	副詞	一般	*	*	*	*	少なくとも	スクナクトモ	スクナクトモ	O
+49	名詞	数	*	*	*	*	*	O
+人	名詞	接尾	助数詞	*	*	*	人	ニン	ニン	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+死亡	名詞	サ変接続	*	*	*	*	死亡	シボウ	シボー	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+ロイター通信	名詞	固有名詞	組織	*	*	*	ロイター通信	ロイターツウシン	ロイターツーシン	B-ORG
+社	名詞	接尾	一般	*	*	*	社	シャ	シャ	I-ORG
+報道局	名詞	一般	*	*	*	*	報道局	ホウドウキョク	ホードーキョク	I-ORG
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+現場	名詞	一般	*	*	*	*	現場	ゲンバ	ゲンバ	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+い	動詞	自立	*	*	一段	連用形	いる	イ	イ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+複数	名詞	一般	*	*	*	*	複数	フクスウ	フクスー	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+医師	名詞	一般	*	*	*	*	医師	イシ	イシ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+負傷	名詞	サ変接続	*	*	*	*	負傷	フショウ	フショー	O
+者	名詞	接尾	一般	*	*	*	者	シャ	シャ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+多く	名詞	副詞可能	*	*	*	*	多く	オオク	オーク	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+危険	名詞	形容動詞語幹	*	*	*	*	危険	キケン	キケン	O
+な	助動詞	*	*	*	特殊・ダ	体言接続	だ	ナ	ナ	O
+状態	名詞	一般	*	*	*	*	状態	ジョウタイ	ジョータイ	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+ある	動詞	自立	*	*	五段・ラ行	基本形	ある	アル	アル	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+語っ	動詞	自立	*	*	五段・ラ行	連用タ接続	語る	カタッ	カタッ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+いる	動詞	非自立	*	*	一段	基本形	いる	イル	イル	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+伝え	動詞	自立	*	*	一段	連用形	伝える	ツタエ	ツタエ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+また	接続詞	*	*	*	*	*	また	マタ	マタ	O
+ロイター	名詞	固有名詞	組織	*	*	*	ロイター	ロイター	ロイター	B-ORG
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+爆弾	名詞	一般	*	*	*	*	爆弾	バクダン	バクダン	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+おそらく	副詞	一般	*	*	*	*	おそらく	オソラク	オソラク	O
+車	名詞	一般	*	*	*	*	車	クルマ	クルマ	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+仕掛け	動詞	自立	*	*	一段	未然形	仕掛ける	シカケ	シカケ	O
+られ	動詞	接尾	*	*	一段	連用形	られる	ラレ	ラレ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+い	動詞	非自立	*	*	一段	連用形	いる	イ	イ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+報じ	動詞	自立	*	*	一段	連用形	報じる	ホウジ	ホージ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+死亡	名詞	サ変接続	*	*	*	*	死亡	シボウ	シボー	O
+者	名詞	接尾	一般	*	*	*	者	シャ	シャ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+中	名詞	非自立	副詞可能	*	*	*	中	ナカ	ナカ	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+イギリス	名詞	固有名詞	地域	国	*	*	イギリス	イギリス	イギリス	B-LOC
+人	名詞	接尾	一般	*	*	*	人	ジン	ジン	O
+、	記号	読点	*	*	*	*	、	、	、	O
+フランス	名詞	固有名詞	地域	国	*	*	フランス	フランス	フランス	B-LOC
+人	名詞	接尾	一般	*	*	*	人	ジン	ジン	O
+、	記号	読点	*	*	*	*	、	、	、	O
+スペイン	名詞	固有名詞	地域	国	*	*	スペイン	スペイン	スペイン	B-LOC
+人	名詞	接尾	一般	*	*	*	人	ジン	ジン	O
+、	記号	読点	*	*	*	*	、	、	、	O
+オランダ	名詞	固有名詞	地域	国	*	*	オランダ	オランダ	オランダ	B-LOC
+人	名詞	接尾	一般	*	*	*	人	ジン	ジン	O
+、	記号	読点	*	*	*	*	、	、	、	O
+カタール	名詞	固有名詞	地域	国	*	*	カタール	カタール	カタール	B-LOC
+人	名詞	接尾	一般	*	*	*	人	ジン	ジン	O
+、	記号	読点	*	*	*	*	、	、	、	O
+クウェート	名詞	固有名詞	地域	国	*	*	クウェート	クウェート	クウェート	B-LOC
+人	名詞	接尾	一般	*	*	*	人	ジン	ジン	O
+、	記号	読点	*	*	*	*	、	、	、	O
+エジプト	名詞	固有名詞	地域	国	*	*	エジプト	エジプト	エジプト	B-LOC
+人	名詞	接尾	一般	*	*	*	人	ジン	ジン	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+含ま	動詞	自立	*	*	五段・マ行	未然形	含む	フクマ	フクマ	O
+れ	動詞	接尾	*	*	一段	連用形	れる	レ	レ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+いる	動詞	非自立	*	*	一段	基本形	いる	イル	イル	O
+と	助詞	接続助詞	*	*	*	*	と	ト	ト	O
+AP	名詞	一般	*	*	*	*	*	B-ORG
+通信	名詞	サ変接続	*	*	*	*	通信	ツウシン	ツーシン	I-ORG
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+伝え	動詞	自立	*	*	一段	連用形	伝える	ツタエ	ツタエ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+いる	動詞	非自立	*	*	一段	基本形	いる	イル	イル	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+アメリカ	名詞	固有名詞	地域	国	*	*	アメリカ	アメリカ	アメリカ	B-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+マイクロソフト	名詞	固有名詞	組織	*	*	*	マイクロソフト	マイクロソフト	マイクロソフト	B-ORG
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+現地	名詞	一般	*	*	*	*	現地	ゲンチ	ゲンチ	O
+時間	名詞	副詞可能	*	*	*	*	時間	ジカン	ジカン	O
+2005	名詞	数	*	*	*	*	*	B-DAT
+年	名詞	接尾	助数詞	*	*	*	年	ネン	ネン	I-DAT
+7	名詞	数	*	*	*	*	*	I-DAT
+月	名詞	一般	*	*	*	*	月	ツキ	ツキ	I-DAT
+22	名詞	数	*	*	*	*	*	I-DAT
+日	名詞	接尾	助数詞	*	*	*	日	ニチ	ニチ	I-DAT
+、	記号	読点	*	*	*	*	、	、	、	O
+同社	名詞	一般	*	*	*	*	同社	ドウシャ	ドーシャ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+オペレーティングシステム	名詞	一般	*	*	*	*	オペレーティングシステム	オペレーティングシステム	オペレーティングシステム	O
+（	記号	括弧開	*	*	*	*	（	（	（	O
+OS	名詞	固有名詞	組織	*	*	*	*	O
+）	記号	括弧閉	*	*	*	*	）	）	）	O
+、	記号	読点	*	*	*	*	、	、	、	O
+Windows	名詞	固有名詞	組織	*	*	*	*	B-ART
+XP	名詞	一般	*	*	*	*	*	I-ART
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+次に	接続詞	*	*	*	*	*	次に	ツギニ	ツギニ	O
+リリース	名詞	サ変接続	*	*	*	*	リリース	リリース	リリース	O
+さ	動詞	自立	*	*	サ変・スル	未然レル接続	する	サ	サ	O
+れる	動詞	接尾	*	*	一段	基本形	れる	レル	レル	O
+OS	名詞	一般	*	*	*	*	*	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+正式	名詞	形容動詞語幹	*	*	*	*	正式	セイシキ	セイシキ	O
+名称	名詞	一般	*	*	*	*	名称	メイショウ	メイショー	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+「	記号	括弧開	*	*	*	*	「	「	「	O
+Windows	名詞	固有名詞	組織	*	*	*	*	B-ART
+Vista	名詞	一般	*	*	*	*	*	I-ART
+」	記号	括弧閉	*	*	*	*	」	」	」	O
+（	記号	括弧開	*	*	*	*	（	（	（	O
+ウィンドウズ	名詞	固有名詞	一般	*	*	*	ウィンドウズ	ウィンドウズ	ウィンドウズ	B-ART
+・	記号	一般	*	*	*	*	・	・	・	I-ART
+ビスタ	名詞	一般	*	*	*	*	ビスタ	ビスタ	ビスタ	I-ART
+）	記号	括弧閉	*	*	*	*	）	）	）	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+する	動詞	自立	*	*	サ変・スル	基本形	する	スル	スル	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+発表	名詞	サ変接続	*	*	*	*	発表	ハッピョウ	ハッピョー	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+それ	名詞	代名詞	一般	*	*	*	それ	ソレ	ソレ	O
+と	助詞	格助詞	一般	*	*	*	と	ト	ト	O
+同時に	副詞	一般	*	*	*	*	同時に	ドウジニ	ドージニ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+Windows	名詞	固有名詞	組織	*	*	*	*	B-ART
+Vista	名詞	一般	*	*	*	*	*	I-ART
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+公式	名詞	形容動詞語幹	*	*	*	*	公式	コウシキ	コーシキ	O
+サイト	名詞	一般	*	*	*	*	サイト	サイト	サイト	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+開設	名詞	サ変接続	*	*	*	*	開設	カイセツ	カイセツ	O
+さ	動詞	自立	*	*	サ変・スル	未然レル接続	する	サ	サ	O
+れ	動詞	接尾	*	*	一段	連用形	れる	レ	レ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+追って	接続詞	*	*	*	*	*	追って	オッテ	オッテ	O
+日本語	名詞	一般	*	*	*	*	日本語	ニホンゴ	ニホンゴ	O
+版	名詞	接尾	一般	*	*	*	版	バン	バン	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+サイト	名詞	一般	*	*	*	*	サイト	サイト	サイト	O
+も	助詞	係助詞	*	*	*	*	も	モ	モ	O
+開設	名詞	サ変接続	*	*	*	*	開設	カイセツ	カイセツ	O
+さ	動詞	自立	*	*	サ変・スル	未然レル接続	する	サ	サ	O
+れ	動詞	接尾	*	*	一段	連用形	れる	レ	レ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+Vista	名詞	固有名詞	組織	*	*	*	*	O
+と	助詞	格助詞	一般	*	*	*	と	ト	ト	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+展望	名詞	サ変接続	*	*	*	*	展望	テンボウ	テンボー	O
+、	記号	読点	*	*	*	*	、	、	、	O
+眺望	名詞	サ変接続	*	*	*	*	眺望	チョウボウ	チョーボー	O
+、	記号	読点	*	*	*	*	、	、	、	O
+見通し	名詞	一般	*	*	*	*	見通し	ミトオシ	ミトーシ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+予想	名詞	サ変接続	*	*	*	*	予想	ヨソウ	ヨソー	O
+、	記号	読点	*	*	*	*	、	、	、	O
+美しい	形容詞	自立	*	*	形容詞・イ段	基本形	美しい	ウツクシイ	ウツクシイ	O
+景色	名詞	一般	*	*	*	*	景色	ケシキ	ケシキ	O
+など	助詞	副助詞	*	*	*	*	など	ナド	ナド	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+意味	名詞	サ変接続	*	*	*	*	意味	イミ	イミ	O
+する	動詞	自立	*	*	サ変・スル	基本形	する	スル	スル	O
+単語	名詞	一般	*	*	*	*	単語	タンゴ	タンゴ	O
+で	助動詞	*	*	*	特殊・ダ	連用形	だ	デ	デ	O
+ある	助動詞	*	*	*	五段・ラ行アル	基本形	ある	アル	アル	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+同	接頭詞	名詞接続	*	*	*	*	同	ドウ	ドー	O
+OS	名詞	一般	*	*	*	*	*	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+開発	名詞	サ変接続	*	*	*	*	開発	カイハツ	カイハツ	O
+コードネーム	名詞	一般	*	*	*	*	コードネーム	コードネーム	コードネーム	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+「	記号	括弧開	*	*	*	*	「	「	「	O
+Longhorn	名詞	固有名詞	組織	*	*	*	*	B-ART
+」	記号	括弧閉	*	*	*	*	」	」	」	O
+（	記号	括弧開	*	*	*	*	（	（	（	O
+ロング	名詞	一般	*	*	*	*	ロング	ロング	ロング	B-ART
+ホーン	名詞	一般	*	*	*	*	ホーン	ホーン	ホーン	I-ART
+）	記号	括弧閉	*	*	*	*	）	）	）	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+正式	名詞	形容動詞語幹	*	*	*	*	正式	セイシキ	セイシキ	O
+名称	名詞	一般	*	*	*	*	名称	メイショウ	メイショー	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+発表	名詞	サ変接続	*	*	*	*	発表	ハッピョウ	ハッピョー	O
+さ	動詞	自立	*	*	サ変・スル	未然レル接続	する	サ	サ	O
+れる	動詞	接尾	*	*	一段	基本形	れる	レル	レル	O
+まで	助詞	副助詞	*	*	*	*	まで	マデ	マデ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+その	連体詞	*	*	*	*	*	その	ソノ	ソノ	O
+コードネーム	名詞	一般	*	*	*	*	コードネーム	コードネーム	コードネーム	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+呼ば	動詞	自立	*	*	五段・バ行	未然形	呼ぶ	ヨバ	ヨバ	O
+れ	動詞	接尾	*	*	一段	連用形	れる	レ	レ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+い	動詞	非自立	*	*	一段	連用形	いる	イ	イ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+同社	名詞	一般	*	*	*	*	同社	ドウシャ	ドーシャ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+開発	名詞	サ変接続	*	*	*	*	開発	カイハツ	カイハツ	O
+者	名詞	接尾	一般	*	*	*	者	シャ	シャ	O
+や	助詞	並立助詞	*	*	*	*	や	ヤ	ヤ	O
+技術	名詞	一般	*	*	*	*	技術	ギジュツ	ギジュツ	O
+者	名詞	接尾	一般	*	*	*	者	シャ	シャ	O
+向け	名詞	接尾	一般	*	*	*	向け	ムケ	ムケ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+ベータ	名詞	一般	*	*	*	*	ベータ	ベータ	ベータ	O
+版	名詞	接尾	一般	*	*	*	版	バン	バン	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+2005	名詞	数	*	*	*	*	*	B-DAT
+年	名詞	接尾	助数詞	*	*	*	年	ネン	ネン	I-DAT
+8	名詞	数	*	*	*	*	*	I-DAT
+月	名詞	一般	*	*	*	*	月	ツキ	ツキ	I-DAT
+3	名詞	数	*	*	*	*	*	I-DAT
+日	名詞	接尾	助数詞	*	*	*	日	ニチ	ニチ	I-DAT
+（	記号	括弧開	*	*	*	*	（	（	（	O
+日本	名詞	固有名詞	地域	国	*	*	日本	ニッポン	ニッポン	B-LOC
+時間	名詞	副詞可能	*	*	*	*	時間	ジカン	ジカン	O
+:	名詞	サ変接続	*	*	*	*	*	O
+8	名詞	数	*	*	*	*	*	B-DAT
+月	名詞	一般	*	*	*	*	月	ツキ	ツキ	I-DAT
+4	名詞	数	*	*	*	*	*	I-DAT
+日	名詞	接尾	助数詞	*	*	*	日	ニチ	ニチ	I-DAT
+）	記号	括弧閉	*	*	*	*	）	）	）	O
+頃	名詞	接尾	副詞可能	*	*	*	頃	ゴロ	ゴロ	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+リリース	名詞	サ変接続	*	*	*	*	リリース	リリース	リリース	O
+する	動詞	自立	*	*	サ変・スル	基本形	する	スル	スル	O
+予定	名詞	サ変接続	*	*	*	*	予定	ヨテイ	ヨテイ	O
+と	助詞	並立助詞	*	*	*	*	と	ト	ト	O
+発表	名詞	サ変接続	*	*	*	*	発表	ハッピョウ	ハッピョー	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+いる	動詞	非自立	*	*	一段	基本形	いる	イル	イル	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+気象庁	名詞	固有名詞	組織	*	*	*	気象庁	キショウチョウ	キショーチョー	B-ORG
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+よる	動詞	自立	*	*	五段・ラ行	基本形	よる	ヨル	ヨル	O
+と	助詞	接続助詞	*	*	*	*	と	ト	ト	O
+、	記号	読点	*	*	*	*	、	、	、	O
+23	名詞	数	*	*	*	*	*	B-DAT
+日	名詞	接尾	助数詞	*	*	*	日	ニチ	ニチ	I-DAT
+午後	名詞	副詞可能	*	*	*	*	午後	ゴゴ	ゴゴ	B-TIM
+4	名詞	数	*	*	*	*	*	I-TIM
+時	名詞	接尾	助数詞	*	*	*	時	ジ	ジ	I-TIM
+35	名詞	数	*	*	*	*	*	I-TIM
+分	名詞	接尾	助数詞	*	*	*	分	フン	フン	I-TIM
+（	記号	括弧開	*	*	*	*	（	（	（	O
+以下	名詞	非自立	副詞可能	*	*	*	以下	イカ	イカ	O
+本文	名詞	一般	*	*	*	*	本文	ホンブン	ホンブン	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+すべて	名詞	副詞可能	*	*	*	*	すべて	スベテ	スベテ	O
+日本	名詞	固有名詞	地域	国	*	*	日本	ニッポン	ニッポン	B-LOC
+時間	名詞	副詞可能	*	*	*	*	時間	ジカン	ジカン	O
+、	記号	読点	*	*	*	*	、	、	、	O
+UTC	名詞	固有名詞	組織	*	*	*	*	O
++	名詞	サ変接続	*	*	*	*	*	O
+9	名詞	数	*	*	*	*	*	O
+)	名詞	サ変接続	*	*	*	*	*	O
+ごろ	名詞	接尾	副詞可能	*	*	*	ごろ	ゴロ	ゴロ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+関東	名詞	固有名詞	地域	一般	*	*	関東	カントウ	カントー	B-LOC
+地方	名詞	一般	*	*	*	*	地方	チホウ	チホー	O
+・	記号	一般	*	*	*	*	・	・	・	O
+甲信越	名詞	固有名詞	地域	一般	*	*	甲信越	コウシンエツ	コーシンエツ	B-LOC
+など	助詞	副助詞	*	*	*	*	など	ナド	ナド	O
+広い	形容詞	自立	*	*	形容詞・アウオ段	基本形	広い	ヒロイ	ヒロイ	O
+地域	名詞	一般	*	*	*	*	地域	チイキ	チイキ	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+最大	名詞	一般	*	*	*	*	最大	サイダイ	サイダイ	O
+震度	名詞	一般	*	*	*	*	震度	シンド	シンド	O
+5	名詞	数	*	*	*	*	*	O
+強	名詞	接尾	一般	*	*	*	強	キョウ	キョー	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+地震	名詞	一般	*	*	*	*	地震	ジシン	ジシン	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+あっ	動詞	自立	*	*	五段・ラ行	連用タ接続	ある	アッ	アッ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+震源	名詞	一般	*	*	*	*	震源	シンゲン	シンゲン	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+千葉	名詞	固有名詞	地域	一般	*	*	千葉	チバ	チバ	B-LOC
+県	名詞	接尾	地域	*	*	*	県	ケン	ケン	I-LOC
+北西	名詞	一般	*	*	*	*	北西	ホクセイ	ホクセイ	O
+部	名詞	接尾	一般	*	*	*	部	ブ	ブ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+震源	名詞	一般	*	*	*	*	震源	シンゲン	シンゲン	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+深	形容詞	自立	*	*	形容詞・アウオ段	ガル接続	深い	フカ	フカ	O
+さ	名詞	接尾	特殊	*	*	*	さ	サ	サ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+約	接頭詞	数接続	*	*	*	*	約	ヤク	ヤク	O
+73	名詞	数	*	*	*	*	*	O
+km	名詞	固有名詞	組織	*	*	*	*	O
+、	記号	読点	*	*	*	*	、	、	、	O
+地震	名詞	一般	*	*	*	*	地震	ジシン	ジシン	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+規模	名詞	一般	*	*	*	*	規模	キボ	キボ	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+示す	動詞	自立	*	*	五段・サ行	基本形	示す	シメス	シメス	O
+マグニチュード	名詞	一般	*	*	*	*	マグニチュード	マグニチュード	マグニチュード	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+6	名詞	数	*	*	*	*	*	O
+.	名詞	サ変接続	*	*	*	*	*	O
+0	名詞	数	*	*	*	*	*	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+推定	名詞	サ変接続	*	*	*	*	推定	スイテイ	スイテイ	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+いる	動詞	非自立	*	*	一段	基本形	いる	イル	イル	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+この	連体詞	*	*	*	*	*	この	コノ	コノ	O
+地震	名詞	一般	*	*	*	*	地震	ジシン	ジシン	O
+による	助詞	格助詞	連語	*	*	*	による	ニヨル	ニヨル	O
+津波	名詞	一般	*	*	*	*	津波	ツナミ	ツナミ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+心配	名詞	サ変接続	*	*	*	*	心配	シンパイ	シンパイ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+ない	助動詞	*	*	*	特殊・ナイ	基本形	ない	ナイ	ナイ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+気象庁	名詞	固有名詞	組織	*	*	*	気象庁	キショウチョウ	キショーチョー	B-ORG
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+発表	名詞	サ変接続	*	*	*	*	発表	ハッピョウ	ハッピョー	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+各地	名詞	一般	*	*	*	*	各地	カクチ	カクチ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+主	名詞	形容動詞語幹	*	*	*	*	主	オモ	オモ	O
+な	助動詞	*	*	*	特殊・ダ	体言接続	だ	ナ	ナ	O
+震度	名詞	一般	*	*	*	*	震度	シンド	シンド	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+次	名詞	一般	*	*	*	*	次	ツギ	ツギ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+とおり	名詞	非自立	副詞可能	*	*	*	とおり	トオリ	トーリ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+Yahoo	名詞	一般	*	*	*	*	*	B-ART
+!	名詞	サ変接続	*	*	*	*	*	I-ART
+路線	名詞	一般	*	*	*	*	路線	ロセン	ロセン	I-ART
+情報	名詞	一般	*	*	*	*	情報	ジョウホウ	ジョーホー	I-ART
+等	名詞	接尾	一般	*	*	*	等	トウ	トー	O
+による	助詞	格助詞	連語	*	*	*	による	ニヨル	ニヨル	O
+、	記号	読点	*	*	*	*	、	、	、	O
+記事	名詞	一般	*	*	*	*	記事	キジ	キジ	O
+発行	名詞	サ変接続	*	*	*	*	発行	ハッコウ	ハッコー	O
+時	名詞	接尾	副詞可能	*	*	*	時	ジ	ジ	O
+（	記号	括弧開	*	*	*	*	（	（	（	O
+23	名詞	数	*	*	*	*	*	O
+時	名詞	接尾	助数詞	*	*	*	時	ジ	ジ	O
+）	記号	括弧閉	*	*	*	*	）	）	）	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+状況	名詞	一般	*	*	*	*	状況	ジョウキョウ	ジョーキョー	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+次	名詞	一般	*	*	*	*	次	ツギ	ツギ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+通り	名詞	一般	*	*	*	*	通り	トオリ	トーリ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+東京	名詞	固有名詞	地域	一般	*	*	東京	トウキョウ	トーキョー	B-LOC
+・	記号	一般	*	*	*	*	・	・	・	O
+埼玉	名詞	固有名詞	地域	一般	*	*	埼玉	サイタマ	サイタマ	B-LOC
+・	記号	一般	*	*	*	*	・	・	・	O
+千葉	名詞	固有名詞	地域	一般	*	*	千葉	チバ	チバ	B-LOC
+・	記号	一般	*	*	*	*	・	・	・	O
+神奈川	名詞	固有名詞	地域	一般	*	*	神奈川	カナガワ	カナガワ	B-LOC
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+2	名詞	数	*	*	*	*	*	O
+時間	名詞	接尾	助数詞	*	*	*	時間	ジカン	ジカン	O
+あまり	名詞	接尾	一般	*	*	*	あまり	アマリ	アマリ	O
+通話	名詞	サ変接続	*	*	*	*	通話	ツウワ	ツーワ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+規制	名詞	サ変接続	*	*	*	*	規制	キセイ	キセイ	O
+さ	動詞	自立	*	*	サ変・スル	未然レル接続	する	サ	サ	O
+れ	動詞	接尾	*	*	一段	連用形	れる	レ	レ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+エレベーター	名詞	一般	*	*	*	*	エレベーター	エレベーター	エレベーター	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+中	名詞	非自立	副詞可能	*	*	*	中	ナカ	ナカ	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+人	名詞	一般	*	*	*	*	人	ヒト	ヒト	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+閉じ込め	動詞	自立	*	*	一段	未然形	閉じ込める	トジコメ	トジコメ	O
+られる	動詞	接尾	*	*	一段	基本形	られる	ラレル	ラレル	O
+被害	名詞	一般	*	*	*	*	被害	ヒガイ	ヒガイ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+4	名詞	数	*	*	*	*	*	O
+都県	名詞	一般	*	*	*	*	都県	トケン	トケン	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+46	名詞	数	*	*	*	*	*	O
+件	名詞	接尾	助数詞	*	*	*	件	ケン	ケン	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+すべて	名詞	副詞可能	*	*	*	*	すべて	スベテ	スベテ	O
+救出	名詞	サ変接続	*	*	*	*	救出	キュウシュツ	キューシュツ	O
+済み	名詞	接尾	一般	*	*	*	済み	ズミ	ズミ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+（	記号	括弧開	*	*	*	*	（	（	（	O
+22	名詞	数	*	*	*	*	*	B-TIM
+時	名詞	接尾	助数詞	*	*	*	時	ジ	ジ	I-TIM
+現在	名詞	副詞可能	*	*	*	*	現在	ゲンザイ	ゲンザイ	O
+）	記号	括弧閉	*	*	*	*	）	）	）	O
+
+三郷	名詞	固有名詞	地域	一般	*	*	三郷	ミサト	ミサト	B-LOC
+市	名詞	接尾	地域	*	*	*	市	シ	シ	I-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+カラオケ	名詞	一般	*	*	*	*	カラオケ	カラオケ	カラオケ	O
+店	名詞	接尾	一般	*	*	*	店	テン	テン	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+ガラス	名詞	一般	*	*	*	*	ガラス	ガラス	ガラス	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+破片	名詞	一般	*	*	*	*	破片	ハヘン	ハヘン	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+刺さり	動詞	自立	*	*	五段・ラ行	連用形	刺さる	ササリ	ササリ	O
+女性	名詞	一般	*	*	*	*	女性	ジョセイ	ジョセイ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+けが	名詞	一般	*	*	*	*	けが	ケガ	ケガ	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+情報	名詞	一般	*	*	*	*	情報	ジョウホウ	ジョーホー	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+鴻巣	名詞	固有名詞	地域	一般	*	*	鴻巣	コウノス	コーノス	B-LOC
+市	名詞	接尾	地域	*	*	*	市	シ	シ	I-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+ホームセンター	名詞	一般	*	*	*	*	ホームセンター	ホームセンター	ホームセンター	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+落ち	動詞	自立	*	*	一段	連用形	落ちる	オチ	オチ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+案内	名詞	サ変接続	*	*	*	*	案内	アンナイ	アンナイ	O
+板	名詞	接尾	一般	*	*	*	板	バン	バン	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+客	名詞	一般	*	*	*	*	客	キャク	キャク	O
+5	名詞	数	*	*	*	*	*	O
+人	名詞	接尾	助数詞	*	*	*	人	ニン	ニン	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+軽傷	名詞	一般	*	*	*	*	軽傷	ケイショウ	ケイショー	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+負っ	動詞	自立	*	*	五段・ワ行促音便	連用タ接続	負う	オッ	オッ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+新宿	名詞	固有名詞	地域	一般	*	*	新宿	シンジュク	シンジュク	B-LOC
+区	名詞	接尾	地域	*	*	*	区	ク	ク	I-LOC
+・	記号	一般	*	*	*	*	・	・	・	O
+品川	名詞	固有名詞	地域	一般	*	*	品川	シナガワ	シナガワ	B-LOC
+区	名詞	接尾	地域	*	*	*	区	ク	ク	I-LOC
+・	記号	一般	*	*	*	*	・	・	・	O
+足立	名詞	固有名詞	地域	一般	*	*	足立	アダチ	アダチ	B-LOC
+区	名詞	接尾	地域	*	*	*	区	ク	ク	I-LOC
+・	記号	一般	*	*	*	*	・	・	・	O
+豊島	名詞	固有名詞	地域	一般	*	*	豊島	トシマ	トシマ	B-LOC
+区	名詞	接尾	地域	*	*	*	区	ク	ク	I-LOC
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+6	名詞	数	*	*	*	*	*	O
+箇所	名詞	接尾	助数詞	*	*	*	箇所	カショ	カショ	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+エレベーター	名詞	一般	*	*	*	*	エレベーター	エレベーター	エレベーター	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+停止	名詞	サ変接続	*	*	*	*	停止	テイシ	テイシ	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+人	名詞	接尾	一般	*	*	*	人	ジン	ジン	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+閉じ込め	動詞	自立	*	*	一段	未然形	閉じ込める	トジコメ	トジコメ	O
+られ	動詞	接尾	*	*	一段	連用形	られる	ラレ	ラレ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+いる	動詞	非自立	*	*	一段	基本形	いる	イル	イル	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+情報	名詞	一般	*	*	*	*	情報	ジョウホウ	ジョーホー	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+足立	名詞	固有名詞	地域	一般	*	*	足立	アダチ	アダチ	B-LOC
+区	名詞	接尾	地域	*	*	*	区	ク	ク	I-LOC
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+熱湯	名詞	一般	*	*	*	*	熱湯	ネットウ	ネットー	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+かかり	動詞	自立	*	*	五段・ラ行	連用形	かかる	カカリ	カカリ	O
+やけど	名詞	一般	*	*	*	*	やけど	ヤケド	ヤケド	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+という	助詞	格助詞	連語	*	*	*	という	トイウ	トユウ	O
+通報	名詞	サ変接続	*	*	*	*	通報	ツウホウ	ツーホー	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+あっ	動詞	自立	*	*	五段・ラ行	連用タ接続	ある	アッ	アッ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+情報	名詞	一般	*	*	*	*	情報	ジョウホウ	ジョーホー	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+目黒	名詞	固有名詞	地域	一般	*	*	目黒	メグロ	メグロ	B-LOC
+区	名詞	接尾	地域	*	*	*	区	ク	ク	I-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+民家	名詞	一般	*	*	*	*	民家	ミンカ	ミンカ	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+火災	名詞	一般	*	*	*	*	火災	カサイ	カサイ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+発生	名詞	サ変接続	*	*	*	*	発生	ハッセイ	ハッセイ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+けが人	名詞	一般	*	*	*	*	けが人	ケガニン	ケガニン	O
+なし	形容詞	自立	*	*	形容詞・アウオ段	文語基本形	ない	ナシ	ナシ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+江戸川	名詞	固有名詞	地域	一般	*	*	江戸川	エドガワ	エドガワ	B-LOC
+区	名詞	接尾	地域	*	*	*	区	ク	ク	I-LOC
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+鉄塔	名詞	一般	*	*	*	*	鉄塔	テットウ	テットー	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+倒れ	動詞	自立	*	*	一段	連用形	倒れる	タオレ	タオレ	O
+高圧線	名詞	一般	*	*	*	*	高圧線	コウアツセン	コーアツセン	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+落下	名詞	サ変接続	*	*	*	*	落下	ラッカ	ラッカ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+隣家	名詞	一般	*	*	*	*	隣家	リンカ	リンカ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+屋根	名詞	一般	*	*	*	*	屋根	ヤネ	ヤネ	O
+など	助詞	副助詞	*	*	*	*	など	ナド	ナド	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+焦げ	動詞	自立	*	*	一段	連用形	焦げる	コゲ	コゲ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+が	助詞	接続助詞	*	*	*	*	が	ガ	ガ	O
+けが人	名詞	一般	*	*	*	*	けが人	ケガニン	ケガニン	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+なし	形容詞	自立	*	*	形容詞・アウオ段	文語基本形	ない	ナシ	ナシ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+江東	名詞	固有名詞	地域	一般	*	*	江東	コウトウ	コートー	B-LOC
+区	名詞	接尾	地域	*	*	*	区	ク	ク	I-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+立体	名詞	一般	*	*	*	*	立体	リッタイ	リッタイ	O
+駐車	名詞	サ変接続	*	*	*	*	駐車	チュウシャ	チューシャ	O
+場	名詞	接尾	一般	*	*	*	場	ジョウ	ジョー	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+2	名詞	数	*	*	*	*	*	O
+階	名詞	接尾	助数詞	*	*	*	階	カイ	カイ	O
+から	助詞	格助詞	一般	*	*	*	から	カラ	カラ	O
+乗用車	名詞	一般	*	*	*	*	乗用車	ジョウヨウシャ	ジョーヨーシャ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+地上	名詞	一般	*	*	*	*	地上	チジョウ	チジョー	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+落ち	動詞	自立	*	*	一段	連用形	落ちる	オチ	オチ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+けが人	名詞	一般	*	*	*	*	けが人	ケガニン	ケガニン	O
+なし	形容詞	自立	*	*	形容詞・アウオ段	文語基本形	ない	ナシ	ナシ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+毎日新聞	名詞	固有名詞	組織	*	*	*	毎日新聞	マイニチシンブン	マイニチシンブン	B-ORG
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+よる	動詞	自立	*	*	五段・ラ行	基本形	よる	ヨル	ヨル	O
+と	助詞	接続助詞	*	*	*	*	と	ト	ト	O
+、	記号	読点	*	*	*	*	、	、	、	O
+23	名詞	数	*	*	*	*	*	B-DAT
+日	名詞	接尾	助数詞	*	*	*	日	ニチ	ニチ	I-DAT
+21	名詞	数	*	*	*	*	*	B-TIM
+時	名詞	接尾	助数詞	*	*	*	時	ジ	ジ	I-TIM
+2	名詞	数	*	*	*	*	*	I-TIM
+分	名詞	接尾	助数詞	*	*	*	分	フン	フン	I-TIM
+現在	名詞	副詞可能	*	*	*	*	現在	ゲンザイ	ゲンザイ	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+東京	名詞	固有名詞	地域	一般	*	*	東京	トウキョウ	トーキョー	B-LOC
+・	記号	一般	*	*	*	*	・	・	・	O
+埼玉	名詞	固有名詞	地域	一般	*	*	埼玉	サイタマ	サイタマ	B-LOC
+・	記号	一般	*	*	*	*	・	・	・	O
+千葉	名詞	固有名詞	地域	一般	*	*	千葉	チバ	チバ	B-LOC
+・	記号	一般	*	*	*	*	・	・	・	O
+神奈川	名詞	固有名詞	地域	一般	*	*	神奈川	カナガワ	カナガワ	B-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+4	名詞	数	*	*	*	*	*	O
+都県	名詞	一般	*	*	*	*	都県	トケン	トケン	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+計	接頭詞	数接続	*	*	*	*	計	ケイ	ケイ	O
+29	名詞	数	*	*	*	*	*	O
+人	名詞	接尾	助数詞	*	*	*	人	ニン	ニン	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+重軽傷	名詞	一般	*	*	*	*	重軽傷	ジュウケイショウ	ジューケイショー	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+負っ	動詞	自立	*	*	五段・ワ行促音便	連用タ接続	負う	オッ	オッ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+22	名詞	数	*	*	*	*	*	B-DAT
+日	名詞	接尾	助数詞	*	*	*	日	ニチ	ニチ	I-DAT
+英語	名詞	一般	*	*	*	*	英語	エイゴ	エイゴ	O
+版	名詞	接尾	一般	*	*	*	版	バン	バン	O
+ウィキニュース	名詞	一般	*	*	*	*	*	B-ORG
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+よる	動詞	自立	*	*	五段・ラ行	基本形	よる	ヨル	ヨル	O
+と	助詞	接続助詞	*	*	*	*	と	ト	ト	O
+、	記号	読点	*	*	*	*	、	、	、	O
+
+イギリス	名詞	固有名詞	地域	国	*	*	イギリス	イギリス	イギリス	B-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+ロンドン	名詞	固有名詞	地域	一般	*	*	ロンドン	ロンドン	ロンドン	B-LOC
+首都	名詞	一般	*	*	*	*	首都	シュト	シュト	O
+警察	名詞	一般	*	*	*	*	警察	ケイサツ	ケイサツ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+南	名詞	一般	*	*	*	*	南	ミナミ	ミナミ	B-LOC
+ロンドン	名詞	固有名詞	地域	一般	*	*	ロンドン	ロンドン	ロンドン	I-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+ストックウェル	名詞	一般	*	*	*	*	*	B-LOC
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+ある	動詞	自立	*	*	五段・ラ行	基本形	ある	アル	アル	O
+住宅	名詞	一般	*	*	*	*	住宅	ジュウタク	ジュータク	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+容疑	名詞	一般	*	*	*	*	容疑	ヨウギ	ヨーギ	O
+者	名詞	接尾	一般	*	*	*	者	シャ	シャ	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+逮捕	名詞	サ変接続	*	*	*	*	逮捕	タイホ	タイホ	O
+しよ	動詞	自立	*	*	サ変・スル	未然ウ接続	する	シヨ	シヨ	O
+う	助動詞	*	*	*	不変化型	基本形	う	ウ	ウ	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+発表	名詞	サ変接続	*	*	*	*	発表	ハッピョウ	ハッピョー	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+「	記号	括弧開	*	*	*	*	「	「	「	O
+これ	名詞	代名詞	一般	*	*	*	これ	コレ	コレ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+21	名詞	数	*	*	*	*	*	B-DAT
+日	名詞	接尾	助数詞	*	*	*	日	ニチ	ニチ	I-DAT
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+爆破	名詞	サ変接続	*	*	*	*	爆破	バクハ	バクハ	O
+事件	名詞	一般	*	*	*	*	事件	ジケン	ジケン	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+捜査	名詞	サ変接続	*	*	*	*	捜査	ソウサ	ソーサ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+一環	名詞	一般	*	*	*	*	一環	イッカン	イッカン	O
+で	助動詞	*	*	*	特殊・ダ	連用形	だ	デ	デ	O
+ある	助動詞	*	*	*	五段・ラ行アル	基本形	ある	アル	アル	O
+」	記号	括弧閉	*	*	*	*	」	」	」	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+語っ	動詞	自立	*	*	五段・ラ行	連用タ接続	語る	カタッ	カタッ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+爆発	名詞	サ変接続	*	*	*	*	爆発	バクハツ	バクハツ	O
+現場	名詞	一般	*	*	*	*	現場	ゲンバ	ゲンバ	O
+付近	名詞	一般	*	*	*	*	付近	フキン	フキン	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+監視	名詞	サ変接続	*	*	*	*	監視	カンシ	カンシ	O
+カメラ	名詞	一般	*	*	*	*	カメラ	カメラ	カメラ	O
+網	名詞	接尾	一般	*	*	*	網	モウ	モー	O
+（	記号	括弧開	*	*	*	*	（	（	（	O
+CCTV	名詞	固有名詞	組織	*	*	*	*	B-ART
+)	名詞	サ変接続	*	*	*	*	*	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+カメラ	名詞	一般	*	*	*	*	カメラ	カメラ	カメラ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+捉え	動詞	自立	*	*	一段	連用形	捉える	トラエ	トラエ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+男性	名詞	一般	*	*	*	*	男性	ダンセイ	ダンセイ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+写真	名詞	一般	*	*	*	*	写真	シャシン	シャシン	O
+4	名詞	数	*	*	*	*	*	O
+枚	名詞	接尾	助数詞	*	*	*	枚	マイ	マイ	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+、	記号	読点	*	*	*	*	、	、	、	O
+この	連体詞	*	*	*	*	*	この	コノ	コノ	O
+容疑	名詞	一般	*	*	*	*	容疑	ヨウギ	ヨーギ	O
+者	名詞	接尾	一般	*	*	*	者	シャ	シャ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+同	接頭詞	名詞接続	*	*	*	*	同	ドウ	ドー	O
+一人物	名詞	一般	*	*	*	*	一人物	イチジンブツ	イチジンブツ	O
+か	助詞	副助詞／並立助詞／終助詞	*	*	*	*	か	カ	カ	O
+どう	副詞	助詞類接続	*	*	*	*	どう	ドウ	ドー	O
+か	助詞	副助詞／並立助詞／終助詞	*	*	*	*	か	カ	カ	O
+について	助詞	格助詞	連語	*	*	*	について	ニツイテ	ニツイテ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+当局	名詞	一般	*	*	*	*	当局	トウキョク	トーキョク	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+コメント	名詞	サ変接続	*	*	*	*	コメント	コメント	コメント	O
+し	動詞	自立	*	*	サ変・スル	未然形	する	シ	シ	O
+ない	助動詞	*	*	*	特殊・ナイ	基本形	ない	ナイ	ナイ	O
+意向	名詞	一般	*	*	*	*	意向	イコウ	イコー	O
+で	助動詞	*	*	*	特殊・ダ	連用形	だ	デ	デ	O
+ある	助動詞	*	*	*	五段・ラ行アル	基本形	ある	アル	アル	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+また	接続詞	*	*	*	*	*	また	マタ	マタ	O
+同日	名詞	副詞可能	*	*	*	*	同日	ドウジツ	ドージツ	O
+現地	名詞	一般	*	*	*	*	現地	ゲンチ	ゲンチ	O
+時間	名詞	副詞可能	*	*	*	*	時間	ジカン	ジカン	O
+午後	名詞	副詞可能	*	*	*	*	午後	ゴゴ	ゴゴ	B-TIM
+6	名詞	数	*	*	*	*	*	I-TIM
+時	名詞	接尾	助数詞	*	*	*	時	ジ	ジ	I-TIM
+すぎ	名詞	接尾	副詞可能	*	*	*	すぎ	スギ	スギ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+バーミンガム	名詞	固有名詞	地域	一般	*	*	バーミンガム	バーミンガム	バーミンガム	B-LOC
+市	名詞	接尾	地域	*	*	*	市	シ	シ	I-LOC
+中心	名詞	一般	*	*	*	*	中心	チュウシン	チューシン	O
+部	名詞	接尾	一般	*	*	*	部	ブ	ブ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+鉄道	名詞	一般	*	*	*	*	鉄道	テツドウ	テツドー	O
+駅	名詞	接尾	地域	*	*	*	駅	エキ	エキ	O
+スノウ・ヒル	名詞	固有名詞	地域	一般	*	*	*	B-LOC
+駅	名詞	接尾	地域	*	*	*	駅	エキ	エキ	I-LOC
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+テロ	名詞	一般	*	*	*	*	テロ	テロ	テロ	B-ART
+法	名詞	接尾	一般	*	*	*	法	ホウ	ホー	I-ART
+44	名詞	数	*	*	*	*	*	I-ART
+項	名詞	接尾	助数詞	*	*	*	項	コウ	コー	I-ART
+により	助詞	格助詞	連語	*	*	*	により	ニヨリ	ニヨリ	O
+警察	名詞	一般	*	*	*	*	警察	ケイサツ	ケイサツ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+男性	名詞	一般	*	*	*	*	男性	ダンセイ	ダンセイ	O
+1	名詞	数	*	*	*	*	*	O
+名	名詞	接尾	助数詞	*	*	*	名	メイ	メイ	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+逮捕	名詞	サ変接続	*	*	*	*	逮捕	タイホ	タイホ	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+駅	名詞	一般	*	*	*	*	駅	エキ	エキ	O
+構内	名詞	一般	*	*	*	*	構内	コウナイ	コーナイ	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+2	名詞	数	*	*	*	*	*	O
+個	名詞	接尾	助数詞	*	*	*	個	コ	コ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+疑わしい	形容詞	自立	*	*	形容詞・イ段	基本形	疑わしい	ウタガワシイ	ウタガワシイ	O
+スーツケース	名詞	一般	*	*	*	*	スーツケース	スーツケース	スーツケース	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+発見	名詞	サ変接続	*	*	*	*	発見	ハッケン	ハッケン	O
+さ	動詞	自立	*	*	サ変・スル	未然レル接続	する	サ	サ	O
+れ	動詞	接尾	*	*	一段	連用形	れる	レ	レ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+ため	名詞	非自立	副詞可能	*	*	*	ため	タメ	タメ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+駅	名詞	一般	*	*	*	*	駅	エキ	エキ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+非常	名詞	形容動詞語幹	*	*	*	*	非常	ヒジョウ	ヒジョー	O
+線	名詞	接尾	一般	*	*	*	線	セン	セン	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+張ら	動詞	自立	*	*	五段・ラ行	未然形	張る	ハラ	ハラ	O
+れ	動詞	接尾	*	*	一段	連用形	れる	レ	レ	O
+人	名詞	接尾	一般	*	*	*	人	ジン	ジン	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+退避	名詞	サ変接続	*	*	*	*	退避	タイヒ	タイヒ	O
+さ	動詞	自立	*	*	サ変・スル	未然レル接続	する	サ	サ	O
+せ	動詞	接尾	*	*	一段	未然形	せる	セ	セ	O
+られ	動詞	接尾	*	*	一段	連用形	られる	ラレ	ラレ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+い	動詞	非自立	*	*	一段	連用形	いる	イ	イ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+スーツケース	名詞	一般	*	*	*	*	スーツケース	スーツケース	スーツケース	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+調査	名詞	サ変接続	*	*	*	*	調査	チョウサ	チョーサ	O
+さ	動詞	自立	*	*	サ変・スル	未然レル接続	する	サ	サ	O
+れ	動詞	接尾	*	*	一段	連用形	れる	レ	レ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+爆発	名詞	サ変接続	*	*	*	*	爆発	バクハツ	バクハツ	O
+物	名詞	接尾	一般	*	*	*	物	ブツ	ブツ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+入っ	動詞	自立	*	*	五段・ラ行	連用タ接続	入る	ハイッ	ハイッ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+い	動詞	非自立	*	*	一段	未然形	いる	イ	イ	O
+なかっ	助動詞	*	*	*	特殊・ナイ	連用タ接続	ない	ナカッ	ナカッ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+こと	名詞	非自立	一般	*	*	*	こと	コト	コト	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+判明	名詞	サ変接続	*	*	*	*	判明	ハンメイ	ハンメイ	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+逮捕	名詞	サ変接続	*	*	*	*	逮捕	タイホ	タイホ	O
+さ	動詞	自立	*	*	サ変・スル	未然レル接続	する	サ	サ	O
+れ	動詞	接尾	*	*	一段	連用形	れる	レ	レ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+男性	名詞	一般	*	*	*	*	男性	ダンセイ	ダンセイ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+不	接頭詞	名詞接続	*	*	*	*	不	フ	フ	O
+起訴	名詞	サ変接続	*	*	*	*	起訴	キソ	キソ	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+なる	動詞	自立	*	*	五段・ラ行	基本形	なる	ナル	ナル	O
+だろ	助動詞	*	*	*	特殊・ダ	未然形	だ	ダロ	ダロ	O
+う	助動詞	*	*	*	不変化型	基本形	う	ウ	ウ	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+BBC	名詞	一般	*	*	*	*	*	B-ORG
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+報道	名詞	サ変接続	*	*	*	*	報道	ホウドウ	ホードー	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+スノウ・ヒル	名詞	固有名詞	地域	一般	*	*	*	B-LOC
+駅	名詞	接尾	地域	*	*	*	駅	エキ	エキ	I-LOC
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+現時	名詞	一般	*	*	*	*	現時	ゲンジ	ゲンジ	O
+時間	名詞	副詞可能	*	*	*	*	時間	ジカン	ジカン	O
+午後	名詞	副詞可能	*	*	*	*	午後	ゴゴ	ゴゴ	B-TIM
+8	名詞	数	*	*	*	*	*	I-TIM
+時	名詞	接尾	助数詞	*	*	*	時	ジ	ジ	I-TIM
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+再び	副詞	助詞類接続	*	*	*	*	再び	フタタビ	フタタビ	O
+開放	名詞	サ変接続	*	*	*	*	開放	カイホウ	カイホー	O
+さ	動詞	自立	*	*	サ変・スル	未然レル接続	する	サ	サ	O
+れ	動詞	接尾	*	*	一段	連用形	れる	レ	レ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+レバノン	名詞	固有名詞	地域	国	*	*	レバノン	レバノン	レバノン	B-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+位置	名詞	サ変接続	*	*	*	*	位置	イチ	イチ	O
+
+23	名詞	数	*	*	*	*	*	B-DAT
+日	名詞	接尾	助数詞	*	*	*	日	ニチ	ニチ	I-DAT
+、	記号	読点	*	*	*	*	、	、	、	O
+レバノン	名詞	固有名詞	地域	国	*	*	レバノン	レバノン	レバノン	B-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+首都	名詞	一般	*	*	*	*	首都	シュト	シュト	O
+ベイルート	名詞	固有名詞	地域	一般	*	*	ベイルート	ベイルート	ベイルート	B-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+レストラン	名詞	一般	*	*	*	*	レストラン	レストラン	レストラン	O
+街	名詞	接尾	一般	*	*	*	街	ガイ	ガイ	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+爆発	名詞	サ変接続	*	*	*	*	爆発	バクハツ	バクハツ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+あり	動詞	自立	*	*	五段・ラ行	連用形	ある	アリ	アリ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+少なくとも	副詞	一般	*	*	*	*	少なくとも	スクナクトモ	スクナクトモ	O
+12	名詞	数	*	*	*	*	*	O
+人	名詞	接尾	助数詞	*	*	*	人	ニン	ニン	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+負傷	名詞	サ変接続	*	*	*	*	負傷	フショウ	フショー	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+22	名詞	数	*	*	*	*	*	B-DAT
+日	名詞	接尾	助数詞	*	*	*	日	ニチ	ニチ	I-DAT
+より	助詞	格助詞	一般	*	*	*	より	ヨリ	ヨリ	O
+ベイ	名詞	一般	*	*	*	*	ベイ	ベイ	ベイ	B-LOC
+ルート	名詞	一般	*	*	*	*	ルート	ルート	ルート	I-LOC
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+訪問	名詞	サ変接続	*	*	*	*	訪問	ホウモン	ホーモン	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+い	動詞	非自立	*	*	一段	連用形	いる	イ	イ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+ライス	名詞	一般	*	*	*	*	ライス	ライス	ライス	B-PSN
+米	名詞	接尾	一般	*	*	*	米	マイ	マイ	B-LOC
+国務	名詞	一般	*	*	*	*	国務	コクム	コクム	O
+長官	名詞	一般	*	*	*	*	長官	チョウカン	チョーカン	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+出国	名詞	サ変接続	*	*	*	*	出国	シュッコク	シュッコク	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+から	助詞	格助詞	一般	*	*	*	から	カラ	カラ	O
+2	名詞	数	*	*	*	*	*	B-TIM
+時間	名詞	接尾	助数詞	*	*	*	時間	ジカン	ジカン	I-TIM
+後	名詞	接尾	副詞可能	*	*	*	後	ゴ	ゴ	I-TIM
+だっ	助動詞	*	*	*	特殊・ダ	連用タ接続	だ	ダッ	ダッ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+22	名詞	数	*	*	*	*	*	B-DAT
+日	名詞	接尾	助数詞	*	*	*	日	ニチ	ニチ	I-DAT
+、	記号	読点	*	*	*	*	、	、	、	O
+イスラエル	名詞	固有名詞	地域	国	*	*	イスラエル	イスラエル	イスラエル	B-LOC
+より	助詞	格助詞	一般	*	*	*	より	ヨリ	ヨリ	O
+専用	名詞	サ変接続	*	*	*	*	専用	センヨウ	センヨー	O
+機	名詞	接尾	一般	*	*	*	機	キ	キ	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+レバノン	名詞	固有名詞	地域	国	*	*	レバノン	レバノン	レバノン	B-LOC
+入り	名詞	接尾	サ変接続	*	*	*	入り	イリ	イリ	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+ライス	名詞	一般	*	*	*	*	ライス	ライス	ライス	B-PSN
+長官	名詞	一般	*	*	*	*	長官	チョウカン	チョーカン	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+電撃	名詞	一般	*	*	*	*	電撃	デンゲキ	デンゲキ	O
+訪問	名詞	サ変接続	*	*	*	*	訪問	ホウモン	ホーモン	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+今年	名詞	副詞可能	*	*	*	*	今年	コトシ	コトシ	B-DAT
+始まっ	動詞	自立	*	*	五段・ラ行	連用タ接続	始まる	ハジマッ	ハジマッ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+シリア	名詞	固有名詞	地域	国	*	*	シリア	シリア	シリア	B-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+レバノン	名詞	固有名詞	地域	国	*	*	レバノン	レバノン	レバノン	B-LOC
+撤兵	名詞	サ変接続	*	*	*	*	撤兵	テッペイ	テッペイ	O
+と	助詞	並立助詞	*	*	*	*	と	ト	ト	O
+レバノン	名詞	固有名詞	地域	国	*	*	レバノン	レバノン	レバノン	B-LOC
+新	接頭詞	名詞接続	*	*	*	*	新	シン	シン	O
+政権	名詞	一般	*	*	*	*	政権	セイケン	セイケン	O
+へ	助詞	格助詞	一般	*	*	*	へ	ヘ	エ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+支援	名詞	サ変接続	*	*	*	*	支援	シエン	シエン	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+確実	名詞	形容動詞語幹	*	*	*	*	確実	カクジツ	カクジツ	O
+な	助動詞	*	*	*	特殊・ダ	体言接続	だ	ナ	ナ	O
+もの	名詞	非自立	一般	*	*	*	もの	モノ	モノ	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+する	動詞	自立	*	*	サ変・スル	基本形	する	スル	スル	O
+目的	名詞	一般	*	*	*	*	目的	モクテキ	モクテキ	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+行わ	動詞	自立	*	*	五段・ワ行促音便	未然形	行う	オコナワ	オコナワ	O
+れ	動詞	接尾	*	*	一段	連用形	れる	レ	レ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+爆発	名詞	サ変接続	*	*	*	*	爆発	バクハツ	バクハツ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+午後	名詞	副詞可能	*	*	*	*	午後	ゴゴ	ゴゴ	B-TIM
+10	名詞	数	*	*	*	*	*	I-TIM
+時	名詞	接尾	助数詞	*	*	*	時	ジ	ジ	I-TIM
+頃	名詞	接尾	副詞可能	*	*	*	頃	ゴロ	ゴロ	O
+レストラン	名詞	一般	*	*	*	*	レストラン	レストラン	レストラン	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+前	名詞	副詞可能	*	*	*	*	前	マエ	マエ	O
+で	助詞	格助詞	一般	*	*	*	で	デ	デ	O
+起こり	動詞	自立	*	*	五段・ラ行	連用形	起こる	オコリ	オコリ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+3	名詞	数	*	*	*	*	*	O
+台	名詞	接尾	助数詞	*	*	*	台	ダイ	ダイ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+乗用車	名詞	一般	*	*	*	*	乗用車	ジョウヨウシャ	ジョーヨーシャ	O
+を	助詞	格助詞	一般	*	*	*	を	ヲ	ヲ	O
+破壊	名詞	サ変接続	*	*	*	*	破壊	ハカイ	ハカイ	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+治安	名詞	一般	*	*	*	*	治安	チアン	チアン	O
+当局	名詞	一般	*	*	*	*	当局	トウキョク	トーキョク	O
+者	名詞	接尾	一般	*	*	*	者	シャ	シャ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+AP	名詞	固有名詞	組織	*	*	*	*	B-ORG
+通信	名詞	サ変接続	*	*	*	*	通信	ツウシン	ツーシン	I-ORG
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+語っ	動詞	自立	*	*	五段・ラ行	連用タ接続	語る	カタッ	カタッ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+爆弾	名詞	一般	*	*	*	*	爆弾	バクダン	バクダン	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+路上	名詞	一般	*	*	*	*	路上	ロジョウ	ロジョー	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+駐車	名詞	サ変接続	*	*	*	*	駐車	チュウシャ	チューシャ	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+乗用車	名詞	一般	*	*	*	*	乗用車	ジョウヨウシャ	ジョーヨーシャ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+下	名詞	一般	*	*	*	*	下	シタ	シタ	O
+または	接続詞	*	*	*	*	*	または	マタハ	マタワ	O
+中	名詞	一般	*	*	*	*	中	ナカ	ナカ	O
+に	助詞	格助詞	一般	*	*	*	に	ニ	ニ	O
+仕掛け	動詞	自立	*	*	一段	未然形	仕掛ける	シカケ	シカケ	O
+られ	動詞	接尾	*	*	一段	連用形	られる	ラレ	ラレ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+推測	名詞	サ変接続	*	*	*	*	推測	スイソク	スイソク	O
+さ	動詞	自立	*	*	サ変・スル	未然レル接続	する	サ	サ	O
+れ	動詞	接尾	*	*	一段	連用形	れる	レ	レ	O
+て	助詞	接続助詞	*	*	*	*	て	テ	テ	O
+いる	動詞	非自立	*	*	一段	基本形	いる	イル	イル	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+場所	名詞	一般	*	*	*	*	場所	バショ	バショ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+東	名詞	一般	*	*	*	*	東	ヒガシ	ヒガシ	B-LOC
+ベイルート	名詞	固有名詞	地域	一般	*	*	ベイルート	ベイルート	ベイルート	I-LOC
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+キリスト教徒	名詞	一般	*	*	*	*	キリスト教徒	キリストキョウト	キリストキョート	O
+居住	名詞	サ変接続	*	*	*	*	居住	キョジュウ	キョジュー	O
+地区	名詞	一般	*	*	*	*	地区	チク	チク	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+境界	名詞	一般	*	*	*	*	境界	キョウカイ	キョーカイ	O
+部	名詞	接尾	一般	*	*	*	部	ブ	ブ	O
+にあたる	助詞	格助詞	連語	*	*	*	にあたる	ニアタル	ニアタル	O
+私立	名詞	一般	*	*	*	*	私立	シリツ	シリツ	B-ORG
+・	記号	一般	*	*	*	*	・	・	・	I-ORG
+聖	名詞	固有名詞	人名	姓	*	*	聖	ヒジリ	ヒジリ	I-ORG
+ヨハネ	名詞	固有名詞	人名	名	*	*	ヨハネ	ヨハネ	ヨハネ	I-ORG
+大学	名詞	一般	*	*	*	*	大学	ダイガク	ダイガク	I-ORG
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+付近	名詞	一般	*	*	*	*	付近	フキン	フキン	O
+で	助動詞	*	*	*	特殊・ダ	連用形	だ	デ	デ	O
+ある	助動詞	*	*	*	五段・ラ行アル	基本形	ある	アル	アル	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+地元	名詞	一般	*	*	*	*	地元	ジモト	ジモト	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+LBC	名詞	一般	*	*	*	*	*	B-ORG
+テレビ	名詞	一般	*	*	*	*	テレビ	テレビ	テレビ	I-ORG
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+当初	名詞	副詞可能	*	*	*	*	当初	トウショ	トーショ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+主	名詞	形容動詞語幹	*	*	*	*	主	オモ	オモ	O
+に	助詞	副詞化	*	*	*	*	に	ニ	ニ	O
+飛散	名詞	サ変接続	*	*	*	*	飛散	ヒサン	ヒサン	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+ガラス	名詞	一般	*	*	*	*	ガラス	ガラス	ガラス	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+破片	名詞	一般	*	*	*	*	破片	ハヘン	ハヘン	O
+により	助詞	格助詞	連語	*	*	*	により	ニヨリ	ニヨリ	O
+6	名詞	数	*	*	*	*	*	O
+名	名詞	接尾	助数詞	*	*	*	名	メイ	メイ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+負傷	名詞	サ変接続	*	*	*	*	負傷	フショウ	フショー	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+乗用車	名詞	一般	*	*	*	*	乗用車	ジョウヨウシャ	ジョーヨーシャ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+所有	名詞	サ変接続	*	*	*	*	所有	ショユウ	ショユー	O
+者	名詞	接尾	一般	*	*	*	者	シャ	シャ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+地元	名詞	一般	*	*	*	*	地元	ジモト	ジモト	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+住民	名詞	一般	*	*	*	*	住民	ジュウミン	ジューミン	O
+ヨセフ・ナディム	名詞	一般	*	*	*	*	*	B-PSN
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+報じ	動詞	自立	*	*	一段	連用形	報じる	ホウジ	ホージ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
+
+LBC	名詞	一般	*	*	*	*	*	B-ORG
+テレビ	名詞	一般	*	*	*	*	テレビ	テレビ	テレビ	I-ORG
+により	助詞	格助詞	連語	*	*	*	により	ニヨリ	ニヨリ	O
+報道	名詞	サ変接続	*	*	*	*	報道	ホウドウ	ホードー	O
+さ	動詞	自立	*	*	サ変・スル	未然レル接続	する	サ	サ	O
+れ	動詞	接尾	*	*	一段	連用形	れる	レ	レ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+負傷	名詞	サ変接続	*	*	*	*	負傷	フショウ	フショー	O
+者	名詞	接尾	一般	*	*	*	者	シャ	シャ	O
+の	助詞	連体化	*	*	*	*	の	ノ	ノ	O
+数	名詞	一般	*	*	*	*	数	カズ	カズ	O
+は	助詞	係助詞	*	*	*	*	は	ハ	ワ	O
+その後	名詞	副詞可能	*	*	*	*	その後	ソノゴ	ソノゴ	O
+増え	動詞	自立	*	*	一段	連用形	増える	フエ	フエ	O
+、	記号	読点	*	*	*	*	、	、	、	O
+少なくとも	副詞	一般	*	*	*	*	少なくとも	スクナクトモ	スクナクトモ	O
+12	名詞	数	*	*	*	*	*	O
+名	名詞	接尾	助数詞	*	*	*	名	メイ	メイ	O
+が	助詞	格助詞	一般	*	*	*	が	ガ	ガ	O
+負傷	名詞	サ変接続	*	*	*	*	負傷	フショウ	フショー	O
+し	動詞	自立	*	*	サ変・スル	連用形	する	シ	シ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+と	助詞	格助詞	引用	*	*	*	と	ト	ト	O
+報道	名詞	サ変接続	*	*	*	*	報道	ホウドウ	ホードー	O
+さ	動詞	自立	*	*	サ変・スル	未然レル接続	する	サ	サ	O
+れ	動詞	接尾	*	*	一段	連用形	れる	レ	レ	O
+た	助動詞	*	*	*	特殊・タ	基本形	た	タ	タ	O
+。	記号	句点	*	*	*	*	。	。	。	O
