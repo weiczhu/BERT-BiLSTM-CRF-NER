@@ -1,6 +1,6 @@
-# Python version of the evaluation script from CoNLL'00-
-# Originates from: https://github.com/spyysalo/conlleval.py
+#!/usr/bin/env python
 
+# Python version of the evaluation script from CoNLL'00-
 
 # Intentional differences:
 # - accept any space as delimiter by default
@@ -9,21 +9,17 @@
 # - LaTeX output (-l argument) not supported
 # - raw tags (-r argument) not supported
 
-# add function :evaluate(predicted_label, ori_label): which will not read from file
-
 import sys
 import re
-import codecs
+
 from collections import defaultdict, namedtuple
 
 ANY_SPACE = '<SPACE>'
-
 
 class FormatError(Exception):
     pass
 
 Metrics = namedtuple('Metrics', 'tp fp fn prec rec fscore')
-
 
 class EvalCounts(object):
     def __init__(self):
@@ -37,7 +33,6 @@ class EvalCounts(object):
         self.t_correct_chunk = defaultdict(int)
         self.t_found_correct = defaultdict(int)
         self.t_found_guessed = defaultdict(int)
-
 
 def parse_args(argv):
     import argparse
@@ -55,18 +50,16 @@ def parse_args(argv):
     arg('file', nargs='?', default=None)
     return parser.parse_args(argv)
 
-
 def parse_tag(t):
     m = re.match(r'^([^-]*)-(.*)$', t)
     return m.groups() if m else (t, '')
-
 
 def evaluate(iterable, options=None):
     if options is None:
         options = parse_args([])    # use defaults
 
     counts = EvalCounts()
-    num_features = 3       # number of features per line
+    num_features = None       # number of features per line
     in_correct = False        # currently processed chunks is correct until now
     last_correct = 'O'        # previous chunk tag in corpus
     last_correct_type = ''    # type of previously identified chunk tag
@@ -142,12 +135,9 @@ def evaluate(iterable, options=None):
 
     return counts
 
-
-
 def uniq(iterable):
   seen = set()
   return [i for i in iterable if not (i in seen or seen.add(i))]
-
 
 def calculate_metrics(correct, guessed, total):
     tp, fp, fn = correct, guessed-correct, total-correct
@@ -156,19 +146,17 @@ def calculate_metrics(correct, guessed, total):
     f = 0 if p + r == 0 else 2 * p * r / (p + r)
     return Metrics(tp, fp, fn, p, r, f)
 
-
 def metrics(counts):
     c = counts
     overall = calculate_metrics(
         c.correct_chunk, c.found_guessed, c.found_correct
     )
     by_type = {}
-    for t in uniq(list(c.t_found_correct) + list(c.t_found_guessed)):
+    for t in uniq(c.t_found_correct.keys() + c.t_found_guessed.keys()):
         by_type[t] = calculate_metrics(
             c.t_correct_chunk[t], c.t_found_guessed[t], c.t_found_correct[t]
         )
     return overall, by_type
-
 
 def report(counts, out=None):
     if out is None:
@@ -195,41 +183,6 @@ def report(counts, out=None):
         out.write('recall: %6.2f%%; ' % (100.*m.rec))
         out.write('FB1: %6.2f  %d\n' % (100.*m.fscore, c.t_found_guessed[i]))
 
-
-def report_notprint(counts, out=None):
-    if out is None:
-        out = sys.stdout
-
-    overall, by_type = metrics(counts)
-
-    c = counts
-    final_report = []
-    line = []
-    line.append('processed %d tokens with %d phrases; ' %
-              (c.token_counter, c.found_correct))
-    line.append('found: %d phrases; correct: %d.\n' %
-              (c.found_guessed, c.correct_chunk))
-    final_report.append("".join(line))
-
-    if c.token_counter > 0:
-        line = []
-        line.append('accuracy: %6.2f%%; ' %
-                  (100.*c.correct_tags/c.token_counter))
-        line.append('precision: %6.2f%%; ' % (100.*overall.prec))
-        line.append('recall: %6.2f%%; ' % (100.*overall.rec))
-        line.append('FB1: %6.2f\n' % (100.*overall.fscore))
-        final_report.append("".join(line))
-
-    for i, m in sorted(by_type.items()):
-        line = []
-        line.append('%17s: ' % i)
-        line.append('precision: %6.2f%%; ' % (100.*m.prec))
-        line.append('recall: %6.2f%%; ' % (100.*m.rec))
-        line.append('FB1: %6.2f  %d\n' % (100.*m.fscore, c.t_found_guessed[i]))
-        final_report.append("".join(line))
-    return final_report
-
-
 def end_of_chunk(prev_tag, tag, prev_type, type_):
     # check if a chunk ended between the previous and current word
     # arguments: previous and current chunk tags, previous and current types
@@ -254,7 +207,6 @@ def end_of_chunk(prev_tag, tag, prev_type, type_):
 
     return chunk_end
 
-
 def start_of_chunk(prev_tag, tag, prev_type, type_):
     # check if a chunk started between the previous and current word
     # arguments: previous and current chunk tags, previous and current types
@@ -278,13 +230,6 @@ def start_of_chunk(prev_tag, tag, prev_type, type_):
     if tag == ']': chunk_start = True
 
     return chunk_start
-
-
-def return_report(input_file):
-    with codecs.open(input_file, "r", "utf8") as f:
-        counts = evaluate(f)
-    return report_notprint(counts)
-
 
 def main(argv):
     args = parse_args(argv[1:])

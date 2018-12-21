@@ -744,6 +744,7 @@ def main(_):
         with codecs.open(FLAGS.data_config_path, 'a', encoding='utf-8') as fd:
             json.dump(data_config, fd)
 
+    # start test
     if FLAGS.do_predict:
         token_path = os.path.join(FLAGS.output_dir, "token_test.txt")
         if os.path.exists(token_path):
@@ -753,14 +754,14 @@ def main(_):
             label2id = pickle.load(rf)
             id2label = {value: key for key, value in label2id.items()}
 
-        predict_examples = processor.get_test_examples(FLAGS.data_dir)
+        test_examples = processor.get_test_examples(FLAGS.data_dir)
         predict_file = os.path.join(FLAGS.output_dir, "predict.tf_record")
-        filed_based_convert_examples_to_features(predict_examples, label_list,
+        filed_based_convert_examples_to_features(test_examples, label_list,
                                                  FLAGS.max_seq_length, tokenizer,
                                                  predict_file, mode="test")
 
         tf.logging.info("***** Running prediction*****")
-        tf.logging.info("  Num examples = %d", len(predict_examples))
+        tf.logging.info("  Num examples = %d", len(test_examples))
         tf.logging.info("  Batch size = %d", FLAGS.predict_batch_size)
         if FLAGS.use_tpu:
             # Warning: According to tpu_estimator.py Prediction on TPU is an
@@ -774,7 +775,7 @@ def main(_):
             drop_remainder=predict_drop_remainder)
 
         predicted_result = estimator.evaluate(input_fn=predict_input_fn)
-        output_eval_file = os.path.join(FLAGS.output_dir, "predicted_results.txt")
+        output_eval_file = os.path.join(FLAGS.output_dir, "test_results.txt")
         with codecs.open(output_eval_file, "w", encoding='utf-8') as writer:
             tf.logging.info("***** Predict results *****")
             for key in sorted(predicted_result.keys()):
@@ -782,57 +783,46 @@ def main(_):
                 writer.write("%s = %s\n" % (key, str(predicted_result[key])))
 
         result = estimator.predict(input_fn=predict_input_fn)
-        output_predict_file = os.path.join(FLAGS.output_dir, "label_test.txt")
+        output_predict_file = os.path.join(FLAGS.output_dir, "predicted_results.txt")
 
-        def result_to_pair(writer):
-            for predict_line, prediction in zip(predict_examples, result):
-                idx = 0
-                line = ''
-                line_token = str(predict_line.text).split(' ')
-                label_token = str(predict_line.label).split(' ')
-                if len(line_token) != len(label_token):
-                    tf.logging.info(predict_line.text)
-                    tf.logging.info(predict_line.label)
-                for id in prediction:
-                    if id == 0:
-                        continue
-                    curr_labels = id2label[id]
-                    if curr_labels in ['[CLS]', '[SEP]']:
-                        continue
-                    # 不知道为什么，这里会出现idx out of range 的错误。。。do not know why here cache list out of range exception!
-                    try:
-                        line += line_token[idx] + ' ' + label_token[idx] + ' ' + curr_labels + '\n'
-                    except Exception as e:
-                        tf.logging.info(e)
-                        tf.logging.info(predict_line.text)
-                        tf.logging.info(predict_line.label)
-                        line = ''
-                        break
-                    idx += 1
-                writer.write(line + '\n')
+        with open(output_predict_file, 'w') as writer:
+            for prediction in result:
+                output_line = "\n".join(id2label[id] for id in prediction if id != 0) + "\n"
+                writer.write(output_line)
 
-        with codecs.open(output_predict_file, 'w', encoding='utf-8') as writer:
-            result_to_pair(writer)
-        from conlleval import return_report
-        eval_result = return_report(output_predict_file)
-        print(eval_result)
-
-
-def load_data():
-    processer = NerProcessor()
-    processer.get_labels(FLAGS.data_dir)
-    example = processer.get_train_examples(FLAGS.data_dir)
-    print()
+        # def result_to_pair(writer):
+        #     for test_line, prediction in zip(test_examples, result):
+        #         idx = 0
+        #         line = ''
+        #         line_token = str(test_line.text).split(' ')
+        #         label_token = str(test_line.label).split(' ')
+        #         if len(line_token) != len(label_token):
+        #             tf.logging.info(test_line.text)
+        #             tf.logging.info(test_line.label)
+        #         for id in prediction:
+        #             if id == 0:
+        #                 continue
+        #             curr_labels = id2label[id]
+        #             if curr_labels in ['[CLS]', '[SEP]']:
+        #                 continue
+        #             # 不知道为什么，这里会出现idx out of range 的错误。。。do not know why here cache list out of range exception!
+        #             try:
+        #                 line += line_token[idx] + ' ' + label_token[idx] + ' ' + curr_labels + '\n'
+        #             except Exception as e:
+        #                 tf.logging.info(e)
+        #                 tf.logging.info(test_line.text)
+        #                 tf.logging.info(test_line.label)
+        #                 line = ''
+        #                 break
+        #             idx += 1
+        #         writer.write(line + '\n')
+        #
+        # with codecs.open(output_predict_file, 'w', encoding='utf-8') as writer:
+        #     result_to_pair(writer)
+        # from conlleval.py import return_report
+        # eval_result = return_report(output_predict_file)
+        # print(eval_result)
 
 
 if __name__ == "__main__":
-    #     flags.mark_flag_as_required("data_dir")
-    #     flags.mark_flag_as_required("task_name")
-    #     flags.mark_flag_as_required("vocab_file")
-    #     flags.mark_flag_as_required("bert_config_file")
-    #     flags.mark_flag_as_required("output_dir")
-    # flags.FLAGS.set_default('do_train', False)
-    # flags.FLAGS.set_default('do_eval', False)
-    # flags.FLAGS.set_default('do_predict', True)
     tf.app.run()
-    # load_data()
